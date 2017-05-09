@@ -261,7 +261,7 @@
     "startpage.public.beta.description": "PS: This application is currently in beta, which means that all the functionality is not finished. Therefore we would really appreciate your feedback on {link}.",
     "startpage.private.welcome.title": "Welcome to VIBBIO Express, {name}",
     "startpage.private.order.button": "Order a video",
-    "startpage.private.information": "...or maybe you want some more information first",
+    "startpage.private.information": "Here's a step-by-step video for inspiration:",
     "startpage.private.get.started.video.id": "209586730",
     "startpage.private.get.started.video.description": "The Spiff team are proud of their culture, and decided to order a video from Vibbio Express to showcase it With Vibbio Express, you can gather your own content, and be your own creative director",
     "description.title": "Hey {name}! Let's make a video!",
