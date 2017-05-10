@@ -148,8 +148,8 @@
       "But make sure to check our <a href=\"https://vibbioexpress.com/faq\" class=\"vibbio-express-link\">FAQ</a> section also, as you may find your answer there even quicker."
     ],
     "support.page.contact.information.email": "Email: <a href=\"mailto:help@vibbio.com\" class=\"vibbio-express-link\">help@vibbio.com</a>",
-    "support.page.contact.information.phonenumber": "Phone: ",
-    "support.page.contact.openinghours": "(Opening hours: 09-17 Mon to Fri)",
+    "support.page.contact.information.phonenumber": " ",
+    "support.page.contact.openinghours": " ",
     "support.page.contactform.label.textfield": "What do you need help with?",
     "support.page.contactform.label.phone": "Phone",
     "support.page.contactform.label.email": "Email*",
