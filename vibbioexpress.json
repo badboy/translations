@@ -292,7 +292,7 @@
     "fileuploading.uploaded.files.videos.description": "<p><b>Use the description boxes next to each clip to specify how you want us to use it, including:</b></p><p> - Time stamps for which specific parts of the clip you want us to use (if not the entire clip)</p><p> - What text you want us to add onto the clip.</p><p> - If the clip contains speech, we need the full transcription of the spoken content.</p><p> - Number your clips according to the order you want them in your video (Ex. 'Clip 1').</p> ",
     "fileuploading.uploaded.files.videos.interview.description": "Does this clip contain speech?",
     "fileuploading.uploaded.files.video.interview.label": "Add transcript here",
-    "fileuploading.uploaded.files.description.header": "Text and details about your image",
+    "fileuploading.uploaded.files.description.header": "Add text and details here",
     "fileuploading.uploaded.files.description.header.added": "Text and details that will be added to your video",
     "fileuploading.uploaded.files.interview.header": "Interview transcript for your interview",
     "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview that will be added to your video",
