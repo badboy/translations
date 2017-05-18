@@ -276,6 +276,7 @@
     "drafts.back.button.text": "Return to homepage",
     "drafts.draft.continue.editing": "Edit this draft",
     "drafts.draft.last.modified": "Last modified: {date} ",
+    "drafts.draft.progress": "Current progress: {progress}",
 
 
     "description.title": "Let's make a video!",
