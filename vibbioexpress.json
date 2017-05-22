@@ -282,7 +282,8 @@
     "drafts.draft.continue.editing": "Edit this draft",
     "drafts.draft.last.modified": "Last modified: {date} ",
     "drafts.draft.progress": "Current progress: {progress}",
-    "drafts.no.available.drafts": "You have no available drafts",
+    "drafts.no.available.drafts.title": "Your drafts",
+    "drafts.no.available.drafts.description": "You have no available drafts",
     "drafts.no.drafts.back.button.text": "Return to homepage",
 
 
