@@ -260,16 +260,41 @@
     "startpage.public.about.vibbio.link": "I want to learn more first",
     "startpage.public.beta.description": "PS: This application is currently in beta, which means that all the functionality is not finished. Therefore we would really appreciate your feedback on {link}.",
     "startpage.private.welcome.title": "Welcome to VIBBIO Express, {name}",
-    "startpage.private.order.button": "Order a video",
+    "startpage.private.order.button": "Order a new video",
     "startpage.private.information": "Here's a step-by-step guide for inspiration:",
     "startpage.private.get.started.video.id": "209586730",
     "startpage.private.get.started.video.description": "The Spiff team are proud of their culture, and decided to order a video from Vibbio Express to showcase it With Vibbio Express, you can gather your own content, and be your own creative director",
+    "startpage.private.get.drafts": "Or click here to continue on a draft from earlier",
+
+
+    "startpage.disabled.title": "Welcome back, {company}",
+    "startpage.disabled.description": "Your package has expired. Please contact us at {email} to restart your package.",
+    "startpage.disabled.order.video.button": "Order a single video",
+
+
+    "startpage.package.user.SINGEL": " ",
+    "startpage.package.user.MULTI": "You have a package of {totalOrders} videos. You have currently used {ordersUsed} videos, and have {ordersLeft} videos left to use within {endDate}. ",
+    "startpage.package.user.PARTNER": "You have a package of {totalOrders} videos. You have currently used {ordersUsed} videos, and have {ordersLeft} videos left to create within {endDate}. Your plan will automatically renew.",
+
+
+    "drafts.title": "Your drafts",
+    "drafts.back.button.text": "Return to homepage",
+    "drafts.draft.continue.editing": "Edit this draft",
+    "drafts.draft.last.modified": "Last modified: {date} ",
+    "drafts.draft.progress": "Current progress: {progress}",
+    "drafts.no.available.drafts.title": "Your drafts",
+    "drafts.no.available.drafts.description": "You have no available drafts",
+    "drafts.no.drafts.back.button.text": "Return to homepage",
+
+
     "description.title": "Let's make a video!",
     "description.about.description": "<p>First, tell us about your idea. We want to make sure you get exactly the video you want, so don’t skimp on the details. </p>",
     "description.about.video.description": "What kind of video are we making?",
     "description.example.description": "I work for a software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as on Facebook and Instagram.",
     "description.example.title": "Example:",
     "description.button.text": "Next: Visual profile",
+    "description.add.description.error.message": "You have to add a description about your idea!",
+
 
     "designprofile.title": "Enter details about your company's design profile",
     "design.profile.upload.logo.label": "Upload your company's logo",
@@ -278,6 +303,7 @@
     "designprofile.next.button.text": "Next: Upload files",
     "designprofile.back.button.text": "Back: Description",
     "designprofile.description.example.placeholder": "Company color codes: #00894c...",
+
 
     "fileuploading.uploader.title": "What files do you want us to use?",
     "fileuploading.uploader.browse.box": "Drag and drop files here, or{browse}for files to upload.",
@@ -303,10 +329,39 @@
     "styles.about.music": "We will add music to fit the style of your video.",
     "styles.back.button.text": "Back: Upload files",
     "styles.next.button.text": "Next: Summary",
+    "styles.style.name.1": "energetic",
+    "styles.style.description.1": "Fast-paced & extra engaging.",
+    "styles.style.description.energetic": "Fast-paced & extra engaging.",
+    "styles.style.name.2": "corporate",
+    "styles.style.description.2": "Traditional, clean & streamlined.",
+    "styles.style.description.corporate": "Traditional, clean & streamlined.",
+    "styles.style.name.3": "creative",
+    "styles.style.description.3": "Unusual, different & eclectic.",
+    "styles.style.description.creative": "Unusual, different & eclectic.",
+    "styles.style.name.4": "dramatic",
+    "styles.style.description.4": "Contemplative, respectful & epic.",
+    "styles.style.description.dramatic": "Contemplative, respectful & epic.",
+    "styles.style.name.5": "relaxed",
+    "styles.style.description.5": "Toned down, lower tempo & ambient.",
+    "styles.style.description.relaxed": "Toned down, lower tempo & ambient.",
+    "styles.style.name.6": "clean",
+    "styles.style.description.6": "Simple, neutral & spacious.",
+    "styles.style.description.clean": "Simple, neutral & spacious.",
+    "styles.style.name.7": "trendy",
+    "styles.style.description.7": "Fun, up beat & with a twist of humour.",
+    "styles.style.description.trendy": "Fun, up beat & with a twist of humour.",
+    "styles.style.name.8": "choose-for-me",
+    "styles.style.description.8": "We’ll choose the style that best fits your description of the video.",
+    "styles.style.description.choose-for-me": "We’ll choose the style that best fits your description of the video.",
+
+
 
     "summary.title": "Summary",
     "summary.description": "Please read through the summary below. You can correct any mistakes by clicking “Back”.",
     "summary.back.button.text": "Back: Choose style",
+
+    "summary.designprofile.view.description.title": "Your design profile",
+    "summary.designprofile.view.title": "Detailjs about your design profile",
 
     "discountcode.order.success.title": "Thank you for ordering from VIBBIO Express!",
     "discountcode.order.success.description": "An email is on it’s way to you with your order confirmation. You will receive the invoice once the video is completed. If you haven't received the order confirmation within 30 minutes, check your spam folder.",
