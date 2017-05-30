@@ -322,7 +322,7 @@
     "fileuploading.uploaded.files.description.header.added": "Text and details that will be added to your video",
     "fileuploading.uploaded.files.interview.header": "Interview transcript for your interview",
     "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview that will be added to your video",
-
+    "fileuploading.spinner.description": "Uploading files",
 
     "styles.title": "Define the style of your video",
     "styles.title.number.to.choose": " (Choose 1)",
