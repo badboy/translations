@@ -303,6 +303,7 @@
     "designprofile.next.button.text": "Next: Upload files",
     "designprofile.back.button.text": "Back: Description",
     "designprofile.description.example.placeholder": "Company color codes: #00894c...",
+    "designprofile.logo.preview.info": "Some files do not have a preview available.",
 
 
     "fileuploading.uploader.title": "What files do you want us to use?",
