@@ -279,7 +279,7 @@
 
     "drafts.title": "Your drafts",
     "drafts.back.button.text": "Return to homepage",
-    "drafts.draft.continue.editing": "Edit this draft",
+    "drafts.draft.continue.editing": "Edit",
     "drafts.draft.delete": "Delete draft",
     "drafts.draft.last.modified": "Last modified: {date} ",
     "drafts.draft.progress": "Current progress: {progress}",
