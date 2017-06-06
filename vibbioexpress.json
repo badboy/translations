@@ -279,7 +279,8 @@
 
     "drafts.title": "Your drafts",
     "drafts.back.button.text": "Return to homepage",
-    "drafts.draft.continue.editing": "Edit this draft",
+    "drafts.draft.continue.editing": "Edit",
+    "drafts.draft.delete": "Delete draft",
     "drafts.draft.last.modified": "Last modified: {date} ",
     "drafts.draft.progress": "Current progress: {progress}",
     "drafts.no.available.drafts.title": "Your drafts",
@@ -324,6 +325,7 @@
     "fileuploading.uploaded.files.interview.header": "Interview transcript for your interview",
     "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview that will be added to your video",
     "fileuploading.spinner.description": "Uploading files",
+    "fileuploading.save.failed": "Failed to save",
 
     "styles.title": "Define the style of your video",
     "styles.title.number.to.choose": " (Choose 1)",
