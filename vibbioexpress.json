@@ -402,7 +402,10 @@
     
     "discount.code.order.total.GENERAL": "Problem finding  total sum.",
     "discount.code.delivery.time.GENERAL": "Problem finding expected delivery time.",
-    "discount.code.payment.GENERAL": "Problem finding information about payment."
+    "discount.code.payment.GENERAL": "Problem finding information about payment.",
 
+    
+    "express.no.page.found": "Could not find the page you are looking for",
+    "express.no.page.return.home": "Return to frontpage"
   }
 }
