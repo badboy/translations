@@ -407,6 +407,6 @@
     
     "express.no.page.found": "Could not find the page you are looking for",
     "express.no.page.return.home": "Return to frontpage",
-    "breadcrumb.prefix.text": "Back to "
+    "breadcrumb.prefix.text": "You are here: "
   }
 }
