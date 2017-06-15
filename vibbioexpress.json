@@ -326,6 +326,8 @@
     "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview that will be added to your video",
     "fileuploading.spinner.description": "Uploading files",
     "fileuploading.save.failed": "Failed to save",
+    "fileuploading.preview.not.available": "We are currently processing your file",
+    "fileuploading.preview.try.again": "Please wait and try again."
 
     "styles.title": "Define the style of your video",
     "styles.title.number.to.choose": " (Choose 1)",
