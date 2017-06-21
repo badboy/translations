@@ -409,6 +409,16 @@
     
     "express.no.page.found": "Could not find the page you are looking for",
     "express.no.page.return.home": "Return to frontpage",
-    "breadcrumb.prefix.text": "You are here: "
+    "breadcrumb.prefix.text": "You are here: ",
+
+    "userinfo.button.neworder.text": "Order a new video",
+    "userinfo.button.drafts.text": "See your drafts",
+    "userinfo.button.finishedvideos.text": "See your finished videos",
+    "userinfo.partner.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left this month. Expires {expires}.",
+    "userinfo.partner.novideosleft.text": "You have {videosLeft} videos left this month.",
+    "userinfo.partner.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>",
+    "userinfo.multi.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left in your package.",
+    "userinfo.multi.novideosleft.text": "You have {videosLeft} videos left.",
+    "userinfo.multi.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>"
   }
 }
