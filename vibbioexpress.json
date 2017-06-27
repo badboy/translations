@@ -419,6 +419,12 @@
     "userinfo.partner.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>",
     "userinfo.multi.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left in your package.",
     "userinfo.multi.novideosleft.text": "You have {videosLeft} videos left.",
-    "userinfo.multi.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>"
+    "userinfo.multi.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>",
+    "userinfo.usertype.name.SINGLE": "Free",
+    "userinfo.usertype.name.MULTI": "Video pack",
+    "userinfo.usertype.name.PARTNER": "Partner",
+    "userinfo.usertype.image.SINGLE": "https://storage.googleapis.com/vibbbioexpress-resources/offer-single.png",
+    "userinfo.usertype.image.MULTI": "https://storage.googleapis.com/vibbbioexpress-resources/offer-multi.png",
+    "userinfo.usertype.image.PARTNER": "https://storage.googleapis.com/vibbbioexpress-resources/offer-partner.png"
   }
 }
