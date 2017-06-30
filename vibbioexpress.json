@@ -425,6 +425,20 @@
     "userinfo.usertype.name.PARTNER": "Partner",
     "userinfo.usertype.image.SINGLE": "https://storage.googleapis.com/vibbbioexpress-resources/offer-single.png",
     "userinfo.usertype.image.MULTI": "https://storage.googleapis.com/vibbbioexpress-resources/offer-multi.png",
-    "userinfo.usertype.image.PARTNER": "https://storage.googleapis.com/vibbbioexpress-resources/offer-partner.png"
+    "userinfo.usertype.image.PARTNER": "https://storage.googleapis.com/vibbbioexpress-resources/offer-partner.png",
+    
+    "profile.billing.form.label.name": "Name",
+    "profile.billing.form.label.organizationnumber": "Organization number",
+    "profile.billing.form.label.contact": "Contact",
+    "profile.billing.form.label.email": "Billing e-mail",
+    "profile.billing.form.label.reference": "Invoice reference",
+    "profile.billing.form.label.language": "Language",
+    "profile.billing.form.label.currency": "Currency",
+    "profile.billing.form.label.address.streetaddress": "Street address",
+    "profile.billing.form.label.address.zipcode": "Zip code",
+    "profile.billing.form.label.address.area": "Area",
+    "profile.billing.form.label.address.country": "Country",
+    "profile.billing.form.label.phone": "Phone number",
+    "profile.billing.form.label.comment": "Comment"
   }
 }
