@@ -426,6 +426,7 @@
     "userinfo.usertype.image.SINGLE": "https://storage.googleapis.com/vibbbioexpress-resources/offer-single.png",
     "userinfo.usertype.image.MULTI": "https://storage.googleapis.com/vibbbioexpress-resources/offer-multi.png",
     "userinfo.usertype.image.PARTNER": "https://storage.googleapis.com/vibbbioexpress-resources/offer-partner.png",
+    "userinfo.usertype.require.billing.info.header": "To switch to {userType} you need to provide us with your billing information.",
     
     "profile.billing.form.label.name": "Name",
     "profile.billing.form.label.organizationnumber": "Organization number",
@@ -442,6 +443,7 @@
     "profile.billing.form.label.comment": "Comment",
     "profile.billing.form.submit.success.header": "Billing information updated",
     "profile.billing.form.submit.success.body": "Your billing information has been updated and will be used starting with your next invoice.",
-    "profile.billing.form.submit.button": "Submit"
+    "profile.billing.form.submit.button": "Submit",
+    "profile.billing.form.default.header": "Billing information"
   }
 }
