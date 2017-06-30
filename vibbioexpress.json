@@ -439,6 +439,9 @@
     "profile.billing.form.label.address.area": "Area",
     "profile.billing.form.label.address.country": "Country",
     "profile.billing.form.label.phone": "Phone number",
-    "profile.billing.form.label.comment": "Comment"
+    "profile.billing.form.label.comment": "Comment",
+    "profile.billing.form.submit.success.header": "Billing information updated",
+    "profile.billing.form.submit.success.body": "Your billing information has been updated and will be used starting with your next invoice.",
+    "profile.billing.form.submit.button": "Submit"
   }
 }
