@@ -427,6 +427,10 @@
     "userinfo.usertype.image.MULTI": "https://storage.googleapis.com/vibbbioexpress-resources/offer-multi.png",
     "userinfo.usertype.image.PARTNER": "https://storage.googleapis.com/vibbbioexpress-resources/offer-partner.png",
     "userinfo.usertype.require.billing.info.header": "To switch to {userType} you need to provide us with your billing information.",
+    "userinfo.usertype.change.success.header": "Successfully changed subscription",
+    "userinfo.usertype.change.success.message.SINGLE": "You have now changed to a free subscription. You will no longer be billed a monthly premium, and loose your access to the Vibbio Express library. The effect will take place within 24 hours.",
+    "userinfo.usertype.change.success.message.MULTI": "You have now changed to a paid one time package. The package will be billed once, and you will gain access to the Vibbio Express library. The effect will take place within 24 hours.",
+    "userinfo.usertype.change.success.message.PARTNER": "Thank you for choosing to become a Vibbio Express partner. You will be billed a monthly premium for your subscription, and gain access to the Vibbio Express library. The effect will take place within 24 hours.",
     
     "profile.billing.form.label.name": "Name",
     "profile.billing.form.label.organizationnumber": "Organization number",
