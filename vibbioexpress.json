@@ -448,6 +448,13 @@
     "profile.billing.form.submit.success.header": "Billing information updated",
     "profile.billing.form.submit.success.body": "Your billing information has been updated and will be used starting with your next invoice.",
     "profile.billing.form.submit.button": "Submit",
-    "profile.billing.form.default.header": "Billing information"
+    "profile.billing.form.default.header": "Billing information",
+    
+    
+    "landingpage.vibbio.header": "Welcome to VIBBIO",
+    "landingpage.vibbio.description": "What would you like to do?",
+    "landingpage.get.inspired.header": "Get inspired",
+    "landingpage.order.video.header": "Create a video",
+    "landingpage.link.read.more": "Read more..."
   }
 }
