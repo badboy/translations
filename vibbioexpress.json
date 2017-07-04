@@ -496,6 +496,7 @@
     "profile.billing.form.submit.success.body": "Your billing information has been updated and will be used starting with your next invoice.",
     "profile.billing.form.submit.button": "Submit",
     "profile.billing.form.default.header": "Billing information",
+    "profile.billing.info.header": "Enter your company's billing information",
     
     
     "landingpage.vibbio.header": "Welcome to VIBBIO",
