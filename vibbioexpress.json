@@ -413,6 +413,7 @@
 
     "userinfo.button.neworder.text": "Order a new video",
     "userinfo.button.drafts.text": "See your drafts",
+    "userinfo.button.library.text": "My Library",
     "userinfo.button.finishedvideos.text": "See your finished videos",
     "userinfo.partner.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left this month. Expires {expires}.",
     "userinfo.partner.novideosleft.text": "You have {videosLeft} videos left this month.",
