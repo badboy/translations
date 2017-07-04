@@ -432,6 +432,46 @@
     "userinfo.usertype.change.success.message.SINGLE": "You have now changed to a free subscription. You will no longer be billed a monthly premium, and loose your access to the Vibbio Express library. The effect will take place within 24 hours.",
     "userinfo.usertype.change.success.message.MULTI": "You have now changed to a paid one time package. The package will be billed once, and you will gain access to the Vibbio Express library. The effect will take place within 24 hours.",
     "userinfo.usertype.change.success.message.PARTNER": "Thank you for choosing to become a Vibbio Express partner. You will be billed a monthly premium for your subscription, and gain access to the Vibbio Express library. The effect will take place within 24 hours.",
+
+    "user.type.table.header.1": "Videos tailored to corpate identity",
+    "user.type.table.header.2": "User library/storage",
+    "user.type.table.header.3": "VIDEOS included per month",
+    "user.type.table.header.4": "Prioritized delivery (Normally 2 days)",
+    "user.type.table.header.5": "Contact person in VIBBIO",
+    "user.type.table.header.6": "Monthly content workshop",
+    "user.type.table.header.7": "Monthly producer day (Professional recording",
+    "user.type.table.header.8": "Extra clips from VIBBIO transferd to user library",
+    
+    "user.type.table.SINGLE.1": "true",
+    "user.type.table.SINGLE.2": "false",
+    "user.type.table.SINGLE.3": "false",
+    "user.type.table.SINGLE.4": "false",
+    "user.type.table.SINGLE.5": "false",
+    "user.type.table.SINGLE.6": "false",
+    "user.type.table.SINGLE.7": "false",
+    "user.type.table.SINGLE.8": "false",
+    
+       
+    "user.type.table.MULTI.1": "true",
+    "user.type.table.MULTI.2": "true",
+    "user.type.table.MULTI.3": "false",
+    "user.type.table.MULTI.4": "false",
+    "user.type.table.MULTI.5": "false",
+    "user.type.table.MULTI.6": "false",
+    "user.type.table.MULTI.7": "false",
+    "user.type.table.MULTI.8": "false",
+    
+        
+    "user.type.table.PARTNER.1": "true",
+    "user.type.table.PARTNER.2": "true",
+    "user.type.table.PARTNER.3": "true",
+    "user.type.table.PARTNER.4": "true",
+    "user.type.table.PARTNER.5": "true",
+    "user.type.table.PARTNER.6": "true",
+    "user.type.table.PARTNER.7": "true",
+    "user.type.table.PARTNER.8": "true",
+    
+    
     "userinfo.about.single.user": "You do not have a subscription plan.",
     "userinfo.about.not.logged.in": "You are currently not logged in.",
     "userbanner.public.signup.login": "Sign up/Log in",
