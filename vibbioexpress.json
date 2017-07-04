@@ -432,6 +432,9 @@
     "userinfo.usertype.change.success.message.MULTI": "You have now changed to a paid one time package. The package will be billed once, and you will gain access to the Vibbio Express library. The effect will take place within 24 hours.",
     "userinfo.usertype.change.success.message.PARTNER": "Thank you for choosing to become a Vibbio Express partner. You will be billed a monthly premium for your subscription, and gain access to the Vibbio Express library. The effect will take place within 24 hours.",
     "userinfo.about.single.user": "You do not currently have a plan ",
+    "userinfo.about.not.logged.in": "You are currently not logged in.",
+    "userbanner.public.signup.login": "Sign up/Log in",
+    
     
     "profile.billing.form.label.name": "Name",
     "profile.billing.form.label.organizationnumber": "Organization number",
