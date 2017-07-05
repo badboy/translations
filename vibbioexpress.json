@@ -514,6 +514,8 @@
     
     
     "library.files.file.rename": "New name",
-    "library.uploader.title": "Upload files to your library"
+    "library.uploader.title": "Upload files to your library",
+    "library.upload.files.button": "Upload new files",
+    "library.create.folder.button": "Create new folder"
   }
 }
