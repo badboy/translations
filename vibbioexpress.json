@@ -516,6 +516,11 @@
     "library.files.file.rename": "New name",
     "library.uploader.title": "Upload files to your library",
     "library.upload.files.button": "Upload new files",
-    "library.create.folder.button": "Create new folder"
+    "library.create.folder.button": "Create new folder",
+    
+    
+    "ordering.title": "",
+    "ordering.files.poster.description": "Text to be added",
+    "ordering.files.comment.description": "Comments to your file"
   }
 }
