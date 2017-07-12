@@ -415,7 +415,8 @@
     "userinfo.button.drafts.text": "See your drafts",
     "userinfo.button.library.text": "My Library",
     "userinfo.button.finishedvideos.text": "See your finished videos",
-    "userinfo.partner.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left this month. Expires {expires}.",
+    "userinfo.partner.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left this month.",
+    "userinfo.partner.timeleft.text": "Expires {expires}",
     "userinfo.partner.novideosleft.text": "You have {videosLeft} videos left this month.",
     "userinfo.partner.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>",
     "userinfo.multi.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left in your package.",
@@ -434,6 +435,8 @@
     "userinfo.usertype.change.success.message.PARTNER": "Thank you for choosing to become a Vibbio Express partner. You will be billed a monthly premium for your subscription, and gain access to the Vibbio Express library. The effect will take place within 24 hours.",
 
     "user.type.choose.plan": "Choose your payment plan",
+    "user.type.edit.button.plan": "Change subscription plan",
+    "user.type.signup.button.plan": "Signup for a subscription plan",
     
     "user.type.table.header.1": "Videos tailored to corpate identity",
     "user.type.table.header.2": "User library/storage",
