@@ -481,6 +481,11 @@
     "userinfo.about.not.logged.in": "You are currently not logged in.",
     "userbanner.public.signup.login": "Sign up/Log in",
     
+    "user.profile.info.header": "Profile Details",
+    "user.profile.info.email": "Email",
+    "user.profile.info.company": "Company",
+    "user.profile.info.subscription": "Subscription plan",
+    
     
     "profile.billing.form.label.name": "Name*",
     "profile.billing.form.label.organizationnumber": "Organization number",
