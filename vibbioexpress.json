@@ -437,6 +437,7 @@
     "user.type.choose.plan": "Choose your payment plan",
     "user.type.edit.button.plan": "Change subscription plan",
     "user.type.signup.button.plan": "Signup for a subscription plan",
+    "user.type.back.button": "Back to profile",
     
     "user.type.table.header.1": "Videos tailored to corpate identity",
     "user.type.table.header.2": "User library/storage",
@@ -467,7 +468,7 @@
     "user.type.table.MULTI.6": "false",
     "user.type.table.MULTI.7": "false",
     "user.type.table.MULTI.8": "false",
-    "user.type.table.MULTI.9": "noe annet NOK",
+    "user.type.table.MULTI.9": "en pris NOK",
         
     "user.type.table.PARTNER.1": "true",
     "user.type.table.PARTNER.2": "true",
@@ -477,8 +478,7 @@
     "user.type.table.PARTNER.6": "true",
     "user.type.table.PARTNER.7": "true",
     "user.type.table.PARTNER.8": "true",
-    "user.type.table.PARTNER.9": "noe mindre video",
-    
+    "user.type.table.PARTNER.9": "en annen pris NOK",    
     
     "userinfo.about.single.user": "You do not have a subscription plan.",
     "userinfo.about.not.logged.in": "You are currently not logged in.",
