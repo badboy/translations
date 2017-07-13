@@ -446,6 +446,7 @@
     "user.type.table.header.6": "Monthly content workshop",
     "user.type.table.header.7": "Monthly producer day (Professional recording)",
     "user.type.table.header.8": "Extra clips from VIBBIO transferd to user library",
+    "user.type.table.header.9": "Price per video",
     
     "user.type.table.SINGLE.1": "true",
     "user.type.table.SINGLE.2": "false",
@@ -455,6 +456,7 @@
     "user.type.table.SINGLE.6": "false",
     "user.type.table.SINGLE.7": "false",
     "user.type.table.SINGLE.8": "false",
+    "user.type.table.SINGLE.9": "15 000 NOK",
     
        
     "user.type.table.MULTI.1": "true",
@@ -465,7 +467,7 @@
     "user.type.table.MULTI.6": "false",
     "user.type.table.MULTI.7": "false",
     "user.type.table.MULTI.8": "false",
-    
+    "user.type.table.MULTI.9": "noe annet NOK",
         
     "user.type.table.PARTNER.1": "true",
     "user.type.table.PARTNER.2": "true",
@@ -475,6 +477,7 @@
     "user.type.table.PARTNER.6": "true",
     "user.type.table.PARTNER.7": "true",
     "user.type.table.PARTNER.8": "true",
+    "user.type.table.PARTNER.9": "noe mindre video",
     
     
     "userinfo.about.single.user": "You do not have a subscription plan.",
