@@ -554,5 +554,29 @@
     
     "ordering.additional.files.header": "Additional files",
     "ordering.additional.files.button.text": "Add more files"
+    
+    "format.title": "Choose the format of your video",
+    "format.title.number.to.choose": " (Choose 1)",
+    "format.back.button.text": "Back: Description",
+    "format.next.button.text": "Next: Length",
+    "formats.format.name.1": "16:9",
+    "formats.format.description.1": "Regular TV monitor",
+    "formats.format.name.2": "9:16",
+    "formats.format.description.2": "Vertical video for phones",
+    "formats.format.name.3": "1:1",
+    "formats.format.description.3": "Square for instagram",
+    "formats.format.name.4": "4:5",
+    "formats.format.description.4": "Dunno what this is for",
+    
+    "length.title": "Choose the length of your video",
+    "length.title.number.to.choose": " (Choose 1)",
+    "length.back.button.text": "Back: Format",
+    "length.next.button.text": "Next: File uploading",
+    "lengths.length.name.1": "15-30s",
+    "lengths.length.description.1": "Short",
+    "lengths.length.name.2": "30-45s",
+    "lengths.length.description.2": "Longer",
+    "lengths.length.name.3": "45-60s",
+    "lengths.length.description.3": "Long",
   }
 }
