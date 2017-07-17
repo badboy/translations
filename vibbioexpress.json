@@ -523,7 +523,7 @@
     "profile.billing.info.label.phone": "Phone number: ",
     "profile.billing.info.label.comment": "Comment: ",
     "profile.billing.info.button.edit": "Edit your billing information",
-    "profile.billing.info.button.enter": "Enter billing information",
+    "profile.billing.info.button.enter": "Billing information",
     "profile.billing.info.default.header": "Billing information",
     "profile.billing.info.noinfo.text": "You have not registered your billing information.",
     
