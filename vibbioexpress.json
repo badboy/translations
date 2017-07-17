@@ -293,7 +293,7 @@
     "description.about.video.description": "What kind of video are we making?",
     "description.example.description": "I work for a software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as on Facebook and Instagram.",
     "description.example.title": "Example:",
-    "description.button.text": "Next: Visual profile",
+    "description.button.text": "Next: Choose format",
     "description.add.description.error.message": "You have to add a description about your idea!",
 
 
@@ -302,7 +302,7 @@
     "design.profile.about.label": "Add your company's color profile",
     "designprofile.logo.preview.label": "Preview of your logo",
     "designprofile.next.button.text": "Next: Upload files",
-    "designprofile.back.button.text": "Back: Description",
+    "designprofile.back.button.text": "Back: Choose length",
     "designprofile.description.example.placeholder": "Company color codes: #00894c...",
     "designprofile.logo.preview.info": "Some files do not have a preview available.",
 
@@ -558,7 +558,7 @@
     "format.title": "Choose the format of your video",
     "format.title.number.to.choose": " (Choose 1)",
     "format.back.button.text": "Back: Description",
-    "format.next.button.text": "Next: Length",
+    "format.next.button.text": "Next: Choose length",
     "formats.format.name.1": "16:9",
     "formats.format.description.1": "Regular TV monitor",
     "formats.format.name.2": "9:16",
@@ -570,8 +570,8 @@
     
     "length.title": "Choose the length of your video",
     "length.title.number.to.choose": " (Choose 1)",
-    "length.back.button.text": "Back: Format",
-    "length.next.button.text": "Next: File uploading",
+    "length.back.button.text": "Back: Choose format",
+    "length.next.button.text": "Next: Visual profile",
     "lengths.length.name.1": "15-30s",
     "lengths.length.description.1": "Short",
     "lengths.length.name.2": "30-45s",
