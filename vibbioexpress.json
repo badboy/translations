@@ -553,7 +553,7 @@
     "ordering.files.add.files.button.text": "Add more files",
     
     "ordering.additional.files.header": "Additional files",
-    "ordering.additional.files.button.text": "Add more files"
+    "ordering.additional.files.button.text": "Add more files",
     
     "format.title": "Choose the format of your video",
     "format.title.number.to.choose": " (Choose 1)",
@@ -577,6 +577,6 @@
     "lengths.length.name.2": "30-45s",
     "lengths.length.description.2": "Longer",
     "lengths.length.name.3": "45-60s",
-    "lengths.length.description.3": "Long",
+    "lengths.length.description.3": "Long"
   }
 }
