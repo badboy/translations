@@ -317,6 +317,7 @@
     "fileuploading.next.button.text": "Next: Select styles",
     "fileuploading.uploaded.files.header.VIDEO": "Videos:",
     "fileuploading.uploaded.files.header.IMAGE": "Images:",
+    "fileuploading.uploaded.files.header.AUDIO": "Audio:",
     "fileuploading.uploaded.files.videos.description": "<p><b>Use the description boxes next to each clip to specify how you want us to use it, including:</b></p><p> - Time stamps for which specific parts of the clip you want us to use (if not the entire clip)</p><p> - What text you want us to add onto the clip.</p><p> - If the clip contains speech, we need the full transcription of the spoken content.</p><p> - Number your clips according to the order you want them in your video (Ex. 'Clip 1').</p> ",
     "fileuploading.uploaded.files.videos.interview.description": "Does this clip contain speech?",
     "fileuploading.uploaded.files.video.interview.label": "Add transcript here",
