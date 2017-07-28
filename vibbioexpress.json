@@ -416,6 +416,7 @@
     "userinfo.button.drafts.text": "See your drafts",
     "userinfo.button.library.text": "My Library",
     "userinfo.button.account.text": "My Account",
+    "userinfo.button.no.access.library.text": "No library access",
     "userinfo.button.finishedvideos.text": "See your finished videos",
     "userinfo.partner.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left this month.",
     "userinfo.partner.timeleft.text": "Expires {expires}",
