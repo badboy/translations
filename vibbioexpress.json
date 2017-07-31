@@ -1,5 +1,12 @@
 {
   "en": {
+    "public.header.about": "About",
+    "public.header.inspiration": "Inspiration",
+    "public.header.subscribe": "Subscribe",
+    "public.header.order.video": "Order a video",
+    "public.header.support": "Support",
+    "public.header.login": "Log in",
+    
     "ordering.next.button.text": "Continue",
     "ordering.back.button.text": "Back",
     "about.page.title": "About VIBBIO Express",
