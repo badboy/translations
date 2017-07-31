@@ -530,18 +530,28 @@
     "profile.billing.info.default.header": "Billing information",
     "profile.billing.info.noinfo.text": "You have not registered your billing information.",
     
-    "landingpage.vibbio.header": "Welcome to VIBBIO",
-    "landingpage.vibbio.description": "What would you like to do?",
+    "landingpage.vibbio.header": "VIBBIO",
+    "landingpage.vibbio.description": "Video production on-demand",
     "landingpage.get.inspired.header": "Get inspired",
     "landingpage.order.video.header": "Order a video",
-    "landingpage.link.read.more": "Read more...",
-    "landingpage.link.read.less": "Read less...",
-    "landingpage.about.get.inspired": "<ul><li>What is smart video?</li><li>Tips &amp; tricks for planning, filming and creating content</li><li>Tutorials and webinars</li><li>Examples of smart videos</li></ul>",
-    "landingpage.about.create.video": "<p>If you have your content ready:</p><p>Video clps and/or images + text to go with the visuals =</p><p>Simpy order a smart-video here, and receive in 2 days.</p>",
     "landingpage.about.vibbio.header": "About VIBBIO",
-    "landingpage.about.vibbio.about": "VIBBIO Express is a video editing service - where YOU capture & upload your content & WE edit and add the smarts - and deliver a publish-ready video within days.",
     "landingpage.become.a.user.header": "Become a user",
-    "landingpage.become.a.user.about": "Create your own user",
+    
+    "landingpage.about.product": "Products and services",
+    "landingpage.about.the.team": "The team",
+    "landingpage.about.contact.info": "Contact info",
+    "landingpage.about.the.company": "The company",
+    
+    "landingpage.get.inspired.ideas": "Video ideas",
+    "landingpage.get.inspired.smart.videos": "Smart video explained",
+    "landingpage.get.inspired.get.started": "Get started",
+    "landingpage.get.inspired.portfolio": "Portfolio",
+    "landingpage.get.inspired.blog": "Blog",
+    
+    "landingpage.become.user.pricing": "Pricing and options",
+    "landingpage.become.user.benefits": "User benefits",
+    
+    "landingpage.order.video.pricing": "Pricing and options",
     
     
     "library.files.file.rename": "New name",
