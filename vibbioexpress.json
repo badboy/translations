@@ -158,6 +158,7 @@
         ]
       }
     ],
+    "support.page.title": "VIBBIO Support",
     "support.page.contactform.title": "Contact form",
     "support.page.contactform.content": "<p>If you get confused, stuck or otherwise need some assistance - simply contact us.</p><p>But make sure to check our FAQ-section also, as you may find your answer there even quicker.</p>",
     "support.page.contact.information.email": "Email: <a href=\"mailto:help@vibbio.com\" class=\"vibbio-express-link\">help@vibbio.com</a>",
