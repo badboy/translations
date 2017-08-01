@@ -7,6 +7,11 @@
     "public.header.support": "Support",
     "public.header.login": "Log in",
     
+    "private.header.library": "Library",
+    "private.header.drafts": "Drafts",
+    "private.header.order.video": "Order video",
+    "private.header.my.account": "My Account",
+    
     
     "footer.vibbio.organization.name": "VIBBIO AS",
     "footer.vibbio.organization.number": "Org.no 916722516",
