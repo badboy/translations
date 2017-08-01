@@ -582,8 +582,7 @@
     "library.upload.files.button": "Upload new files",
     "library.create.folder.button": "Create new folder",
     
-    
-    "ordering.title": "",
+
     "ordering.files.poster.description": "Text to be added",
     "ordering.files.comment.description": "Comments to your file",
     "ordering.files.add.files.button.text": "Add more files",
