@@ -27,6 +27,8 @@
     "ordering.length.title": "Length",
     "ordering.next.button.text": "Continue",
     "ordering.back.button.text": "Back",
+    "ordering.files.time.start.description": "From",
+    "ordering.files.time.end.description": "To",
     "about.page.title": "About VIBBIO Express",
     "about.page.description": "VIBBIO Express is our self-service solution for video production – where you CAPTURE & UPLOAD your content, and we ADD THE SMARTS and deliver a publish-ready video within days.",
     "about.page.examples.title": "Here are couple of examples*:",
