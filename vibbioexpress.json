@@ -158,11 +158,8 @@
         ]
       }
     ],
-    "support.page.title": "VIBBIO Support",
-    "support.page.description.paragraphs": [
-      "If you get confused, stuck or otherwise need some assistance - simply contact us.",
-      "But make sure to check our <a href=\"https://vibbioexpress.com/faq\" class=\"vibbio-express-link\">FAQ</a> section also, as you may find your answer there even quicker."
-    ],
+    "support.page.contactform.title": "Contact form",
+    "support.page.contactform.content": "<p>If you get confused, stuck or otherwise need some assistance - simply contact us.</p><p>But make sure to check our FAQ-section also, as you may find your answer there even quicker.</p>",
     "support.page.contact.information.email": "Email: <a href=\"mailto:help@vibbio.com\" class=\"vibbio-express-link\">help@vibbio.com</a>",
     "support.page.contact.information.phonenumber": " ",
     "support.page.contact.openinghours": " ",
