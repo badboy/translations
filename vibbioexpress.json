@@ -23,6 +23,8 @@
     
     "ordering.title": "Video Order",
     "ordering.files.header": "Order form",
+    "ordering.format.title": "Format",
+    "ordering.length.title": "Length",
     "ordering.next.button.text": "Continue",
     "ordering.back.button.text": "Back",
     "about.page.title": "About VIBBIO Express",
