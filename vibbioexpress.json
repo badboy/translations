@@ -29,6 +29,7 @@
     "ordering.back.button.text": "Back",
     "ordering.files.time.start.description": "From",
     "ordering.files.time.end.description": "To",
+    "ordering.price.header": "Price estimat",
     "ordering.total.price": "Total credit cost: {price}",
     "about.page.title": "About VIBBIO Express",
     "about.page.description": "VIBBIO Express is our self-service solution for video production – where you CAPTURE & UPLOAD your content, and we ADD THE SMARTS and deliver a publish-ready video within days.",
