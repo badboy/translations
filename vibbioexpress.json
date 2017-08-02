@@ -39,7 +39,7 @@
     "ordering.summary.channel.label": "Channel: ",
     "ordering.summary.format.label": "Format: ",
     "ordering.summary.length.label": "Length: ",
-    
+    "ordering.summary.files.timestamp.from": "From: {from} - {to}",
     
     
     
