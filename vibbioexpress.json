@@ -35,6 +35,14 @@
     "ordering.price.information.regular.user": "<b>Information:</b> {price} equals to 15.000 NOK and you will receive an invoice for your order.",
     "ordering.price.too.few.credits": "You do not have enough credits to complete the order!",
     "ordering.price.credits.left": "Total credits left: {totalLeft}",
+    
+    "ordering.summary.channel.label": "Channel: ",
+    "ordering.summary.format.label": "Format: ",
+    "ordering.summary.length.label": "Length: ",
+    
+    
+    
+    
     "about.page.title": "About VIBBIO Express",
     "about.page.description": "VIBBIO Express is our self-service solution for video production – where you CAPTURE & UPLOAD your content, and we ADD THE SMARTS and deliver a publish-ready video within days.",
     "about.page.examples.title": "Here are couple of examples*:",
