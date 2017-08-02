@@ -32,6 +32,7 @@
     "ordering.price.header": "Price estimat",
     "ordering.total.price": "Total credit cost: {price}",
     "ordering.price.estimat.compute.error": "Error when computing price estimat",
+    "ordering.price.information.regular.user": "Information: {price} equals to 15.000 NOK and you will receive an invoice for your order.",
     "about.page.title": "About VIBBIO Express",
     "about.page.description": "VIBBIO Express is our self-service solution for video production – where you CAPTURE & UPLOAD your content, and we ADD THE SMARTS and deliver a publish-ready video within days.",
     "about.page.examples.title": "Here are couple of examples*:",
