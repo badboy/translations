@@ -22,9 +22,7 @@
     "footer.social.media.follow.us": "Follow us",
     
     "ordering.title": "Video Order",
-    
-    "ordering.description.title": "Description",
-    
+   
     
     "ordering.files.header": "Order form",
     "ordering.format.title": "Format",
@@ -49,147 +47,6 @@
     "ordering.summary.files.comment.header": "Comment",
     
     
-    
-    "about.page.title": "About VIBBIO Express",
-    "about.page.description": "VIBBIO Express is our self-service solution for video production – where you CAPTURE & UPLOAD your content, and we ADD THE SMARTS and deliver a publish-ready video within days.",
-    "about.page.examples.title": "Here are couple of examples*:",
-    "about.page.examples.format": "*Our videos are always tailored to fit the idea and profile of each case, so these examples are just to show a few variations of the smart video format",
-    "about.page.example.ids": ["209398687", "209399638"],
-    "about.page.smart.header": "SMART SPECIALISTS",
-    "about.page.smart.paragraphs": [
-      "Our team of producers and content specialists have lots of experience in how to create the ultimate smart videos. And this is knowledge we now implement in this new service!",
-      "Storytelling in a short format of maximum 1 minute can be challenging, but when done correctly, the reach and effect can be fantastic. Building engagement and visibility through portioning your content into short, specific episodes – collected into targeted and themed series, is a very smart video strategy – and can be added to over any suitable time period.",
-      "We specialise in tailoring our formats to fit any type of content – which includes implementing a full range of our smart tactics, including initial hook, text plaquards, suitable tempo & clip rate, and many more.",
-      "VIBBIOs smart videos are built specifically around new and proven patterns in how online audiences behave these days;",
-       "- What engages people, and makes them curious and attentive? Emotions are triggers!",
-       "- How long do they stay tuned? Our attention span has been measured to max 1 min 15 sec.",
-       "- 93% of videos seen on Facebook are watched without sound on.. So text everything!",
-       "- We scroll down a page in typically 3 seconds - so that is the time available to “hook” a viewer."
-    ],
-    "about.page.storyteller.header": "BECOME A STORYTELLER",
-    "about.page.storyteller.paragraphs": [
-      "Videos that capture the biggest audiences, are no longer very polished, or carry a salesy pitch...",
-      "Instead, a personal touch, a documentary feel, an honest and real view into the actual situation and a real life – these are all positive narratives, that help to build trustworthy brands, and a feeling of honesty, through letting people get to know the real you - the real company etc.",
-      "This means that it can actually be a real bonus to collect your own clips, by using easygoing camera tools, smartphones and such. Keeping the clips short and specific helps to create a clear message. (We have easy tips & tricks about how to get going.)",
-      "The visual clips are the “packaging” and colouring-in of smart videos. The most important element is the content; the message.",
-      "Building knowledge, through sharing something (without expecting anything back) - for example though tips & tricks - is a fun and easy way to engage your audience."
-    ],
-    "about.page.prices.header": "OUR PRICES*",
-    "about.page.prices.paragraphs": [
-      "Express delivery (2 working days): NOK 20.000,- (ex. vat)",
-      "EUR 2.200,- ",
-      "Normal delivery (5 working days): NOK 15.000,- (ex. vat)",
-      "EUR 1.600,- ",
-      "50% of the cost is paid online when confirming your video order.",
-      "The final 50% is invoiced upon delivery of finished file.",
-      "* There are limited options for making changes to your video after editing is completed, so make sure to give as specific information and descriptions as possible, to help ensure that you receive the style of video you wanted."
-    ],
-    "faq.page.title": "Frequently Asked Questions (FAQ)",
-    "faq.page.questions": [
-      {
-        "topic": "Content",
-        "questions": [
-          {
-            "question": "I want to make a video, but I don't know where to start!?",
-            "answerParagraphs": [
-              "We suggest you begin by setting a <b>topic</b> and a <b>goal</b> for your video, and work out a plan based on that. Will the video be a product explanation on your website, or do you want to use it on Facebook to drive traffic to your website? You should always tailor your content to fit your needs",
-              "After you have decided on your <b>topic</b> and <b>goal</b>, you should write out a <b>plan</b> for the video. This should include what <b>text</b> you want, and the <b>video clips/images</b> you want to go along with it. After that, it is just a matter of gathering the right clips to fit. Do you need to interview someone, or perhaps you have existing clips of your product you already want to use? It is time to gather up all of your material. ",
-              "When you have all your content ready (text and video clips/images), you should look through it all and decide the order you want it to go in. If you want us to use parts of a video clip, make sure to take notes of the <b>time stamps</b> of where it should begin and end.",
-              "Send in your content to us, and our talented video producers will work their magic, creating a short, engaging, texted and targeted video based on your needs.",
-              "If you want more tips, check out our \"<b>Tips & Tricks</b>\"-series <a href=\"https://vibbioexpress.com/tips\" class=\"vibbio-express-link\">here</a>. If you want to receive video marketing tips twice a month, you are welcome to subscribe to our newsletter (link)."
-            ]
-          },
-          {
-            "question": "I want to add music to my video. Where can I upload this?",
-            "answerParagraphs": [
-              "It is not possible to upload your own music in the Beta version of Express, but send us an email to <a href=\"mailto:express@vibbio.com\" class=\"vibbio-express-link\">express@vibbio.com</a> and we will find a solution. ",
-              " As a standard, we will always add a suitable free music track to your video."
-            ]
-          }
-        ]
-      },
-      {
-        "topic": "Delivery",
-        "questions": [
-          {
-            "question": "How long will it take until I get my finished video?",
-            "answerParagraphs": [
-              "We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame."
-            ]
-          },
-          {
-            "question": "How will you send me my video(s)?",
-            "answerParagraphs": [
-              "We will send you a link within 2 or 5 working days (depending on what you order). We will use the email address you provide when you sign up - so make sure that you have access to that address. The first version of the video we send you, will be a preview of the finished product. When we have received your payment, we will send you a new link where you can download the video in top quality. "
-            ]
-          }
-        ]
-      },
-      {
-        "topic": "Payment",
-        "questions": [
-          {
-            "question": "What payment methods do you offer?",
-            "answerParagraphs": [
-              "The payment is split in two - you pay a 50% deposit via PayPal when you order. When the video is finished, you will receive a preview of the finished product (with watermarks). When you pay the remaining 50% (via invoice), we will send you a new download-link with the video without watermarks and in top quality. "
-            ]
-          }
-        ]
-      },
-      {
-        "topic": "Cancellation",
-        "questions": [
-          {
-            "question": "Can I cancel my order?",
-            "answerParagraphs": [
-              "We work hard to guarantee that you get your video on time, and we therefore begin working on it pretty much immediately. It is therefore important that you send us an email within 2 hours if you regret your order."
-            ]
-          },
-          {
-            "question": "What happens if I don't like the video?",
-            "answerParagraphs": [
-              "If you follow our guidelines and watch our tips & tricks-videos, you should be happy with the results. We make the video based on your instructions, so try to be as clear as possible in your descriptions. If a mistake is made on our part, we will of course make any changes necessary. However if you want changes made that were not a part of your original order, we require a fee of 2000 NOK. "
-            ]
-          }
-        ]
-      },
-      {
-        "topic": "Files",
-        "questions": [
-          {
-            "question": "What file types do you accept?",
-            "answerParagraphs": [
-              "We accept these video and image file types: jpeg, jpg, png, ai, eps, photoshop, cr2, h.264, h.265, mp4, mts, m2ts, .mov. "
-            ]
-          },
-          {
-            "question": "And what about file sizes?",
-            "answerParagraphs": [
-              "The maximum file size we allow per file is <b>400mb.</b> If you want to make sure you stay below the limit, we suggest that you try to make each clip maximum one minute in length. This should ensure that the file size is within the boundaries with most file types and video qualities."
-            ]
-          }
-        ]
-      },
-      {
-        "topic": "Rights",
-        "questions": [
-          {
-            "question": "I want to upload some images I found on Google, is that OK?",
-            "answerParagraphs": [
-              "Make sure that you do not upload any images, video clips or any other content that is not your own, unless you have permission from the original copyright owner. ",
-              "You are not allowed to upload any illegal or offensive content to our websites. We will report any illegal use of our website to the authorities. "
-            ]
-          },
-          {
-            "question": "What will you do with my material once the video is finished?",
-            "answerParagraphs": [
-              "We want to maintain a constant flow of inspiration between our customers, so we may ask for your permission to share the video in our social channels. That way, your video can also reach a wider audience!",
-              "After your video is finished and you are happy with the product, we will delete the raw files. You therefore need to make sure you have backups if you wish to use that content again."
-            ]
-          }
-        ]
-      }
-    ],
     "support.page.title": "VIBBIO Support",
     "support.page.contactform.title": "Contact form",
     "support.page.contactform.content": "<p>If you get confused, stuck or otherwise need some assistance - simply contact us.</p><p>But make sure to check our FAQ-section also, as you may find your answer there even quicker.</p>",
@@ -203,65 +60,8 @@
     "support.page.contactform.contact.button": "Contact us",
     "support.page.contactform.submit.success.header": "Thanks for reaching out!",
     "support.page.contactform.submit.success.body": "Your message has successfully been sent to VIBBIO Express and we will contact you very soon!",
-    "tips.page.title": "How to get started",
-    "tips.page.videoIds": [
-      {
-        "id": "208810755",
-        "description": "Sound quality. To improve the sound quality during filming, place a second phone closer to the subject. This phone will pick up the sound a lot better, as it is closer than the one filming. Try it!"
-      },
-      {
-        "id": "208810620",
-        "description": "Framing. Composing your shot: Use the golden ration for interview setup. The wide shot. The medium shot. The close up. Now you’re ready to film your interview."
-      },
-      {
-        "id": "208810245",
-        "description": "Tips & tricks during filming. Hit the flightmode button to avoid disturbances. No more phone calls during filming. One more thing to remember: Avoid covering the microphone to get the best sound possible."
-      },
-      {
-        "id": "208809857",
-        "description": "Lighting. How is the lighting in your videos? Avoid windows in your shots! The light from the outdoors will make your subject appear darker. And you don’t want that."
-      },
-      {
-        "id": "208809544",
-        "description": "Resolution. “Sticking to your resolutions!” This is the size of a 1080p frame. Your smartphone or camera will use this as the default setting. Now, say hello to 4K UHD! You get four times the resolution, but it also takes up a lot more space. Both resolutions look great, but consider what’s more important to you.. Quality increase or saving space?"
-      },
-      {
-        "id": "208809436",
-        "description": "Movement “It’s all in the hips”. A static image can be boring. So just move your hips. There you go!"
-      },
-      {
-        "id": "208809011",
-        "description": "Depth. Setting up the perfect shot:  Try to avoid flat backdrops. Now we have depth!"
-        },
-      {
-        "id": "208808226",
-        "description": "Size. Keep your recordings short and to the point. Try to limit each clip to 30 seconds. This saves space and streamlines the editing process."
-      },
-      {
-        "id": "208807999",
-        "description": "Content tutorial Step 1: before shooting. Set a goal. What do you want to achieve with this video? Who is your target audience? Step 2: content. Stick to one topic per video. Everyone should be able to understand your message. Avoid filler words and long sentences. Stay on topic and be specific! Step 3: catch the audience. The first three seconds will make it or break it. Begin with an interesting questions or something that will catch the eye. Make your audience curious. Step 4: ending. Call to action! Provoke an immediate response. The audience should learn something and be hungry for more. Did you achieve your goal? Basics of filming. Step 1: Holding your camera correctly. Not like this… but like this! Step 2: Remember lighting. Step 3: Make sure your camera is held still. There you go! Finally, be creative! "
-      }
-    ],
-    "tips.page.description.paragraphs": [
-      "We have created some simple and easy tips & tricks here to help you get started with creating your own video content.",
-      "With small adjustments and a bit of clever planning, you can learn to become a smart video director!"
-    ],
-    "side.banner.video.ids": [
-      {
-        "id": "209082724",
-        "description": "Video is taking over. By next year, 80% of Facebook will be video. So you have to stand out. Or risk becoming invisible. Creating engaging and tailor-made content is essential to engage the audience. How? Capture. Upload. Download. Publish. You can do it. Vibbio Express. It’s video. Made Easy."
-      },
-      {
-        "id": "209586730",
-        "description": "The Spiff team are proud of their culture, and decided to order a video from Vibbio Express to showcase it With Vibbio Express, you can gather your own content, and be your own creative director"
-      },
-      {
-        "id": "208807999",
-        "description": "Step 1: Holding your camera correctly. Not like this… but like this! Step 2: Remember lighting. Step 3: Make sure your camera is held still. There you go! Finally, be creative!"
-      }
-    ],
-    "side.banner.header": "Intro & Explainers",
-    "side.banner.link": "More...",
+   
+   
     "cookies.page.title": "Privacy Policy on Cookie Usage",
     "cookies.page.paragraphs": [
       {
@@ -298,30 +98,7 @@
     ],
     "terms.and.conditions.title": "Terms and Conditions",
     "terms.and.conditions": "<h2 class=\"small-vibbio-header content-bulk\"> Terms and Conditions for the Purchase of product </h2><p><b>Acceptance</b></p><p>Please read these Terms and Conditions of product carefully before ordering or purchasing any service or product from VIBBIO AS. Your order or purchase of the service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who place an order or purchase VIBBIO AS services and products.</p><p><b>Prices and Payments</b></p><p>The purchaser(s) will pay a 50 percent down payment of total cost before production of the video starts. The first 50 percent is non-refundable when production has started. The customer will receive a beta video with watermark when the product is finished. A final product without watermark will be delivered to the customer when the remaining 50 percent of the total price is received by VIBBIO AS.</p><p><b>Changes to finished product/order</b></p><p>Purchaser may not make changes or make additions within the general 2 - 5 days of production time in or to drawings, designs, specifications, instructions for work, method of shipment or place of delivery. The purchaser may request changes to finished product for an additional fee. If no other amount is agreed upon between VIBBIO AS and purchaser, there will be an additional cost of 2000 NOK for any change or additions to delivered product that is requested by purchaser. The amount of changes or additions requested must match the additional cost of 2000 NOK or other agreed upon amount and approved by VIBBIO AS before any changes are made.</p><p><b>Warranty</b></p><p>Delivered product is created based on the customer&aposs uploaded content and text. VIBBIO AS is not responsible for missing content, text or wrongly implemented content in the uploading process caused by the customer. VIBBIO AS follows the description delivered by the customer as best we can when creating a finished product. There is no warranty to the delivered product.</p><p><b>Termination</b></p><p>The purchaser has a right to terminate the purchase within 2 hours after the order has been placed. The 50 percent of total remaining payment will be cancelled when a purchase is terminated. The 50 percent down payment is non-refundable.</p><p><b>Change</b></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms and conditions at any time. If a revision is material, we will try to provide at least 30 days notice prior to any new Terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><b>Contact Us</b></p><p>If you have any questions about these Terms, please contact us.</p><h2 class=\"small-vibbio-header content-bulk\"> Terms and conditions of Use</h2><p>Please read these Terms and Conditions of Use carefully before using the website vibbioexpress.com and the video production tools operated by VIBBIO AS. Your access to and use of the service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the VIBBIO AS Services.</p><p><b> By accessing or using the VIBBIO Express Service you agree to be bound by these Terms and conditions. If you disagree with any part of the terms and conditions, then you may not access the VIBBIO Express Service.</b></p><p><b>Purchases</b></p><p>If you wish to purchase any product or service made available through the vibbioexpress.com website you may be asked to supply certain information relevant to your purchase including, without limitation, videos, images, sound, logos and text.</p><p><b>Termination</p></b><p>We may terminate or suspend access to our service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms and Conditions.</p><p><b>Uploading Content</b></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material.You may not upload any images, designs, or other material protected by copyright without the permission of the actual copyright owner. By uploading images, designs, or other material to the vibbioexpress.com website or otherwise providing VIBBIO AS with such images, designs, or other material, the uploading party warrants and represents that: </p> <ul>It owns all of the copyright in such images, designs, or other material;<li>It has received permission from the person or entity who owns the copyright in such images, designs, or other material; or </li><li>That the images, designs, or other material are in the public domain.</li><li>The uploading party further warrants and represents that it otherwise has the full and unencumbered right to upload and/or provide such images, designs, or other material and that such uploading or providing, or any use by VIBBIO AS, will not infringe any rights or interests of others and the uploading party agrees to indemnify VIBBIO AS for all damages awarded against and all attorneys&apos fees and costs incurred by VIBBIO AS for any such infringement. By uploading images, designs or other material onto the vibbioexpress.com website, the uploading party grants VIBBIO AS the non-exclusive right and license to display, copy, publish, distribute, modify, transmit, print, and use such images, designs, or other material.</li></ul><p>It is not allowed to upload illegal or offensive content to our website. VIBBIO AS is not responsible and does not condone the use of any offensive or illegal content uploaded to vibbioexpress.com and will report any illegal activity on our website to the authorities.</p><p><b>Storing uploaded content</b></p><p>All content uploaded to the vibbioexpress.com website will only be stored for a limited time period. VIBBIO AS will not be responsible for storing/saving content when finished product is delivered.</p><p><b>Links To Other Web Sites (Paypal</b></p><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by VIBBIO AS. VIBBIO AS has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that VIBBIO AS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p><p><b>Changes</b></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions at any time. If a revision is material, we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><b>Contact Us</b></p><p>If you have any questions about these Terms and Conditions, please contact us.</p><h2 class=\"small-vibbio-header content-bulk\">Privacy Policy</h2><p>VIBBIO AS operates through ttp://www.vibbioexpress.com. This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of the site.</p><p>We use your personal information only for providing and improving the site. By using the site, you agree to the collection and use of information in accordance with this policy.</p><p><b>Information Collection and Use</b></p>While using our site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name, e-mail, phone number and company name.</p><p><b>Log Data</b></p><p>Like many site operators, we collect information that your browser sends whenever you visit our site.This log data may include information such as your computer&aposs Internet Protocol (\"IP\") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze all collected information.</p><p><b>Communications</b></p><p>We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that is crucial to the service provided by VIBBIO AS.</p><p><b>Cookies</b></p><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer&aposs hard drive. Like many sites, we use \"cookies\" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p><p><b>Security</b></p><p>The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p><p><b>Changes to This Privacy Policy</b></p><p>This Privacy Policy is effective as of 22.03.2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p> <p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p><p><b>Contact Us</b></p><p>If you have any questions about this Privacy Policy, please contact us.</p><p><b>Discount Codes</b></p><p>Customers who have a discount code may be subject to variations in payment method or delivery time.</p>",
-    "startpage.public.title": "Welcome to VIBBIO Express!",
-    "startpage.public.video.id": "216797388",
-    "startpage.public.video.text": "You've probably heard by now, video is the future of communication. So, what's holding you back? Video is too expensive you say? No time to learn editing? Well hey, no need to worry! The answer is right in front of you. Your experiences, your stories, your knowledge. Simply capture with your smartphone and we'll do the rest. Engaging, short, texted, targeted. Videos tailor-made for you. With Vibbio Express you collect the content, we edit and add the smarts! So, don't waste your money or your time. Capture, upload, download, publish. It's video. Made easy.",
-    "startpage.public.signin.button": "Log in or sign up",
-    "startpage.public.description": "VIBBIO Express is a video editing service - where YOU capture & upload your content & WE edit and add the smarts - and deliver a publish-ready video within days.",
-    "startpage.public.about.vibbio.link": "I want to learn more first",
-    "startpage.public.beta.description": "PS: This application is currently in beta, which means that all the functionality is not finished. Therefore we would really appreciate your feedback on {link}.",
-    "startpage.private.welcome.title": "Welcome to VIBBIO Express, {name}",
-    "startpage.private.order.button": "Order a new video",
-    "startpage.private.information": "Here's a step-by-step guide for inspiration:",
-    "startpage.private.get.started.video.id": "209586730",
-    "startpage.private.get.started.video.description": "The Spiff team are proud of their culture, and decided to order a video from Vibbio Express to showcase it With Vibbio Express, you can gather your own content, and be your own creative director",
-    "startpage.private.get.drafts": "Or click here to continue on a draft from earlier",
-
-
-    "startpage.disabled.title": "Welcome back, {company}",
-    "startpage.disabled.description": "Your package has expired. Please contact us at {email} to restart your package.",
-    "startpage.disabled.order.video.button": "Order a single video",
-
-
-    "startpage.package.user.SINGEL": " ",
-    "startpage.package.user.MULTI": "You have a package of {totalOrders} videos. You have currently used {ordersUsed} videos, and have {ordersLeft} videos left to use within {endDate}. ",
-    "startpage.package.user.PARTNER": "You have a package of {totalOrders} videos. You have currently used {ordersUsed} videos, and have {ordersLeft} videos left to create within {endDate}. Your plan will automatically renew.",
-
+    
 
     "drafts.title": "Your drafts",
     "drafts.back.button.text": "Return to homepage",
@@ -334,128 +111,13 @@
     "drafts.no.drafts.back.button.text": "Return to homepage",
 
 
-    "description.title": "Let's make a video!",
-    "description.about.description": "<p>First, tell us about your idea. We want to make sure you get exactly the video you want, so don’t skimp on the details. </p>",
-    "description.about.video.description": "What kind of video are we making?",
+    "description.title": "Description",
     "description.example.description": "I work for a software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as on Facebook and Instagram.",
     "description.example.title": "Example:",
-    "description.button.text": "Next: Choose format",
     "description.add.description.error.message": "You have to add a description about your idea!",
-
-
-    "designprofile.title": "Enter details about your company's design profile",
-    "design.profile.upload.logo.label": "Upload your company's logo",
-    "design.profile.about.label": "Add your company's color profile",
-    "designprofile.logo.preview.label": "Preview of your logo",
-    "designprofile.next.button.text": "Next: Upload files",
-    "designprofile.back.button.text": "Back: Choose length",
-    "designprofile.description.example.placeholder": "Company color codes: #00894c...",
-    "designprofile.logo.preview.info": "Some files do not have a preview available.",
-
-
-    "fileuploading.uploader.title": "What files do you want us to use?",
-    "fileuploading.uploader.browse.box": "Drag and drop files here, or{browse}for files to upload.",
-    "fileuploading.uploader.explanation": "<p>- Maximum 15 files</p><p>- No files over 400MB (contact us if you have bigger files)</p><p>- Filetypes: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.</p>",
-    "fileuploading.back.button.text": "Back: Visual profile",
-    "fileuploading.uploading.warning": "<h2 className=\"main-frame-title\">Warning!</h2> <p>Maximum number of files are uploaded, you will have to delete files to upload more files. </p> <p>Or you can contact us at <a href=\"mailto:help@vibbio.com\" className=\"vibbio-express-link\"> help@vibbio.com </a> and we wil find a solution to your problem.</p>",
-    "fileuploading.uploading.error.files.exceeded": "You have tried to uploaded more than the maximum number of files. Please contact us at {link} and we will help you solve this problem.",
-    "fileuploading.uploaded.files.title": "Your uploaded files:",
-    "fileuploading.next.button.text": "Next: Select styles",
-    "fileuploading.uploaded.files.header.VIDEO": "Videos:",
-    "fileuploading.uploaded.files.header.IMAGE": "Images:",
-    "fileuploading.uploaded.files.header.AUDIO": "Audio:",
-    "fileuploading.uploaded.files.videos.description": "<p><b>Use the description boxes next to each clip to specify how you want us to use it, including:</b></p><p> - Time stamps for which specific parts of the clip you want us to use (if not the entire clip)</p><p> - What text you want us to add onto the clip.</p><p> - If the clip contains speech, we need the full transcription of the spoken content.</p><p> - Number your clips according to the order you want them in your video (Ex. 'Clip 1').</p> ",
-    "fileuploading.uploaded.files.videos.interview.description": "Does this clip contain speech?",
-    "fileuploading.uploaded.files.video.interview.label": "Add transcript here",
-    "fileuploading.uploaded.files.description.header": "Add text and details here",
-    "fileuploading.uploaded.files.description.header.added": "Text and details that will be added to your video",
-    "fileuploading.uploaded.files.interview.header": "Interview transcript for your interview",
-    "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview that will be added to your video",
-    "fileuploading.spinner.description": "Uploading files",
-    "fileuploading.save.failed": "Failed to save",
-    "fileuploading.preview.not.available": "We are currently processing your file",
-    "fileuploading.preview.try.again": "Please wait and try again.",
-
-    "styles.title": "Define the style of your video",
-    "styles.title.number.to.choose": " (Choose 1)",
-    "styles.about.music": "We will add music to fit the style of your video.",
-    "styles.back.button.text": "Back: Upload files",
-    "styles.next.button.text": "Next: Summary",
-    "styles.style.name.1": "energetic",
-    "styles.style.description.1": "Fast-paced & extra engaging.",
-    "styles.style.description.energetic": "Fast-paced & extra engaging.",
-    "styles.style.name.2": "corporate",
-    "styles.style.description.2": "Traditional, clean & streamlined.",
-    "styles.style.description.corporate": "Traditional, clean & streamlined.",
-    "styles.style.name.3": "creative",
-    "styles.style.description.3": "Unusual, different & eclectic.",
-    "styles.style.description.creative": "Unusual, different & eclectic.",
-    "styles.style.name.4": "dramatic",
-    "styles.style.description.4": "Contemplative, respectful & epic.",
-    "styles.style.description.dramatic": "Contemplative, respectful & epic.",
-    "styles.style.name.5": "relaxed",
-    "styles.style.description.5": "Toned down, lower tempo & ambient.",
-    "styles.style.description.relaxed": "Toned down, lower tempo & ambient.",
-    "styles.style.name.6": "clean",
-    "styles.style.description.6": "Simple, neutral & spacious.",
-    "styles.style.description.clean": "Simple, neutral & spacious.",
-    "styles.style.name.7": "trendy",
-    "styles.style.description.7": "Fun, up beat & with a twist of humour.",
-    "styles.style.description.trendy": "Fun, up beat & with a twist of humour.",
-    "styles.style.name.8": "choose-for-me",
-    "styles.style.description.8": "We’ll choose the style that best fits your description of the video.",
-    "styles.style.description.choose-for-me": "We’ll choose the style that best fits your description of the video.",
-
-
-
-    "summary.title": "Summary",
-    "summary.description": "Please read through the summary below. You can correct any mistakes by clicking “Back”.",
-    "summary.back.button.text": "Back: Choose style",
-
-    "summary.designprofile.view.description.title": "Your design profile",
-    "summary.designprofile.view.title": "Details about your design profile",
-
-    "discountcode.order.success.title": "Thank you for ordering from VIBBIO Express!",
-    "discountcode.order.success.description": "An email is on it’s way to you with your order confirmation. You will receive the invoice once the video is completed. If you haven't received the order confirmation within 30 minutes, check your spam folder.",
-    "discountcode.order.success.contact": "Got any questions? You can reach us at {email} any time!",
-    "order.success.go.home.button": "Return to homepage",
-    "discount.label.usecode": "Do you have a discount code?",
-    "discount.button.usecode": "Apply",
-    "discount.code.applied": "Your discount code ({discountcode}) has now been applied.",
-    "discount.code.order.total.label": "<b>Order total:</b> {sum} ",
-    "discount.code.delivery.time.label": "<b>Delivery time:</b> {time}",
-    "discount.code.payment.label": "About payment: ",
-    "discount.code.order.total.HAPPYVIBBIO": "5000 NOK",
-    "discount.code.delivery.time.HAPPYVIBBIO": "5-7 working days",
-    "discount.code.payment.HAPPYVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
-    "discount.code.order.total.PROMOVIBBIO": "3000 NOK",
-    "discount.code.delivery.time.PROMOVIBBIO": "5-10 working days",
-    "discount.code.payment.PROMOVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
-    "discount.code.order.total.TESTINGVIBBIO": "2000 NOK",
-    "discount.code.delivery.time.TESTINGVIBBIO": "5-10 working days",
-    "discount.code.payment.TESTINGVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
-    "discount.code.order.total.BFFVIBBIO": "0 NOK",
-    "discount.code.delivery.time.BFFVIBBIO": "5-10 working days",
-    "discount.code.payment.BFFVIBBIO": "No payment is required",
-    
-    "discount.code.order.total.HAPPYVIBBIOSUMMER": "5000 NOK",
-    "discount.code.delivery.time.HAPPYVIBBIOSUMMER": "5-10 working days",
-    "discount.code.payment.HAPPYVIBBIOSUMMER": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
-    "discount.code.order.total.HAPPYVIBBIO2017": "5000 NOK",
-    "discount.code.delivery.time.HAPPYVIBBIO2017": "5-10 working days",
-    "discount.code.payment.HAPPYVIBBIO2017": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
-    "discount.code.order.total.HAPPYVIBBIOLAUNCH": "5000 NOK",
-    "discount.code.delivery.time.HAPPYVIBBIOLAUNCH": "5-10 working days",
-    "discount.code.payment.HAPPYVIBBIOLAUNCH": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
-    
-    
-    "discount.code.order.total.GENERAL": "Problem finding  total sum.",
-    "discount.code.delivery.time.GENERAL": "Problem finding expected delivery time.",
-    "discount.code.payment.GENERAL": "Problem finding information about payment.",
-
-    
+     
     "express.no.page.found": "Could not find the page you are looking for",
-    "express.no.page.return.home": "Return to frontpage",
+    "express.no.page.return.home": "Return to homepage",
     "breadcrumb.prefix.text": "You are here: ",
 
     "userinfo.button.neworder.text": "Order a new video",
@@ -463,81 +125,11 @@
     "userinfo.button.library.text": "My Library",
     "userinfo.button.account.text": "My Account",
     "userinfo.button.no.access.library.text": "No library access",
-    "userinfo.button.finishedvideos.text": "See your finished videos",
-    "userinfo.partner.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left this month.",
-    "userinfo.partner.timeleft.text": "Expires {expires}",
-    "userinfo.partner.novideosleft.text": "You have {videosLeft} videos left this month.",
-    "userinfo.partner.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>",
-    "userinfo.multi.videosleft.text": "You have {videosLeft} (of {videosTotal}) videos left in your package.",
-    "userinfo.multi.novideosleft.text": "You have {videosLeft} videos left.",
-    "userinfo.multi.ordermore.text": "Order more by contacting <a className=\"vibbio-express-link\" href=\"mailto:express@vibbio.com\"> express@vibbio.com</a>",
-    "userinfo.usertype.name.SINGLE": "Free (pay per video)",
-    "userinfo.usertype.name.MULTI": "Video package",
-    "userinfo.usertype.name.PARTNER": "Partner",
-    "userinfo.usertype.image.SINGLE": "https://storage.googleapis.com/vibbbioexpress-resources/offer-single.png",
-    "userinfo.usertype.image.MULTI": "https://storage.googleapis.com/vibbbioexpress-resources/offer-multi.png",
-    "userinfo.usertype.image.PARTNER": "https://storage.googleapis.com/vibbbioexpress-resources/offer-partner.png",
-    "userinfo.usertype.require.billing.info.header": "To switch to {userType} you need to provide us with your billing information.",
-    "userinfo.usertype.change.success.header": "Successfully changed subscription",
-    "userinfo.usertype.change.success.message.SINGLE": "You have now changed to a free subscription. You will no longer be billed a monthly premium, and loose your access to the Vibbio Express library. The effect will take place within 24 hours.",
-    "userinfo.usertype.change.success.message.MULTI": "You have now changed to a paid one time package. The package will be billed once, and you will gain access to the Vibbio Express library. The effect will take place within 24 hours.",
-    "userinfo.usertype.change.success.message.PARTNER": "Thank you for choosing to become a Vibbio Express partner. You will be billed a monthly premium for your subscription, and gain access to the Vibbio Express library. The effect will take place within 24 hours.",
 
-    "user.type.choose.plan": "Choose your payment plan",
-    "user.type.edit.button.plan": "Change subscription plan",
-    "user.type.signup.button.plan": "Signup for a subscription plan",
-    "user.type.back.button": "Back to profile",
-    
-    "user.type.table.header.1": "Videos tailored to corpate identity",
-    "user.type.table.header.2": "User library/storage",
-    "user.type.table.header.3": "VIDEOS included per month",
-    "user.type.table.header.4": "Prioritized delivery (Normally 2 days)",
-    "user.type.table.header.5": "Contact person in VIBBIO",
-    "user.type.table.header.6": "Monthly content workshop",
-    "user.type.table.header.7": "Monthly producer day (Professional recording)",
-    "user.type.table.header.8": "Extra clips from VIBBIO transferd to user library",
-    "user.type.table.header.9": "Price per video",
-    
-    "user.type.table.SINGLE.1": "true",
-    "user.type.table.SINGLE.2": "false",
-    "user.type.table.SINGLE.3": "false",
-    "user.type.table.SINGLE.4": "false",
-    "user.type.table.SINGLE.5": "false",
-    "user.type.table.SINGLE.6": "false",
-    "user.type.table.SINGLE.7": "false",
-    "user.type.table.SINGLE.8": "false",
-    "user.type.table.SINGLE.9": "15 000 NOK",
-    
-       
-    "user.type.table.MULTI.1": "true",
-    "user.type.table.MULTI.2": "true",
-    "user.type.table.MULTI.3": "false",
-    "user.type.table.MULTI.4": "false",
-    "user.type.table.MULTI.5": "false",
-    "user.type.table.MULTI.6": "false",
-    "user.type.table.MULTI.7": "false",
-    "user.type.table.MULTI.8": "false",
-    "user.type.table.MULTI.9": "en pris NOK",
-        
-    "user.type.table.PARTNER.1": "true",
-    "user.type.table.PARTNER.2": "true",
-    "user.type.table.PARTNER.3": "true",
-    "user.type.table.PARTNER.4": "true",
-    "user.type.table.PARTNER.5": "true",
-    "user.type.table.PARTNER.6": "true",
-    "user.type.table.PARTNER.7": "true",
-    "user.type.table.PARTNER.8": "true",
-    "user.type.table.PARTNER.9": "en annen pris NOK",    
-    
+     
     "userinfo.about.single.user": "You do not have a subscription plan.",
     "userinfo.about.not.logged.in": "You are currently not logged in.",
     "userbanner.public.signup.login": "Sign up/Log in",
-    
-    "user.profile.info.header": "Profile Details",
-    "user.profile.info.email": "Email: ",
-    "user.profile.info.company": "Company: ",
-    "user.profile.info.subscription": "Subscription plan: ",
-    
     
     "profile.billing.form.label.name": "Name*",
     "profile.billing.form.label.organizationnumber": "Organization number",
