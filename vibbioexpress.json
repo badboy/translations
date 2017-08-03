@@ -22,6 +22,10 @@
     "footer.social.media.follow.us": "Follow us",
     
     "ordering.title": "Video Order",
+    
+    "ordering.description.title": "Description",
+    
+    
     "ordering.files.header": "Order form",
     "ordering.format.title": "Format",
     "ordering.length.title": "Length",
