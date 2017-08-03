@@ -21,6 +21,16 @@
     "footer.copyright.text": "Copyright",
     "footer.social.media.follow.us": "Follow us",
     
+    "ordering.menu.title": "Order vide",
+    "ordering.menu.step.1": "1",
+    "ordering.menu.step.1.description": "Description",
+    "ordering.menu.step.2": "2",
+    "ordering.menu.step.2.description": "Deatils",
+    "ordering.menu.step.3": "3",
+    "ordering.menu.step.3.description": "Order form",
+    "ordering.menu.step.4": "4",
+    "ordering.menu.step.4.summary": "Summary",
+    
     "ordering.title": "Video Order",
    
     
