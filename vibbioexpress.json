@@ -112,6 +112,7 @@
 
 
     "description.title": "Description",
+    "description.about.description": "Please fill in a detailed description of your video, don’t skimp on the details.",
     "description.example.description": "I work for a software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as on Facebook and Instagram.",
     "description.example.title": "Example:",
     "description.add.description.error.message": "You have to add a description about your idea!",
