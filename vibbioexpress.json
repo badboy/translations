@@ -33,8 +33,9 @@
     
     "ordering.title": "Video Order",
    
+    "fileuploading.uploader.browse.box": "<u>Browse</u> or drag & drop",
     
-    "ordering.files.header": "Order form",
+    
     "ordering.format.title": "Format",
     "ordering.length.title": "Length",
     "ordering.next.button.text": "Continue",
