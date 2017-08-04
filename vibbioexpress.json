@@ -59,6 +59,14 @@
     "ordering.summary.files.comment.header": "Comment",
     "ordering.summary.order.button.text": "Confirm & order",
     
+    "orders.orders.title": "My orders",
+    "orders.order.status.CREATED": "Draft (not started)",
+    "orders.order.status.IN_PROGRESS": "Draft",
+    "orders.order.status.ORDERED": "Order completed",
+    "orders.order.status.COMPLETED": "Order finished",
+    "orders.order.details": "Details",
+    "orders.order.copy": "Copy",
+    
     
     "support.page.title": "VIBBIO Support",
     "support.page.contactform.title": "Contact form",
