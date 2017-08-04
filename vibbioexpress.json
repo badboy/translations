@@ -53,6 +53,7 @@
     "ordering.summary.format.label": "Format: ",
     "ordering.summary.length.label": "Length: ",
     "ordering.summary.files.timestamp.from": "From: {from} - {to}",
+    "ordering.summary.files.clip.order": "Order",
     "ordering.summary.files.clip.header": "Clip/Image",
     "ordering.summary.files.filetext.header": "Text",
     "ordering.summary.files.comment.header": "Comment",
