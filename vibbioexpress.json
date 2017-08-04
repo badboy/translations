@@ -33,7 +33,7 @@
     
     "ordering.title": "Video Order",
    
-    "fileuploading.uploader.browse.box": "<u>Browse</u> or drag & drop",
+    "fileuploading.uploader.browse.box": "{browse} or drag & drop",
     
     
     "ordering.format.title": "Format",
