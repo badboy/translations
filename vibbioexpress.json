@@ -66,6 +66,10 @@
     "orders.order.status.COMPLETED": "Order finished",
     "orders.order.details": "Details",
     "orders.order.copy": "Copy",
+    "orders.table.order.title": "Project name",
+    "orders.table.order.ordered": "Time ordered",
+    "orders.table.order.ordered.by": "Ordered by",
+    "orders.table.order.status": "Status",
     
     
     "support.page.title": "VIBBIO Support",
