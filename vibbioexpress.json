@@ -222,8 +222,8 @@
     
     "library.files.file.rename": "New name",
     "library.uploader.title": "Upload files to your library",
-    "library.upload.files.button": "Upload new files",
-    "library.create.folder.button": "Create new folder",
+    "library.upload.files.button": "Upload files",
+    "library.create.folder.button": "New folder",
     
 
     "ordering.files.poster.description": "Text to be added",
