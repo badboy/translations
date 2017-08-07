@@ -82,6 +82,11 @@
     "purchase.option.choose.button.text": "Select",
     "purchase.credits.confirmation.title": "Credits purchased!",
     "puchase.credits.confirmation.description": "You have successfully purchased {numberOfCredits} credits. The purchase will be added to next invoice.",
+    "purchase.credits.modal.title": "Confirm purchase",
+    "purchase.credits.modal.credits": "You are about to buy { option } credits.",
+    "purchase.credits.modal.sum": "{sum} will be added to your next invoice.",
+    "purchase.credits.modal.cancel": "Cancel",
+    "purchase.credits.modal.complete.order": "Complete purchase",
     
     
     "support.page.title": "VIBBIO Support",
