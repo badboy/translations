@@ -72,6 +72,16 @@
     "orders.table.order.ordered.by": "Ordered by",
     "orders.table.order.status": "Status",
    
+    "profile.information.subscription.credits.title": "Monthly credit status",
+    "profile.information.subscription.credits.expires": "Expires: {date}",
+    "profile.information.additional.credits.title": "Additional credits",
+    "profile.information.additional.credits.purchase": "Purchase",
+    
+    "purchase.credits.title": "Purchase credits",
+    "purchase.option.sum": "NOK: {sum} ",
+    "purchase.option.choose.button.text": "Select",
+    "purchase.credits.confirmation.title": "Credits purchased!",
+    "puchase.credits.confirmation.description": "You have successfully purchased {numberOfCredits} credits. The purchase will be added to next invoice.",
     
     
     "support.page.title": "VIBBIO Support",
