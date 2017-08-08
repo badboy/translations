@@ -12,6 +12,11 @@
     "private.header.order.video": "Order video",
     "private.header.my.account": "My Account",
     
+    "home.menu.my.orders": "My orders",
+    "home.menu.finished.videos": "Finished Videos",
+    "home.menu.stock.images": "Stock Images",
+    "home.menu.stock.videos": "Stock Videos",
+    
     
     "footer.vibbio.organization.name": "VIBBIO AS",
     "footer.vibbio.organization.number": "Org.no 916722516",
