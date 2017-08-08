@@ -59,6 +59,9 @@
     "ordering.summary.files.comment.header": "Comment",
     "ordering.summary.order.button.text": "Confirm & order",
     
+    
+    "library.banner.title": "My library",
+    
     "orders.orders.title": "My orders",
     "orders.order.status.CREATED": "Draft (not started)",
     "orders.order.status.IN_PROGRESS": "Draft",
