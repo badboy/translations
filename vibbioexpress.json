@@ -86,6 +86,9 @@
     "profile.information.additional.credits.title": "Additional credits",
     "profile.information.additional.credits.purchase": "Purchase",
     
+    "profile.information.order.production.help.filming": "Need filming or text help?",
+    "profile.information.order.production.contact": "Contact us",
+    
     "purchase.credits.title": "Purchase credits",
     "purchase.option.sum": "NOK: {sum} ",
     "purchase.option.choose.button.text": "Select",
