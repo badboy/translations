@@ -93,6 +93,9 @@
     "purchase.credits.modal.complete.order": "Complete purchase",
     
     
+    "confirmation.modal.default.cancel.button": "Cancel",
+    "confirmation.modal.default.confirm.button": "Confirm",
+    
     "support.page.title": "VIBBIO Support",
     "support.page.contactform.title": "Contact form",
     "support.page.contactform.content": "<p>If you get confused, stuck or otherwise need some assistance - simply contact us.</p><p>But make sure to check our FAQ-section also, as you may find your answer there even quicker.</p>",
