@@ -127,7 +127,12 @@
     "support.page.contactform.submit.success.header": "Thanks for reaching out!",
     "support.page.contactform.submit.success.body": "Your message has successfully been sent to VIBBIO Express and we will contact you very soon!",
    
-   
+    "public.pages.faq.link.text": "FAQ",
+    "public.pages.faq.section.1": "Delivery",
+    "public.pages.faq.section.1.question.1": "How long will it take until I get my videos",
+    "public.pages.faq.section.1.answer.1": "We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
+    
+    
     "cookies.page.title": "Privacy Policy on Cookie Usage",
     "cookies.page.paragraphs": [
       {
