@@ -41,6 +41,8 @@
     "fileuploading.uploader.browse.box": "{browse} or drag & drop",
     
     "ordering.project.name": "Project name",
+    "ordering.description.example.title": "Example",
+    "ordering.description.next.button": "Next: Details",
     "ordering.format.title": "Format",
     "ordering.length.title": "Length",
     "ordering.next.button.text": "Continue",
