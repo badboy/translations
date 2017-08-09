@@ -67,6 +67,8 @@
     "ordering.summary.files.filetext.header": "Text",
     "ordering.summary.files.comment.header": "Comment",
     "ordering.summary.order.button.text": "Confirm & order",
+    "ordering.summary.confirm.order.title": "Confirm order",
+    "ordering.summary.confirm.order.description": "Have you finished your order?",
     
     
     "library.banner.title": "My library",
