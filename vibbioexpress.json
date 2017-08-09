@@ -70,6 +70,10 @@
     "ordering.summary.confirm.order.title": "Confirm order",
     "ordering.summary.confirm.order.description": "Have you finished your order?",
     
+    "ordering.order.success.success.title": "Ordering completed",
+    "ordering.order.success.description": "Your order is successfully completed.",
+    "ordering.order.success.go.home.button": "Return to homepage";
+    
     
     "library.banner.title": "My library",
     
