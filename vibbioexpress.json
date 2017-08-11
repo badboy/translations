@@ -129,14 +129,19 @@
    
     "public.pages.faq.link.text": "FAQ",
     "public.pages.faq.section.1": "Delivery (section 1)",
-    "public.pages.faq.section.1.question.1": "Question 1 (s1)How long will it take until I get my videos",
-    "public.pages.faq.section.1.answer.1": "Answer 1 (s1) We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
-    "public.pages.faq.section.1.question.2": "Question 2 (s1) How long will it take until I get my videos",
-    "public.pages.faq.section.1.answer.2": "Answer 2 (s1) We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
+    "public.pages.faq.section.1.subsection.1": "Subsection 1 (section 1)",
+    "public.pages.faq.section.1.subsection.1.question.1": "Question 1 (s1s1)How long will it take until I get my videos",
+    "public.pages.faq.section.1.subsection.1.answer.1": "Answer 1 (s1s1) We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
+    "public.pages.faq.section.1.subsection.1.question.2": "Question 2 (s1s1) How long will it take until I get my videos",
+    "public.pages.faq.section.1.subsection.1.answer.2": "Answer 2 (s1s1) We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
+    "public.pages.faq.section.1.subsection.2": "Subsection 2 (section 1)",
+    "public.pages.faq.section.1.subsection.2.question.1": "Question 1 (s1s2) How long will it take until I get my videos",
+    "public.pages.faq.section.1.subsection.2.answer.1": "Answer 1 (s1s2) We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
     
     "public.pages.faq.section.2": "Content (section 2)",
-    "public.pages.faq.section.2.question.1": "Question 1 (s2) How long will it take until I get my videos",
-    "public.pages.faq.section.2.answer.1": "Answer 1 (s2)We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
+    "public.pages.faq.section.2.subsection.1": "Subsection 1 (section 2)",
+    "public.pages.faq.section.2.subsection.1.question.1": "Question 1 (s2s1) How long will it take until I get my videos",
+    "public.pages.faq.section.2.subsection.1.answer.1": "Answer 1 (s2s1)We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame.",
 
     
     "cookies.page.title": "Privacy Policy on Cookie Usage",
