@@ -97,7 +97,8 @@
     "profile.information.order.production.help.filming": "Need filming or text help?",
     "profile.information.order.production.contact": "Contact us",
     
-    "purchase.credits.title": "Purchase credits",
+    "purchase.credits.title": "Purchase additional credits",
+    "purchase.credits.description": "(Extra credits automatically roll over)",
     "purchase.option.sum": "NOK: {sum} ",
     "purchase.option.choose.button.text": "Select",
     "purchase.credits.confirmation.title": "Credits purchased!",
