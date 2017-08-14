@@ -1,9 +1,8 @@
 {
   "en": {
-    "public.header.about": "About",
+    "public.header.products": "Products",
     "public.header.inspiration": "Inspiration",
-    "public.header.subscribe": "Subscribe",
-    "public.header.order.video": "Order a video",
+    "public.header.company": "Company",
     "public.header.support": "Support",
     "public.header.login": "Log in",
     
