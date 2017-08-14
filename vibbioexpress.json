@@ -29,7 +29,7 @@
     "ordering.menu.step.1": "1",
     "ordering.menu.step.1.description": "Description",
     "ordering.menu.step.2": "2",
-    "ordering.menu.step.2.description": "Deatils",
+    "ordering.menu.step.2.description": "Details",
     "ordering.menu.step.3": "3",
     "ordering.menu.step.3.description": "Order form",
     "ordering.menu.step.4": "4",
@@ -50,7 +50,7 @@
     "ordering.files.time.start.description": "From",
     "ordering.files.time.end.description": "To",
     "ordering.order.form.next.button.text": "Next: Summary",
-    "ordering.price.header": "Price estimat",
+    "ordering.price.header": "Total credit cost",
     "ordering.total.price": "Total credit cost: {price}",
     "ordering.price.estimat.compute.error": "Error when computing price estimat",
     "ordering.price.information.regular.user": "<b>Information:</b> {price} equals to 15.000 NOK and you will receive an invoice for your order.",
@@ -333,16 +333,16 @@
     "length.next.button.text": "Next: Visual profile",
     
     "lengths.length.name.1": "45-60s",
-    "lengths.length.description.1": "45-60s",
-    "lengths.length.description.45-60s": "45-60s",
+    "lengths.length.description.1": "45-60 sec",
+    "lengths.length.description.45-60s": "45-60 sec",
     "lengths.length.name.2": "30-45s",
-    "lengths.length.description.2": "30-45s",
-    "lengths.length.description.30-45s": "30-45s",
+    "lengths.length.description.2": "30-45 sec",
+    "lengths.length.description.30-45s": "30-45 sec",
     "lengths.length.name.3": "15-30s",
-    "lengths.length.description.3": "15-30s",
-    "lengths.length.description.15-30s": "15-30s",
+    "lengths.length.description.3": "15-30 sec",
+    "lengths.length.description.15-30s": "15-30 sec",
     "lengths.length.name.4": "0-15s",
-    "lengths.length.description.4": "0-15s",
-    "lengths.length.description.0-15s": "0-15s"
+    "lengths.length.description.4": "0-15 sec",
+    "lengths.length.description.0-15s": "0-15 sec"
   }
 }
