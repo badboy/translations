@@ -69,8 +69,8 @@
     "ordering.summary.files.filetext.header": "Text",
     "ordering.summary.files.comment.header": "Comment",
     "ordering.summary.order.button.text": "Confirm & order",
-    "ordering.summary.confirm.order.title": "Confirm order",
-    "ordering.summary.confirm.order.description": "Have you finished your order?",
+    "ordering.summary.confirm.order.title": "Have you finished your order?",
+    "ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
     
     "ordering.order.success.success.title": "Ordering completed",
     "ordering.order.success.description": "Your order is successfully completed.",
