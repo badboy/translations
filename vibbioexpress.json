@@ -57,7 +57,7 @@
     "ordering.price.too.few.credits": "You do not have enough credits to complete the order!",
     "ordering.price.credits.left": "Total credits left: {totalLeft}",
     
-    "ordering.format.about": "Choose the format based on the chosen platform...",
+    "ordering.format.about": "Choose the format based on the chosen platform.",
     "ordering.length.about": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
     
     "ordering.summary.channel.label": "Channel: ",
