@@ -216,7 +216,7 @@
     "drafts.no.available.drafts.title": "Your drafts",
     "drafts.no.available.drafts.description": "You have no available drafts",
     "drafts.no.drafts.back.button.text": "Return to homepage",
-
+    "drafts.draft.confirm.delete.title": "Are you sure you want to delete this draft?",
 
     "description.title": "Description",
     "description.about.description": "We need some information to optimize the video to your needs. The more the better.",
