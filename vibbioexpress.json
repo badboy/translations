@@ -308,10 +308,10 @@
 
     "ordering.files.poster.description": "Text to be added",
     "ordering.files.comment.description": "Comments to your file",
-    "ordering.files.add.files.button.text": "Add more files",
+    "ordering.files.add.files.button.text": "Add more rows",
     
     "ordering.additional.files.header": "Additional files",
-    "ordering.additional.files.button.text": "Add more files",
+    "ordering.additional.files.button.text": "Add more rows",
     
     "format.title": "Choose the format of your video",
     "format.title.number.to.choose": " (Choose 1)",
