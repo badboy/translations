@@ -1,36 +1,11 @@
 {
-  "en": {
-    "public.header.products.title": "Products",
-    "public.header.inspiration.title": "Inspiration",
-    "public.header.company.title": "Company",
-    "public.header.support.title": "Support",
-    "public.header.login.button": "Log in",
-
-    "public.header.products.menu.1.title": "BECOME A USER",
-    "public.header.products.menu.1.subtitle": "VIBBIO SUBSCRIPTION PLANS",
-    "public.header.products.menu.2.title": "BOOK VIDEO PRODUCTION",
-    "public.header.products.menu.2.subtitle": "FROM IDEA TO COMPLETION",
-    "public.header.products.menu.3.title": "PRICING",
-    "public.header.products.menu.3.subtitle": "",
-
-    "public.header.inspiration.menu.1.title": "WHY VIDEO?",
-    "public.header.inspiration.menu.1.subtitle": "TRENDS & STATISTICS",
-    "public.header.inspiration.menu.2.title": "VIDEO IDEAS",
-    "public.header.inspiration.menu.2.subtitle": "MARKETING & COMMUNICATION TOOL",
-    "public.header.inspiration.menu.3.title": "EXAMPLES",
-    "public.header.inspiration.menu.3.subtitle": "GET STARTED & GET INSPIRED",
-    "public.header.inspiration.menu.4.title": "BLOG",
-    "public.header.inspiration.menu.4.subtitle": "",
-
-    "public.header.company.menu.1.title": "About VIBBIO",
-    "public.header.company.menu.1.subtitle": "WHAT WE DO & WHY",
-    "public.header.company.menu.2.title": "THE TEAM",
-    "public.header.company.menu.2.subtitle": "CREW, ADVISORS & INVESTORS",
-    "public.header.company.menu.3.title": "CUSTOMERS",
-    "public.header.company.menu.3.subtitle": "USERS, CUSTOMERS & PORTFOLIO",
-    "public.header.company.menu.4.title": "CONTACT",
-    "public.header.company.menu.4.subtitle": "",
-
+  "en": {    
+    "public.header.products": "Products",
+    "public.header.inspiration": "Inspiration",
+    "public.header.company": "Company",
+    "public.header.support": "Support",
+    "public.header.login": "Log in",
+    
     "private.header.library": "Library",
     "private.header.drafts": "Drafts",
     "private.header.order.video": "Order video",
