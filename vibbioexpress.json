@@ -335,6 +335,8 @@
     "library.uploader.title": "Upload files to your library",
     "library.upload.files.button": "Upload files",
     "library.create.folder.button": "New folder",
+    "library.confirm.delete.folder": "Are you sure you want to delete the folder &quot;{filename}&quot;?",
+    "library.confirm.delete.file": "Are you sure you want to delete the file &quot;{filename}&quot;?",
     
 
     "ordering.files.poster.description": "Text to be added",
