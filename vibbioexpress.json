@@ -624,7 +624,7 @@
     "lengths.length.description.4": "0-15 sec",
     "lengths.length.description.0-15s": "0-15 sec",
     
-    "finished.videos.title": "Finished videos"
+    "finished.videos.title": "Finished videos",
     
     "public.pages.inspiration.whyvideo.title": "Why video?",
     "public.pages.inspiration.whyvideo.description.1": "83 percent of marketeers said they would create more video content if they didn’t have restraints such as time and resources.",
@@ -636,7 +636,7 @@
     "public.pages.inspiration.whyvideo.subheading": "WHY VIDEO WORKS",
     "public.pages.inspiration.whyvideo.text.1": "Videos are 12 times more likely to be watched than text is to be read. Why? Movement grabs your attention.",
     "public.pages.inspiration.whyvideo.text.2": "If you are in the marketing department of your company (or actually any department) it is time to focus more about video. Here’s some key facts:",
-    "public.pages.inspiration.whyvideo.text.3": "<ul><li>Video posts on social media have an average organic reach of 50%! This is a lot compared to other ways to share your information.<span> Image posts: 33% - Link posts: 21% - Status updates: 16%</span></li><li>We see the effects of this in how users interact with video. A survey showed that 92% of mobile video consumers share videos with others. 80% of users recall a video they viewed in the past 30 days, and 90% of users say that product videos are helpful when making decisions on what to purchase.</li><li>Including a video in email marketing has had a proven effect on click-through-rate with 200-300%.</li><li>Including a video on your company’s landing page can increase conversions by 80%.</li></ul>"
+    "public.pages.inspiration.whyvideo.text.3": "<ul><li>Video posts on social media have an average organic reach of 50%! This is a lot compared to other ways to share your information.<span> Image posts: 33% - Link posts: 21% - Status updates: 16%</span></li><li>We see the effects of this in how users interact with video. A survey showed that 92% of mobile video consumers share videos with others. 80% of users recall a video they viewed in the past 30 days, and 90% of users say that product videos are helpful when making decisions on what to purchase.</li><li>Including a video in email marketing has had a proven effect on click-through-rate with 200-300%.</li><li>Including a video on your company’s landing page can increase conversions by 80%.</li></ul>",
     "public.pages.inspiration.whyvideo.tip.title": "OUR TIPS:",
     "public.pages.inspiration.whyvideo.tip.1.head": "KEEP IT SHORT",
     "public.pages.inspiration.whyvideo.tip.1.text": "Keep it to max 60 seconds, and most people will watch the whole thing..",
@@ -654,10 +654,10 @@
     "public.pages.inspiration.ideas.banner.person": "Mark Zuckerberg",
     "public.pages.inspiration.ideas.banner.subheading": "VIDEO IDEAS",
     "public.pages.inspiration.ideas.banner.box.1.title": "EXTERNAL MARKETING",
-    "public.pages.inspiration.ideas.banner.box.1.text": "<ul><li>Re-use blog posts, articles, white papers or reports and make a video</li><li>Show-and-tell from events: interviews of speakers and participants on specific topics</li><li>Employer branding: Present your employees</li><li>Customer testimonials: Let them say why they love your product AND how they use it</li><li>Product announcements and special offers</li><li>Host a contest to gain more traffic to your site and more visibility for your company</li><li>How-to and tips & tricks videos</li><li>Company milestones and big accomplishments</li></ul>"
+    "public.pages.inspiration.ideas.banner.box.1.text": "<ul><li>Re-use blog posts, articles, white papers or reports and make a video</li><li>Show-and-tell from events: interviews of speakers and participants on specific topics</li><li>Employer branding: Present your employees</li><li>Customer testimonials: Let them say why they love your product AND how they use it</li><li>Product announcements and special offers</li><li>Host a contest to gain more traffic to your site and more visibility for your company</li><li>How-to and tips & tricks videos</li><li>Company milestones and big accomplishments</li></ul>",
     "public.pages.inspiration.ideas.banner.box.1.button": "EXAMPLE VIDEOS",
     "public.pages.inspiration.ideas.banner.box.2.title": "INTERNAL COMMUNICATION",
-    "public.pages.inspiration.ideas.banner.box.2.text": "<ul><li>Weekly/monthly video from the CEO (with updates and reports)</li><li>Add video to on-boarding process with new employees</li><li>Training on new products and services</li><li>Employee contributions to boost morale</li><li>Important updates to company procedures</li><li>Interview your employees about a topic</li><li>Open your presentation with a video</li></ul>"
+    "public.pages.inspiration.ideas.banner.box.2.text": "<ul><li>Weekly/monthly video from the CEO (with updates and reports)</li><li>Add video to on-boarding process with new employees</li><li>Training on new products and services</li><li>Employee contributions to boost morale</li><li>Important updates to company procedures</li><li>Interview your employees about a topic</li><li>Open your presentation with a video</li></ul>",
     "public.pages.inspiration.ideas.banner.box.2.button": "EXAMPLE VIDEOS",
     "public.pages.inspiration.ideas.banner.box.3.title": "THE NEW WAY OF LEARNING",
     "public.pages.inspiration.ideas.banner.box.3.text.1": "Imagine learning something new in a minute!",
@@ -688,7 +688,7 @@
     "public.pages.company.whatwedo.box.1.text.3": "Video is the number one most efficient communication tool – and with our concentration span having been proven at just over a minute, a vibbio is a ONE minute long knowledge building video, tailor-made for ultimate reach and engagement. <span>Imagine learning something new in a minute...!</span>",
     "public.pages.company.whatwedo.box.2.heading": "THE ULTIMATE FORMAT",
     "public.pages.company.whatwedo.box.2.text.1": "To reach audiences today, videos must:",
-    "public.pages.company.whatwedo.box.2.text.2": "<ul><li>Have a hook</li><li>Be short</li><li>Texted<span>(90% watch video without sound)</span></li><li>Targeted<span>(create content for specific audiences)</span></li></ul>"
+    "public.pages.company.whatwedo.box.2.text.2": "<ul><li>Have a hook</li><li>Be short</li><li>Texted<span>(90% watch video without sound)</span></li><li>Targeted<span>(create content for specific audiences)</span></li></ul>",
     "public.pages.company.whatwedo.box.2.button": "SMART VIDEO",
     
     "public.pages.company.theteam.title": "Team VIBBIO",
@@ -703,18 +703,7 @@
     "public.pages.company.customers.banner.text.1": "«Teamet fra VIBBIO forstod vårt konsept raskt og kom med kreative forslag til våre konsept filmer. Imponerende profesjonelt team som hjalp oss igjennom hele prosessen, fra idé til leveranse av filmer som vi ble svært fornøyd med. Ikke minst på svært kort tid og innenfor de betingelser vi avtalte.» – Knut Øyvind Blystad-Dammen, Co-Founder & CEO, My1Min",
     "public.pages.company.customers.banner.text.2": "«I have had the pleasure of working with VIBBIO multiple times in various settings. They never fail to deliver. The team is positive, helpful and always ready on the fly. Their product is always delivered on time and produced in top-notch quality. I never fail to be immensely impressed after working with them.» – Isabelle Ringnes, Founder of TENK foundation",
     "public.pages.company.customers.subhead.1": "PORTFOLIO",
-     "public.pages.company.customers.subhead.2": "EXISTING VIBBIO CUSTOMERS",
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    "public.pages.company.customers.subhead.2": "EXISTING VIBBIO CUSTOMERS",
     
   }
 }
