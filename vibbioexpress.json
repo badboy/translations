@@ -11,7 +11,7 @@
     "public.header.products.menu.2.title": "BOOK VIDEO PRODUCTION",
     "public.header.products.menu.2.subtitle": "FROM IDEA TO COMPLETION",
     "public.header.products.menu.3.title": "PRICING",
-    "public.header.products.menu.3.subtitle": "",
+    "public.header.products.menu.3.subtitle": "  ",
 
     "public.header.inspiration.menu.1.title": "WHY VIDEO?",
     "public.header.inspiration.menu.1.subtitle": "TRENDS & STATISTICS",
@@ -20,7 +20,7 @@
     "public.header.inspiration.menu.3.title": "EXAMPLES",
     "public.header.inspiration.menu.3.subtitle": "GET STARTED & GET INSPIRED",
     "public.header.inspiration.menu.4.title": "BLOG",
-    "public.header.inspiration.menu.4.subtitle": "",
+    "public.header.inspiration.menu.4.subtitle": "   ",
 
     "public.header.company.menu.1.title": "About VIBBIO",
     "public.header.company.menu.1.subtitle": "WHAT WE DO & WHY",
@@ -29,7 +29,7 @@
     "public.header.company.menu.3.title": "CUSTOMERS",
     "public.header.company.menu.3.subtitle": "USERS, CUSTOMERS & PORTFOLIO",
     "public.header.company.menu.4.title": "CONTACT",
-    "public.header.company.menu.4.subtitle": "",
+    "public.header.company.menu.4.subtitle": "  ",
     
     "private.header.library": "Library",
     "private.header.drafts": "Drafts",
