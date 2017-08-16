@@ -584,5 +584,96 @@
     "lengths.length.description.0-15s": "0-15 sec",
     
     "finished.videos.title": "Finished videos"
+    
+    "public.pages.inspiration.whyvideo.title": "Why video?",
+    "public.pages.inspiration.whyvideo.description.1": "83 percent of marketeers said they would create more video content if they didn’t have restraints such as time and resources.",
+    "public.pages.inspiration.whyvideo.description.2": "So, we started VIBBIO.",
+    "public.pages.inspiration.whyvideo.button": "WHY VIDEO WORKS",
+    "public.pages.inspiration.whyvideo.banner.1": "By 2019, online video will account for <b>80%</b> of all web traffic.",
+    "public.pages.inspiration.whyvideo.banner.2": "There are <b>22 bn</b> video views every day on social media.",
+    "public.pages.inspiration.whyvideo.banner.3": "Videos are <b>12 x</b> more likely to be watched than text is to be read.",
+    "public.pages.inspiration.whyvideo.subheading": "WHY VIDEO WORKS",
+    "public.pages.inspiration.whyvideo.text.1": "Videos are 12 times more likely to be watched than text is to be read. Why? Movement grabs your attention.",
+    "public.pages.inspiration.whyvideo.text.2": "If you are in the marketing department of your company (or actually any department) it is time to focus more about video. Here’s some key facts:",
+    "public.pages.inspiration.whyvideo.text.3": "<ul><li>Video posts on social media have an average organic reach of 50%! This is a lot compared to other ways to share your information.<span> Image posts: 33% - Link posts: 21% - Status updates: 16%</span></li><li>We see the effects of this in how users interact with video. A survey showed that 92% of mobile video consumers share videos with others. 80% of users recall a video they viewed in the past 30 days, and 90% of users say that product videos are helpful when making decisions on what to purchase.</li><li>Including a video in email marketing has had a proven effect on click-through-rate with 200-300%.</li><li>Including a video on your company’s landing page can increase conversions by 80%.</li></ul>"
+    "public.pages.inspiration.whyvideo.tip.title": "OUR TIPS:",
+    "public.pages.inspiration.whyvideo.tip.1.head": "KEEP IT SHORT",
+    "public.pages.inspiration.whyvideo.tip.1.text": "Keep it to max 60 seconds, and most people will watch the whole thing..",
+    "public.pages.inspiration.whyvideo.tip.2.head": "START STRONG",
+    "public.pages.inspiration.whyvideo.tip.2.text": "Present your key point first, and grab the viewer’s attention.",
+    "public.pages.inspiration.whyvideo.tip.3.head": "TEXT EVERYTHING",
+    "public.pages.inspiration.whyvideo.tip.3.text": "85% watch videos without the sound on!",
+    "public.pages.inspiration.whyvideo.tip.4.head": "KNOW YOUR AUDIENCE",
+    "public.pages.inspiration.whyvideo.tip.4.text": "Create content FOR them, not AT them.",
+    
+    "public.pages.inspiration.ideas.title": "Video ideas",
+    "public.pages.inspiration.ideas.description": "Video is quickly becoming the most efficient and successful tool for internal communication and external marketing.",
+    "public.pages.inspiration.ideas.button": "USE OF VIDEO",
+    "public.pages.inspiration.ideas.banner.quote": "\"Video is a MEGA TREND, we now need toolsets that are video-first\"",
+    "public.pages.inspiration.ideas.banner.person": "Mark Zuckerberg",
+    "public.pages.inspiration.ideas.banner.subheading": "VIDEO IDEAS",
+    "public.pages.inspiration.ideas.banner.box.1.title": "EXTERNAL MARKETING",
+    "public.pages.inspiration.ideas.banner.box.1.text": "<ul><li>Re-use blog posts, articles, white papers or reports and make a video</li><li>Show-and-tell from events: interviews of speakers and participants on specific topics</li><li>Employer branding: Present your employees</li><li>Customer testimonials: Let them say why they love your product AND how they use it</li><li>Product announcements and special offers</li><li>Host a contest to gain more traffic to your site and more visibility for your company</li><li>How-to and tips & tricks videos</li><li>Company milestones and big accomplishments</li></ul>"
+    "public.pages.inspiration.ideas.banner.box.1.button": "EXAMPLE VIDEOS",
+    "public.pages.inspiration.ideas.banner.box.2.title": "INTERNAL COMMUNICATION",
+    "public.pages.inspiration.ideas.banner.box.2.text": "<ul><li>Weekly/monthly video from the CEO (with updates and reports)</li><li>Add video to on-boarding process with new employees</li><li>Training on new products and services</li><li>Employee contributions to boost morale</li><li>Important updates to company procedures</li><li>Interview your employees about a topic</li><li>Open your presentation with a video</li></ul>"
+    "public.pages.inspiration.ideas.banner.box.2.button": "EXAMPLE VIDEOS",
+    "public.pages.inspiration.ideas.banner.box.3.title": "THE NEW WAY OF LEARNING",
+    "public.pages.inspiration.ideas.banner.box.3.text.1": "Imagine learning something new in a minute!",
+    "public.pages.inspiration.ideas.banner.box.3.text.2": "The way we adapt to new information is changing, and the education system needs to pay attention to this.",
+    "public.pages.inspiration.ideas.banner.box.3.text.3": "Both educational facilities and scientific institutions are of high importance when it comes to sharing knowledge – but how can this be done in a new and more effective way? The answer is video.",
+    "public.pages.inspiration.ideas.banner.box.3.text.4": "You have the knowledge – we have the communication tool.",
+    "public.pages.inspiration.ideas.banner.box.3.text.5": "«The future belongs to the curious»– VIBBIO",
+    "public.pages.inspiration.ideas.banner.box.4.title": "START TODAY!",
+    "public.pages.inspiration.ideas.banner.box.4.text.1": "Want to become a VIBBIO user or order full video production?",
+    "public.pages.inspiration.ideas.banner.box.4.text.2": "Get in touch to find out more.",
+    "public.pages.inspiration.ideas.banner.box.4.button": "CONTACT US",
+    
+    "public.pages.inspiration.getstarted.title": "Get started",
+    "public.pages.inspiration.getstarted.description": "Get started with this introduction video – and stay tuned for more tips & tricks inspiration!",
+    "public.pages.inspiration.getstarted.button": "OUR PORTFOLIO",
+    
+    "public.pages.company.whatwedo.title": "What we do & why",
+    "public.pages.company.whatwedo.description.1": "The way we communicate is changing. Video is quickly becoming one of the most important tools for companies to stand out online.",
+    "public.pages.company.whatwedo.description.2": "However, video production is both expensive and time consuming – that’s why we started VIBBIO.",
+    "public.pages.company.whatwedo.description.3": "We recognised an urgent need for a new and better solution – and our mission to make smart video <b>accessible, affordable and automatic.</b>",
+    "public.pages.company.whatwedo.banner.heading": "BACKGROUND",
+    "public.pages.company.whatwedo.banner.text.1": "VIBBIO was founded 2016 in Oslo, Norway, by Marianne Bratt Ricketts and Stine Norum.",
+    "public.pages.company.whatwedo.banner.text.2": "In just over a year, the company has grown to a team of 14 employees.",
+    "public.pages.company.whatwedo.banner.button": "THE TEAM",
+    "public.pages.company.whatwedo.box.1.heading": "Shaping the future of communication",
+    "public.pages.company.whatwedo.box.1.text.1": "<span>Our passion is IMPACT through learning; To empower people everywhere to be better equipped for our fast moving times and the future ahead.</span>",
+    "public.pages.company.whatwedo.box.1.text.2": "Technological advanced are fuelling vast changes in most aspects of modern society – and to be able to make good choices and take advantage of new possibilities and a new reality, we need knowledge! <span>We need to live in a flow of continued education, and always stay curious!</span>",
+    "public.pages.company.whatwedo.box.1.text.3": "Video is the number one most efficient communication tool – and with our concentration span having been proven at just over a minute, a vibbio is a ONE minute long knowledge building video, tailor-made for ultimate reach and engagement. <span>Imagine learning something new in a minute...!</span>",
+    "public.pages.company.whatwedo.box.2.heading": "THE ULTIMATE FORMAT",
+    "public.pages.company.whatwedo.box.2.text.1": "To reach audiences today, videos must:",
+    "public.pages.company.whatwedo.box.2.text.2": "<ul><li>Have a hook</li><li>Be short</li><li>Texted<span>(90% watch video without sound)</span></li><li>Targeted<span>(create content for specific audiences)</span></li></ul>"
+    "public.pages.company.whatwedo.box.2.button": "SMART VIDEO",
+    
+    "public.pages.company.theteam.title": "Team VIBBIO",
+    "public.pages.company.theteam.text.1": "VIBBIO is run by a team of marketing- design- and media specialists, with deep understanding of how to reach a target market – and create strong and lasting visibility.",
+    "public.pages.company.theteam.text.2": "We love what we do – and having fun while doing it!",
+    
+    "public.pages.company.customers.title": "Our customers",
+    "public.pages.company.customers.text.1": "Wherever and whenever there’s a need for video – we can tailor a solution that works.",
+    "public.pages.company.customers.text.2": "Here’s a selection of some videos we have produced.",
+    "public.pages.company.customers.button.1": "PORTFOLIO",
+    "public.pages.company.customers.button.2": "CONTACT US",
+    "public.pages.company.customers.banner.text.1": "«Teamet fra VIBBIO forstod vårt konsept raskt og kom med kreative forslag til våre konsept filmer. Imponerende profesjonelt team som hjalp oss igjennom hele prosessen, fra idé til leveranse av filmer som vi ble svært fornøyd med. Ikke minst på svært kort tid og innenfor de betingelser vi avtalte.» – Knut Øyvind Blystad-Dammen, Co-Founder & CEO, My1Min",
+    "public.pages.company.customers.banner.text.2": "«I have had the pleasure of working with VIBBIO multiple times in various settings. They never fail to deliver. The team is positive, helpful and always ready on the fly. Their product is always delivered on time and produced in top-notch quality. I never fail to be immensely impressed after working with them.» – Isabelle Ringnes, Founder of TENK foundation",
+    "public.pages.company.customers.subhead.1": "PORTFOLIO",
+     "public.pages.company.customers.subhead.2": "EXISTING VIBBIO CUSTOMERS",
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   }
 }
