@@ -290,7 +290,7 @@
     "store.production.option.1": "FILMING_3HOURS",
     "store.production.option.1.description": "3 hour filming session",
     "store.production.option.2": "CONTENT_3HOURS",
-    "store.production.option.2": "3 hour content session / workshop",
+    "store.production.option.2.description": "3 hour content session / workshop",
     "store.production.price.total.cost": "Total credit cost",
     "store.production.textarea.label": "Your message with details and wanted timing",
     "store.production.order.button.text": "Book",
