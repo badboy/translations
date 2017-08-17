@@ -227,11 +227,6 @@
     "private.header.order.video": "Order video",
     "private.header.vibbio.store": "VIBBIO Shop",
     "private.header.my.videos": "My Videos",
-    
-    "home.menu.my.orders": "My orders",
-    "home.menu.finished.videos": "Finished Videos",
-    "home.menu.stock.images": "Stock Images",
-    "home.menu.stock.videos": "Stock Videos",
 
     "ordering.menu.title": "Order video",
     "ordering.menu.step.1": "1",
@@ -287,6 +282,25 @@
     "ordering.order.ordered.title": "Here’s what you ordered:",
     "ordering.order.ordered.delivery": "You will find the completed order in Finished Videos in a couple of days.",
     "ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
+    
+    
+    "store.production.title": "Book specialist help",
+    "store.production.description": "<p>Would you like to book sessions with a video producer for filming or a content specialist for text/story assistance?</p><p>Click on your wanted service below, and fill in a short message detailing wanted date.</p>",
+    
+    "store.production.option.1": "FILMING_3HOURS",
+    "store.production.option.1.description": "3 hour filming session",
+    "store.production.option.2": "CONTENT_3HOURS",
+    "store.production.option.2": "3 hour content session / workshop",
+    "store.production.price.total.cost": "Total credit cost",
+    "store.production.textarea.label": "Your message with details and wanted timing",
+    "store.production.order.button.text": "Book",
+    
+    "store.production.confirm.modal.title": "Confirm your booking",
+    "store.production.confirm.modal.description": "<p>You are about to buy {option}. {value} credits will be subtracted from your available credits. </p><p>Our team will contact you to schedule the session. </p>",
+    
+    "store.production.confirmation.title": "Your booking is received",
+    "store.production.confirmation.description": "<p>You will receive a confirmation email and we will contact you soon to schedule your session.</p>",
+    "store.production.confirmation.return.button.text": "Return to homepage",
     
     
     
