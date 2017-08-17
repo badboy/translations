@@ -296,7 +296,8 @@
     "store.production.order.button.text": "Book",
     
     "store.production.confirm.modal.title": "Confirm your booking",
-    "store.production.confirm.modal.description": "<p>You are about to buy {option}. {value} credits will be subtracted from your available credits. </p><p>Our team will contact you to schedule the session. </p>",
+    "store.production.confirm.modal.description.1": "You are about to buy {option}. {value} credits will be subtracted from your available credits.",
+    "store.production.confirm.modal.description.2": "Our team will contact you to schedule the session.",
     
     "store.production.confirmation.title": "Your booking is received",
     "store.production.confirmation.description": "<p>You will receive a confirmation email and we will contact you soon to schedule your session.</p>",
