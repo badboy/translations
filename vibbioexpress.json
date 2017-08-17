@@ -222,10 +222,11 @@
     "footer.link.faq": "FAQ",
     "footer.link.privacy": "Privacy & terms",
     
-    "private.header.library": "Library",
-    "private.header.drafts": "Drafts",
+    "private.header.library": "My Library",
+    "private.header.drafts": "My Drafts",
     "private.header.order.video": "Order video",
-    "private.header.my.account": "My Account",
+    "private.header.my.account": "VIBBIO Shop",
+    "private.header.my.videos": "My Videos",
     
     "home.menu.my.orders": "My orders",
     "home.menu.finished.videos": "Finished Videos",
