@@ -113,7 +113,7 @@
     "puchase.credits.confirmation.description": "You have successfully purchased {numberOfCredits} credits. The purchase will be added to next invoice.",
     "purchase.credits.modal.title": "Confirm purchase",
     "purchase.credits.modal.credits": "You are about to buy { option } credits.",
-    "purchase.credits.modal.sum": "{sum} will be added to your next invoice.",
+    "purchase.credits.modal.sum": "{sum} {currency} will be added to your next invoice.",
     "purchase.credits.modal.cancel": "Cancel",
     "purchase.credits.modal.complete.order": "Complete purchase",
     
@@ -197,7 +197,7 @@
     "public.pages.faq.section.2.subsection.4.question.2": "How can I buy more credits?",
     "public.pages.faq.section.2.subsection.4.answer.2": "You can easily buy extra credits in your library, or upgrade your user plan in your Account settings. You can compare user plans here.",
     
-    "public.pages.faq.section.2.subsection.2": "Filming and content",
+    "public.pages.faq.section.2.subsection.5": "Filming and content",
     "public.pages.faq.section.2.subsection.5.question.1": "How much does filming and content help cost?",
     "public.pages.faq.section.2.subsection.5.answer.1": "750 credits for a 3 hour session.",
     "public.pages.faq.section.2.subsection.5.question.2": "Where do I order filming and/or content help?",
