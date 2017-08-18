@@ -726,6 +726,22 @@
     "public.pages.company.customers.portfolio.id.9": "230135182",
     "public.pages.company.customers.subhead.2": "EXISTING VIBBIO CUSTOMERS",
     "public.pages.company.customers.existing.url": "https://storage.googleapis.com/vibbio/customers.png",
-    "public.pages.company.customers.existing.description": "Selvaag Bolig, Aker BioMarine, Adecco, Aker Solutions, Evry, NHO, Microsoft, Orkla, Sapa Group, Visma, Danske Bank, Gelato"
+    "public.pages.company.customers.existing.description": "Selvaag Bolig, Aker BioMarine, Adecco, Aker Solutions, Evry, NHO, Microsoft, Orkla, Sapa Group, Visma, Danske Bank, Gelato",
+    
+    
+    
+    "public.pages.landingpage.video.url.id": "216797388",
+    "public.pages.landingpage.examples.video.url.id.1": "216797388",
+    "public.pages.landingpage.examples.video.url.id.2": "216797388",
+    "public.pages.landingpage.examples.video.url.id.3": "216797388",
+    "public.pages.whyvideo.video.url.id": "216797388",
+    "public.pages.customers.video.url.id": "216797388",
+    "public.pages.our.story.video.url.id": "216797388",
+    "public.pages.the.team.video.url.id": "216797388",
+    "public.pages.get.started.video.url.id": "216797388",
+    "public.pages.video.ideas.video.url.id": "216797388",
+    "public.pages.become.a.user.video.url.id": "216797388"
+   
+    
   }
 }
