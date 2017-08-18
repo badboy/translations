@@ -40,6 +40,7 @@
     "public.plan.signup.button": "Sign up",
 
     "public.plan.TRIAL.1": "Trial",
+    "public.plan.TRIAL.1.tooltip": "public.plan.tooltip.TRIAL",
     "public.plan.TRIAL.2": "<p>NOK 0</p><p>EUR </p>",
     "public.plan.TRIAL.3": "0",
     "public.plan.TRIAL.4": "N/A",
