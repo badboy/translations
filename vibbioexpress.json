@@ -769,8 +769,8 @@
     
     "public.pages.company.theteam.employee.7.name": "Alexandra Leisse",
     "public.pages.company.theteam.employee.7.title": "VP Product (01.11.17)",
-    "public.pages.company.theteam.employee.7.email": "",
-    "public.pages.company.theteam.employee.7.phone": "",
+    "public.pages.company.theteam.employee.7.email": "  ",
+    "public.pages.company.theteam.employee.7.phone": "  ",
     
     "public.pages.company.theteam.employee.8.name": "Line Moseng",
     "public.pages.company.theteam.employee.8.title": "Developer",
@@ -820,7 +820,7 @@
     "public.pages.company.theteam.board.4.title": "COO M&M Bank",
     
     "public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
-    "public.pages.company.theteam.board.5.title": "Communication Specialist",
+    "public.pages.company.theteam.board.5.title": "Communication Specialist"
     
     
    
