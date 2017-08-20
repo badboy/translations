@@ -285,6 +285,18 @@
     "ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
     
     
+    "orders.new.version.title": "Order a new version",
+    "orders.new.version.project.title": "Project title",
+    "orders.new.version.changes.quick.title": "Small changes",
+    "orders.new.version.description.NEW_INTRO_OUTRO": "New intro/outro",
+    "orders.new.version.description.CHANGE_IMAGE_CLIP": "Change 1 clip/image",
+    "orders.new.version.description.CHANGE_TEXT": "Change 1 text",
+    "orders.new.version.description.NEW_FORMAT": "New format",
+    "orders.new.version.description.NEW_LANGUAGE": "New language",
+    "orders.new.version.description.NEW_MUSIC": "New music",
+    "orders.new.version.proceed.button": "Proceed",
+    
+    
     "store.production.title": "Book specialist help",
     "store.production.description": "<p>Would you like to book sessions with a video producer for filming or a content specialist for text/story assistance?</p><p>Click on your wanted service below, and fill in a short message detailing wanted date.</p>",
     
