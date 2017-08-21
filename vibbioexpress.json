@@ -78,6 +78,7 @@
 
 		"public.signup.title": "Become a user:",
 		"public.signup.companyname.label": "Company name",
+		"public.signup.shortname.label": "Username for company",
 		"public.signup.contact.person.label": "Contact person (Admin)",
 		"public.signup.contact.email.label": "Contact email (User name)",
 		"public.signup.contact.telephone.label": "Contact telephone",
