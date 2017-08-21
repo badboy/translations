@@ -357,7 +357,7 @@
 
 		"purchase.credits.title": "Purchase additional credits",
 		"purchase.credits.description": "(Extra credits automatically roll over)",
-		"purchase.option.sum": "NOK: {sum} ",
+		"purchase.option.sum": "{currency}: {sum} ",
 		"purchase.option.choose.button.text": "Select",
 		"purchase.credits.confirmation.title": "Credits purchased!",
 		"puchase.credits.confirmation.description": "You have successfully purchased {numberOfCredits} credits. The purchase will be added to next invoice.",
