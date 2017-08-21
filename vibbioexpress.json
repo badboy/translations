@@ -81,7 +81,15 @@
     "public.signup.contact.person.label": "Contact person (Admin)",
     "public.signup.contact.email.label": "Contact email (User name)",
     "public.signup.contact.telephone.label": "Contact telephone",
-    "public.signup.subscription.label": "Your chosen subscription",
+    "public.signup.subscription.label": "Your chosen subscription
+    "public.signup.subscription.trial": "Trial",
+    "public.signup.subscription.trial.infotext": "",
+    "public.signup.subscription.basic": "Basic",
+    "public.signup.subscription.basic.infotext": "",
+    "public.signup.subscription.plus": "Plus",
+    "public.signup.subscription.plus.infotext": "",
+    "public.signup.subscription.premium": "Premium",
+    "public.signup.subscription.premium.infotext": "",
     "public.signup.subscription.button": "Edit",
     "public.signup.terms.label": "I agree to terms & conditions.. TOOD ADD LINK",
 
