@@ -84,13 +84,13 @@
 		"public.signup.contact.telephone.label": "Contact telephone",
 		"public.signup.subscription.label": "Your chosen subscription",
 		"public.signup.subscription.trial": "Trial",
-		"public.signup.subscription.trial.infotext": "",
+		"public.signup.subscription.trial.infotext": "NOK 18.000 per month",
 		"public.signup.subscription.basic": "Basic",
-		"public.signup.subscription.basic.infotext": "",
+		"public.signup.subscription.basic.infotext": " ",
 		"public.signup.subscription.plus": "Plus",
-		"public.signup.subscription.plus.infotext": "",
+		"public.signup.subscription.plus.infotext": " ",
 		"public.signup.subscription.premium": "Premium",
-		"public.signup.subscription.premium.infotext": "",
+		"public.signup.subscription.premium.infotext": " ",
 		"public.signup.subscription.button": "Edit",
 		"public.signup.terms.label": "I agree to terms & conditions.. TOOD ADD LINK",
 
@@ -107,7 +107,7 @@
 		
 		"public.signup.submit.success.header": " ",
 		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
-		"public.signup.submit.error.message": "Could not complete registration. Have you filled out all required fields?",
+		"public.signup.submit.error.message": "Could not complete registration of user.",
 		
 		"public.pages.support.title": "How can we help you?",
 		"public.pages.support.searchbox.placeholder": "Search",
