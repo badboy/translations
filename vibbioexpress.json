@@ -104,7 +104,11 @@
 
 		"public.signup.button.cancel": "Cancel",
 		"public.signup.button.proceed": "Proceed",
-
+		
+		"public.signup.submit.success.header": " ",
+		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
+		"public.signup.submit.error.message": "Could not complete registration. Have you filled out all required fields?",
+		
 		"public.pages.support.title": "How can we help you?",
 		"public.pages.support.searchbox.placeholder": "Search",
 		"public.pages.support.how.to.use": "How to use VIBBIO",
