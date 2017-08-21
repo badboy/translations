@@ -309,6 +309,8 @@
 		"orders.new.version.description.NEW_LANGUAGE": "New language",
 		"orders.new.version.description.NEW_MUSIC": "New music",
 		"orders.new.version.proceed.button": "Proceed",
+		"orders.new.version.intro.label": "New intro",
+		"orders.new.version.outro.label": "New outro",
 
 
 		"store.production.title": "Book specialist help",
