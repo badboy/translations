@@ -363,7 +363,7 @@
 		"puchase.credits.confirmation.description": "You have successfully purchased {numberOfCredits} credits. The purchase will be added to next invoice.",
 		"purchase.credits.modal.title": "Confirm purchase",
 		"purchase.credits.modal.credits": "You are about to buy { option } credits.",
-		"purchase.credits.modal.sum": "{sum} will be added to your next invoice.",
+		"purchase.credits.modal.sum": "{sum},- {currency} will be added to your next invoice.",
 		"purchase.credits.modal.cancel": "Cancel",
 		"purchase.credits.modal.complete.order": "Complete purchase",
 
