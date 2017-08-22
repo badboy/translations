@@ -318,6 +318,11 @@
 		"orders.new.version.language.comment.header": "Comments",
 		"orders.new.version.language.translation.header": "New translation",
 		
+		"orders.new.version.change.clip.title": "Change clip/image",
+		"orders.new.version.change.clip.original.image.header": "Original clip/image",
+		"orders.new.version.change.clip.original.filetext.header": "Original file text",
+		"orders.new.version.change.clip.original.comment.header": "Original comment",
+		
 		
 		"orders.new.version.row.content.add.new.file": "Choose another file",
 		"orders.new.version.row.content.add.file": "Choose file",
