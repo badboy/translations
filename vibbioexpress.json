@@ -645,7 +645,19 @@
 		"profile.billing.info.default.header": "Billing information",
 		"profile.billing.info.noinfo.text": "You have not registered your billing information.",
 
+		"profile.account.settings.title": "Account setting",
 
+		"profile.account.settings.design.profile.title": "Corporate visual profile",
+		"profile.account.settings.design.profile.color.1.label": "Color 1",
+		"profile.account.settings.design.profile.color.2.label": "Color 2",
+		"profile.account.settings.design.profile.logo.label": "Company logo",
+		"profile.account.settings.design.profile.no.logo": "No logo uploaded",
+		"profile.account.settings.design.profile.upload.logo": "Upload your logo",
+		"profile.account.settings.design.profile.font.label": "Compnay font",
+		"profile.account.settings.design.profile.no.font": "No font uploaded",
+		"profile.account.settings.design.profile.upload.logo": "Upload your font",
+		
+		
 		"library.files.file.rename": "New name",
 		"library.uploader.title": "Upload files to your library",
 		"library.upload.files.button": "Upload files",
