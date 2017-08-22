@@ -303,7 +303,7 @@
 		"orders.new.version.quick.title": "Quick",
 		"orders.new.version.medium.title": "Medium",
 		"orders.new.version.description.undefined": "Choose new version type",
-		"orders.new.version.description.undefined": "   ",
+		"orders.new.version.description.undefined.about": "   ",
 		"orders.new.version.description.NEW_INTRO_OUTRO": "New intro/outro",
 		"orders.new.version.description.NEW_INTRO_OUTRO.about": "Change intro or outro on an exisiting video.",
 		"orders.new.version.description.CHANGE_IMAGE_CLIP": "Change 1 clip/image",
