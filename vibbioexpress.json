@@ -319,9 +319,12 @@
 		"orders.new.version.language.translation.header": "New translation",
 		
 		"orders.new.version.change.clip.title": "Change clip/image",
+		"orders.new.version.change.clip.description": "Choose which clip/image you want to change, and upload your new clip with a description about how you want your clip/image to be used.",
 		"orders.new.version.change.clip.original.image.header": "Original clip/image",
 		"orders.new.version.change.clip.original.filetext.header": "Original file text",
 		"orders.new.version.change.clip.original.comment.header": "Original comment",
+		"orders.new.version.change.clip.add.new.clip.title": "Upload your new clip",
+		"orders.new.version.change.clip.add.description.title": "Add a description about how you want your clip/image to be used.",
 		
 		
 		"orders.new.version.row.content.add.new.file": "Choose another file",
