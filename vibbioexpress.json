@@ -648,6 +648,7 @@
 		"profile.account.settings.title": "Account setting",
 
 		"profile.account.settings.design.profile.title": "Corporate visual profile",
+		"profile.account.settings.design.profile.color.profile.label": "Color palette",
 		"profile.account.settings.design.profile.color.1.label": "Color 1",
 		"profile.account.settings.design.profile.color.2.label": "Color 2",
 		"profile.account.settings.design.profile.logo.label": "Company logo",
