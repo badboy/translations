@@ -649,6 +649,7 @@
 
 		"profile.account.settings.design.profile.title": "Corporate visual profile",
 		"profile.account.settings.design.profile.color.profile.label": "Color palette",
+		"profile.account.settings.design.profile.color.profile.description": "Write the two main colors of your color palette in html (ex: #25cbd3)",
 		"profile.account.settings.design.profile.color.1.label": "Color 1",
 		"profile.account.settings.design.profile.color.2.label": "Color 2",
 		"profile.account.settings.design.profile.logo.label": "Company logo",
