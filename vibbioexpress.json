@@ -339,6 +339,10 @@
 		
 		"orders.new.version.order.success.title": "New version successfully ordered!",
 		
+		
+		"orders.new.version.confirmation.modal.title": "Have you finished your order?",
+		"orders.new.version.confirmation.modal.description": "Finished your order by clicking \"Confirm\".",
+		
 		"library.banner.modal.title": "Select the file you want to use",
 		"library.banner.modal.select.button.text": "Use file",
 		"library.banner.modal.cancel.button.text": "Cancel",
