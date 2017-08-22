@@ -311,6 +311,14 @@
 		"orders.new.version.proceed.button": "Proceed",
 		"orders.new.version.intro.label": "New intro",
 		"orders.new.version.outro.label": "New outro",
+		
+		
+		"orders.new.version.row.content.add.new.file": "Choose another file",
+		"orders.new.version.row.content.add.file": "Choose file",
+		
+		"library.banner.modal.title": "Select the file you want to use",
+		"library.banner.modal.select.button.text": "Use file",
+		"library.banner.modal.cancel.button.text": "Cancel",
 
 
 		"store.production.title": "Book specialist help",
