@@ -656,6 +656,7 @@
 		"profile.userinfo.form.label.name": "Company name:",
 		"profile.userinfo.form.label.phone": "Phone:",
 		"profile.userinfo.form.label.email": "Email:",
+		"profile.userinfo.form.label.contactPerson": "Contact person:",
 		"profile.userinfo.form.cancel.button": "Cancel",
 		"profile.userinfo.form.submit.button": "Save",
 		
