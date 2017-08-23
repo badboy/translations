@@ -292,6 +292,7 @@
 		"ordering.summary.files.clip.header": "Clip/Image",
 		"ordering.summary.files.filetext.header": "Text",
 		"ordering.summary.files.comment.header": "Comment",
+		"ordering.summary.extra.material.title": "Extra material",
 		"ordering.summary.order.button.text": "Confirm & order",
 		"ordering.summary.confirm.order.title": "Have you finished your order?",
 		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
