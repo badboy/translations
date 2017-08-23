@@ -654,13 +654,13 @@
 		"profile.billing.info.default.header": "Billing information",
 		"profile.billing.info.noinfo.text": "You have not registered your billing information.",
 		
-		"profile.userinfo.edit.header": "Edit company information",
-		"profile.userinfo.form.label.name": "Company name:",
-		"profile.userinfo.form.label.phone": "Phone:",
-		"profile.userinfo.form.label.email": "Email:",
-		"profile.userinfo.form.label.contactPerson": "Contact person:",
-		"profile.userinfo.form.cancel.button": "Cancel",
-		"profile.userinfo.form.submit.button": "Save",
+		"profile.organizationinfo.edit.header": "Edit company information",
+		"profile.organizationinfo.form.label.name": "Company name:",
+		"profile.organizationinfo.form.label.phone": "Phone:",
+		"profile.organizationinfo.form.label.email": "Email:",
+		"profile.organizationinfo.form.label.contactPerson": "Contact person:",
+		"profile.organizationinfo.form.cancel.button": "Cancel",
+		"profile.organizationinfo.form.submit.button": "Save",
 		
 		"profile.account.settings.title": "Account setting",
 		
