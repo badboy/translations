@@ -266,6 +266,11 @@
 		"ordering.back.button.text": "Back",
 		"ordering.files.time.start.description": "From",
 		"ordering.files.time.end.description": "To",
+		
+		"ordering.extra.material.title": "Extra Material",
+		"ordering.extra.material.description": "If you have extra clips and images that can be used if needed, please add those here:",
+		"ordering.extra.material.add.button.text": "Add extra material",
+		
 		"ordering.order.form.next.button.text": "Next: Summary",
 		"ordering.price.header": "Total credit cost",
 		"ordering.total.price": "Total credit cost: {price}",
