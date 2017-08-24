@@ -370,6 +370,7 @@
 		"store.production.price.total.cost": "Total credit cost",
 		"store.production.textarea.label": "Your message with details and wanted timing",
 		"store.production.order.button.text": "Book",
+		"store.production.cancel.button.text": "Cancel",
 
 		"store.production.confirm.modal.title": "Confirm your booking",
 		"store.production.confirm.modal.description.1": "You are about to buy {option}. {value} credits will be subtracted from your available credits.",
