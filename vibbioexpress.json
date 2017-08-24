@@ -371,6 +371,8 @@
 		"store.production.option.CONTENT_3HOURS.description": "3 hour content session / workshop",
 		"store.production.price.total.cost": "Total credit cost",
 		"store.production.textarea.label": "Your message with details and wanted timing",
+		"store.production.textarea.description": "Your message with details and wanted timing",
+		"store.production.textarea.placeholder": "Your message with details and wanted timing",
 		"store.production.order.button.text": "Book",
 		"store.production.cancel.button.text": "Cancel",
 
