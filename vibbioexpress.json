@@ -107,6 +107,8 @@
 
 		"public.signup.button.cancel": "Cancel",
 		"public.signup.button.proceed": "Proceed",
+		"public.signup.modal.confirm.title": "Confirm your registration",
+		"public.signup.modal.confirm.description": "Yes I want to become a user",
 		
 		"public.signup.submit.success.header": " ",
 		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
