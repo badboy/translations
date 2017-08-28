@@ -437,8 +437,9 @@
 		"purchase.credits.modal.complete.order": "Complete purchase",
 		
 		
-		"components.contact.form.error.reset.form": "Do you want to try again? Click here.",
-		"components.contact.form.success.reset.form": "Do you want to send another question? Click here.",
+		"components.contact.form.reset.form": "Click here",
+		"components.contact.form.error.reset.form": "Do you want to try again?",
+		"components.contact.form.success.reset.form": "Do you want to send another question?",
 
 
 		"confirmation.modal.default.cancel.button": "Cancel",
