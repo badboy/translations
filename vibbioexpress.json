@@ -440,6 +440,9 @@
 		"components.contact.form.reset.form": "Click here",
 		"components.contact.form.error.reset.form": "Do you want to try again?",
 		"components.contact.form.success.reset.form": "Do you want to send another question?",
+		"components.contact.form..submit.success.header": "Thanks for reaching out!",
+		"components.contact.form.submit.success.body": "Your message has successfully been sent to VIBBIO and we will contact you very soon!",
+
 
 
 		"confirmation.modal.default.cancel.button": "Cancel",
@@ -456,9 +459,7 @@
 		"support.page.contactform.label.email": "Email*",
 		"support.page.contactform.label.name": "Name*",
 		"support.page.contactform.contact.button": "Contact us",
-		"support.page.contactform.submit.success.header": "Thanks for reaching out!",
-		"support.page.contactform.submit.success.body": "Your message has successfully been sent to VIBBIO Express and we will contact you very soon!",
-
+		
 		"public.landingpage.top.banner.video.id": "216797388",
 		"public.landingpage.top.banner.title": "VIBBIO is a platform where you can order video production on-demand.",
 		"public.landingpage.top.banner.signup.button": "Sign up",
