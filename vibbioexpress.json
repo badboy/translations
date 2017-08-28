@@ -678,7 +678,8 @@
 		
 		"profile.account.settings.title": "Account setting",
 		
-		"profile.account.settings.design.profile.color.profile.label": "Color palette",
+		"profile.account.settings.design.profile.color.profile.label": "Colour palette",
+		"profile.account.settings.design.profile.color.profile.description": "Write in the html colour codes of your two main colours",
 		"profile.account.settings.design.profile.title": "Corporate visual profile",
 		"profile.account.settings.design.profile.color.1.label": "Color 1",
 		"profile.account.settings.design.profile.color.2.label": "Color 2",
