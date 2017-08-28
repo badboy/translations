@@ -503,6 +503,14 @@
 		"landingpage.become.user.benefits": "User benefits",
 
 		"landingpage.order.video.pricing": "Pricing and options",
+		
+		"public.pages.get.started.examples.header": "Examples",
+		"public.pages.get.started.examples.url.1": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1773053102724267%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.2": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1820504597979117%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.3": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhunspanderer%2Fvideos%2F1671007922941473%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.4": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhunspanderer%2Fvideos%2F1671007922941473%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.5": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1460717733957807%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.6": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1715184881844423%2F&show_text=0&width=400",
 
 		"public.pages.faq.title": "FAQ",
 		"public.pages.faq.description.first.line": "Here is a comprehensive list of our most frequently asked questions.",
