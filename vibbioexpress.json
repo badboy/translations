@@ -649,8 +649,11 @@
 		"description.example.title": "Example:",
 		"description.add.description.error.message": "You have to add a description about your idea!",
 
-		"express.no.page.found": "Could not find the page you are looking for",
-		"express.no.page.return.home": "Return to homepage",
+		"public.pages.no.page.found.title": "Could not find the page you are looking for",
+		"public.pages.no.page.found.description": "Oh no, we can't find the page you are looking for. Please make sure the url is correct.",
+		"public.pages.no.page.found.return.home": "Return to homepage",
+		
+		
 		"breadcrumb.prefix.text": "You are here: ",
 
 		"userinfo.button.neworder.text": "Order a new video",
