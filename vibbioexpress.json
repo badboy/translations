@@ -435,6 +435,10 @@
 		"purchase.credits.modal.sum": "{sum} {currency} will be added to your next invoice.",
 		"purchase.credits.modal.cancel": "Cancel",
 		"purchase.credits.modal.complete.order": "Complete purchase",
+		
+		
+		"components.contact.form.error.reset.form": "Do you want to try again? Click here.",
+		"components.contact.form.success.reset.form": "Do you want to send another question? Click here.",
 
 
 		"confirmation.modal.default.cancel.button": "Cancel",
