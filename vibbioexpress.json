@@ -114,6 +114,18 @@
 		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
 		
+		"public.pages.contact.us.title": "Contact us",
+		"public.pages.contact.us.contactform.title": "Do you have a question or an enquiry",
+		"public.pages.contact.us.contactform.description": "Get in touch, and we will get back as soon as possible",
+		"public.pages.contact.us.contact.description": "Contact us anytime on:",
+		"public.pages.contact.us.team.button.label": "To find a particular person click:",
+		"public.pages.contact.us.team.button.text": "The team",
+		"public.pages.contact.us.address.label": "Where to find us?",
+		"public.pages.contact.us.address": "<p>VIBBIO HQ</p><p>Markveien 35c, 0554 Oslo, Norway</p>",
+		"public.pages.contact.us.address.entrance": "(Entrance from Sofienberggata)",
+	
+		
+		
 		"public.pages.support.title": "How can we help you?",
 		"public.pages.support.searchbox.placeholder": "Search",
 		"public.pages.support.how.to.use": "How to use VIBBIO",
