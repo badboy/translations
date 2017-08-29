@@ -733,6 +733,11 @@
 		"profile.account.settings.design.profile.upload.font": "Upload your font",
 		"profile.account.settings.design.profile.back.button.text": "Back to My Account",
 		
+		"profile.account.settings.team.members.add.member.title": "Team members", 
+		"profile.account.settings.team.members.add.member.label": "Team member's email",
+		"profile.account.settings.team.members.add.member.button.text": "Add member",
+		"profile.account.settings.team.members.add.member.add.button.text": "Add another team member",
+		
 		
 		"library.files.file.rename": "New name",
 		"library.uploader.title": "Upload files to your library",
