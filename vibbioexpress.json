@@ -77,14 +77,16 @@
 		"public.plan.tooltip.PREMIUM": "<p>Example of use: 11.000 credits:</p><ul><li>Order 11 new videos - or</li><li>Order 7 videos in two languages - or</li><li>Order 8 videos and make four medium and ten small changes</li></ul>",
 
 		"public.signup.title": "Become a user:",
-		"public.signup.companyname.label": "Company name",
-		"public.signup.shortname.label": "Username for company",
+		"public.signup.companyname.label": "Company name*",
+		"public.signup.shortname.label": "Username for company*",
+		"public.signup.shortname.tooltip":"Choose a username for your account using the characters a-z.",
 		"public.signup.shortname.validation.available.error": "The username is taken. Choose another.",
 		"public.signup.shortname.validation.available.valid": "The username is available.",
 		"public.signup.shortname.validation.format.error": "The username can only contain of characters from a-z.",
-		"public.signup.contact.person.label": "Contact person (Admin)",
-		"public.signup.contact.email.label": "Contact email (User name)",
-		"public.signup.contact.telephone.label": "Contact telephone",
+		"public.signup.contact.person.label": "Contact person (Admin)*",
+		"public.signup.contact.email.label": "Contact email (User name)*",
+
+		"public.signup.contact.telephone.label": "Contact telephone*",
 		"public.signup.subscription.label": "Your chosen subscription",
 		"public.signup.subscription.trial": "Trial",
 		"public.signup.subscription.trial.infotext": "Test out the user experience for 90 days",
@@ -107,10 +109,10 @@
 
 		"public.signup.button.cancel": "Cancel",
 		"public.signup.button.proceed": "Sign up",
-		"public.signup.modal.confirm.title": "Confirm your registration",
-		"public.signup.modal.confirm.description": "Yes I want to become a user",
-		
-		"public.signup.submit.success.header": " ",
+		"public.signup.modal.confirm.title": "Confirmation",
+		"public.signup.modal.confirm.description": "Yes, I want to sign up to become a VIBBIO User.",
+
+		"public.signup.submit.success.header": "Sign-up complete.",
 		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
 		
@@ -503,7 +505,7 @@
 		"landingpage.become.user.benefits": "User benefits",
 
 		"landingpage.order.video.pricing": "Pricing and options",
-		
+
 		"public.pages.get.started.examples.header": "Examples",
 		"public.pages.get.started.examples.url.1": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1773053102724267%2F&show_text=0&width=400",
 		"public.pages.get.started.examples.url.2": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1820504597979117%2F&show_text=0&width=400",
@@ -653,8 +655,8 @@
 		"public.pages.no.page.found.title": "Could not find the page you are looking for",
 		"public.pages.no.page.found.description": "Oh no, we can't find the page you are looking for. Please make sure the url is correct.",
 		"public.pages.no.page.found.return.home": "Return to homepage",
-		
-		
+
+
 		"breadcrumb.prefix.text": "You are here: ",
 
 		"userinfo.button.neworder.text": "Order a new video",
