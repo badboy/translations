@@ -705,6 +705,9 @@
 		"profile.organizationinfo.form.cancel.button": "Cancel",
 		"profile.organizationinfo.form.submit.button": "Save",
 		
+		"profile.account.page.title": "My account",
+		"profile.account.subscription.pack.title": "Subscription plan",
+		
 		"profile.account.settings.title": "Account setting",
 		
 		"profile.account.settings.design.profile.color.profile.label": "Colour palette",
