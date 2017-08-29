@@ -71,7 +71,7 @@
 		"public.plan.PREMIUM.5": "2 TB",
 		"public.plan.PREMIUM.6": "Up to 11",
 
-		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><ul><li>90 days free access</li><li>Upload visuals to create your library</li><li>Invite your team to participate</li><li>Test the 4-step video ordering system</li><li>Purchase credits to process an order</li></ul>",
+		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
 		"public.plan.tooltip.BASIC": "<p>Example of use: 2.000 credits:</p><ul><li>Order two new videos - or</li><li>Order one new video and two additional formats - or</li><li>Order one video and 10 small changes</li></ul>",
 		"public.plan.tooltip.PLUS": "<p>Example of use: 5.000 credits:</p><ul><li>Order five new videos - or</li><li>Order four new videos, one teaser and two small changes - or</li><li>Order three videos in two different formats and make five small changes</li></ul>",
 		"public.plan.tooltip.PREMIUM": "<p>Example of use: 11.000 credits:</p><ul><li>Order 11 new videos - or</li><li>Order 7 videos in two languages - or</li><li>Order 8 videos and make four medium and ten small changes</li></ul>",
