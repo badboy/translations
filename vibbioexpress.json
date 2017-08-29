@@ -957,7 +957,7 @@
 		"public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
 		"public.pages.company.theteam.board.5.title": "Communication Specialist",
 		
-		"ordering.project.name.tooltip": "Name your video.Example: \"Fall campaign video 1\"",
+		"ordering.project.name.tooltip": "Name your video. Example: \"Fall campaign video 1\"",
 
 		"ordering.description.tooltip": "Example: We want to kick off our fall marketing campaign on Facebook with this video.The video should be eye - catching and fun.",
 
@@ -967,7 +967,7 @@
 
 		"ordering.length.tooltip": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
 
-		"ordering.files.header.tooltip": "Place your visual content in the right order.",
+		"ordering.files.order.tooltip": "Place your visual content in the right order.",
 
 		"ordering.files.clips.tooltip": "Drop or upload your visual content into this column. If you want a plain background with text, leave the clips/image box empty. For video: remember to add timestamps so we know what part of the clip you want to use (ie. 00:11-00:25).",
 
@@ -980,5 +980,10 @@
 		"profile.account.settings.design.profile.tooltip": "Upload your visual profile here. This will be used in all of your videos, unless you specify otherwise.",
 
 		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files."
+		
+		"ordering.files.column.order": "Order",
+		"ordering.files.column.clips": "Clips/Image",
+		"ordering.files.column.text": "Text to be added",
+		"ordering.files.column.comments": "Comments"
 	}
 }
