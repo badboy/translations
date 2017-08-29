@@ -975,11 +975,11 @@
 
 		"ordering.files.comments.tooltip": "Any specific requests for this clip? Leave it here!",
 
-		"ordering.files.comments.extra": "Upload extra visual content here, and let us know where you want it. ",
+		"ordering.files.extra.tooltip": "Upload extra visual content here, and let us know where you want it. ",
 
 		"profile.account.settings.design.profile.tooltip": "Upload your visual profile here. This will be used in all of your videos, unless you specify otherwise.",
 
-		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files."
+		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files.",
 		
 		"ordering.files.column.order": "Order",
 		"ordering.files.column.clips": "Clips/Image",
