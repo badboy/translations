@@ -319,7 +319,7 @@
 		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
 
 		"ordering.order.success.OK.title": "Your VIBBIO order is confirmed:",
-		"ordering.order.success.ORDERED.title": "Order summary",
+		"ordering.order.success.ORDERED.title": "Your VIBBIO order is confirmed:",
 		"ordering.order.success.COMPLETED.title": "Order summary",
 		"ordering.order.success.go.home.button": "Return to homepage",
 		"ordering.order.success.OK.description": "We will send you the completed video within a couple of days",
