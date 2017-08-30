@@ -817,13 +817,14 @@
 		"details.publishing.infotext.1": "For Facebook we recommend...",
 		"details.publishing.infotext.2": "For YouTube we recommend...",
 		"details.publishing.infotext.3": "For Instagram we recommend...",
+		"details.publishing.infotext.4": "For Instagram story we recommend...",
+		"details.publishing.infotext.5": "For websites we recommend...",
 		
 		"details.publishing.name.1": "Facebook",
-		"details.publishing.description.1": "Facebook",
 		"details.publishing.name.2": "YouTube",
-		"details.publishing.description.2": "YouTube",
 		"details.publishing.name.3": "Instagram",
-		"details.publishing.description.3": "Instagram",
+		"details.publishing.name.4": "Instagram Story",
+		"details.publishing.name.5": "Website",
 		
 		"finished.videos.title": "Finished videos",
 
