@@ -851,7 +851,8 @@
 		"public.pages.inspiration.ideas.banner.box.4.button": "CONTACT US",
 
 		"public.pages.inspiration.getstarted.title": "Get started",
-		"public.pages.inspiration.getstarted.description": "Get started with this introduction video – and stay tuned for more tips & tricks inspiration!",
+		"public.pages.inspiration.getstarted.description": "<p>We started VIBBIO because we love sharing knowledge, and video is the best communication tool. Here are some examples that will show you how simple it can be!</p><p>As you can see, simple variations in use of color, font size and text placement can make a huge impact. When you order from us, we’ll tailor make a video style based on your company’s visual profile.</p>" 
+",
 		"public.pages.inspiration.getstarted.button": "OUR PORTFOLIO",
 
 		"public.pages.company.whatwedo.title": "What we do & why",
