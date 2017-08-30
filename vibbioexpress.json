@@ -810,6 +810,21 @@
 		"lengths.length.description.4": "0-15 sec",
 		"lengths.length.description.0-15s": "0-15 sec",
 
+		"details.publishing.title": "Where do you intend to publish your video?",
+		"details.publishing.infotext.1": "For Facebook we recommend...",
+		"details.publishing.infotext.2": "For YouTube we recommend...",
+		"details.publishing.infotext.3": "For Instagram we recommend...",
+		
+		"details.publishing.name.1": "Facebook",
+		"details.publishing.description.1": "Facebook",
+		"details.publishing.description.45-60s": "Facebook",
+		"details.publishing.name.2": "YouTube",
+		"details.publishing.description.2": "YouTube",
+		"details.publishing.description.30-45s": "YouTube",
+		"details.publishing.name.3": "Instagram",
+		"details.publishing.description.3": "Instagram",
+		"details.publishing.description.15-30s": "Instagram",
+		
 		"finished.videos.title": "Finished videos",
 
 		"public.pages.inspiration.whyvideo.title": "Why video?",
