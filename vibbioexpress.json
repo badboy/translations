@@ -814,6 +814,7 @@
 		"lengths.length.description.0-15s": "0-15 sec",
 
 		"details.publishing.title": "Where do you intend to publish your video?",
+		"details.publishing.infotext.before": "Select a platform to learn what formats and lengths is ideal",
 		"details.publishing.infotext.1": "For Facebook we recommend...",
 		"details.publishing.infotext.2": "For YouTube we recommend...",
 		"details.publishing.infotext.3": "For Instagram we recommend...",
