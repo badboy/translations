@@ -304,6 +304,7 @@
 		"ordering.summary.channel.label": "Channel: ",
 		"ordering.summary.format.label": "Format: ",
 		"ordering.summary.length.label": "Length: ",
+		"ordering.summary.price.label": "Credit cost: ",
 		"ordering.summary.files.timestamp.from": "From: {from} - {to}",
 		"ordering.summary.files.clip.order": "Order",
 		"ordering.summary.files.clip.header": "Clip/Image",
