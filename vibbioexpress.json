@@ -77,14 +77,16 @@
 		"public.plan.tooltip.PREMIUM": "<p>Example of use: 11.000 credits:</p><ul><li>Order 11 new videos - or</li><li>Order 7 videos in two languages - or</li><li>Order 8 videos and make four medium and ten small changes</li></ul>",
 
 		"public.signup.title": "Become a user:",
-		"public.signup.companyname.label": "Company name",
-		"public.signup.shortname.label": "Username for company",
+		"public.signup.companyname.label": "Company name*",
+		"public.signup.shortname.label": "Username for company*",
+		"public.signup.shortname.tooltip":"Choose a username for your account using the characters a-z.",
 		"public.signup.shortname.validation.available.error": "The username is taken. Choose another.",
 		"public.signup.shortname.validation.available.valid": "The username is available.",
 		"public.signup.shortname.validation.format.error": "The username can only contain of characters from a-z.",
-		"public.signup.contact.person.label": "Contact person (Admin)",
-		"public.signup.contact.email.label": "Contact email (User name)",
-		"public.signup.contact.telephone.label": "Contact telephone",
+		"public.signup.contact.person.label": "Contact person (Admin)*",
+		"public.signup.contact.email.label": "Contact email (User name)*",
+
+		"public.signup.contact.telephone.label": "Contact telephone*",
 		"public.signup.subscription.label": "Your chosen subscription",
 		"public.signup.subscription.trial": "Trial",
 		"public.signup.subscription.trial.infotext": "Test out the user experience for 90 days",
@@ -107,10 +109,10 @@
 
 		"public.signup.button.cancel": "Cancel",
 		"public.signup.button.proceed": "Sign up",
-		"public.signup.modal.confirm.title": "Confirm your registration",
-		"public.signup.modal.confirm.description": "Yes I want to become a user",
-		
-		"public.signup.submit.success.header": " ",
+		"public.signup.modal.confirm.title": "Confirmation",
+		"public.signup.modal.confirm.description": "Yes, I want to sign up to become a VIBBIO User.",
+
+		"public.signup.submit.success.header": "Sign-up complete.",
 		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
 		
@@ -504,7 +506,7 @@
 		"landingpage.become.user.benefits": "User benefits",
 
 		"landingpage.order.video.pricing": "Pricing and options",
-		
+
 		"public.pages.get.started.examples.header": "Examples",
 		"public.pages.get.started.examples.url.1": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1773053102724267%2F&show_text=0&width=400",
 		"public.pages.get.started.examples.url.2": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1820504597979117%2F&show_text=0&width=400",
@@ -519,14 +521,15 @@
 		"public.pages.faq.button": "Contact us",
 		"public.pages.faq.link.text": "FAQ",
 		"public.pages.faq.section.1": "General",
-		"public.pages.faq.section.1.question.1": "My clips are too long to upload, what can I do?",
-		"public.pages.faq.section.1.answer.1": "While we are in beta, the maximum file size is 700 MB. If you have a larger file, send it to help@vibbio.com and we can upload it for you.",
-		"public.pages.faq.section.1.question.2": "Can I make  changes once I’ve placed an order?",
-		"public.pages.faq.section.1.answer.2": "As the video is based on your instructions, you can use your credits to make changes or create a new version.",
-		"public.pages.faq.section.1.question.3": "What file types can I upload?",
-		"public.pages.faq.section.1.answer.3": "We accept these file types: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.",
-		"public.pages.faq.section.1.question.4": "Can I order a video without becoming a user?",
-		"public.pages.faq.section.1.answer.4": "You sure can! Either order a full production here, or start a free trial and purchase credits to place an order.",
+		"public.pages.faq.section.1.subsection.1": "The order process",
+		"public.pages.faq.section.1.subsection.1.question.1": "My clips are too long to upload, what can I do?",
+		"public.pages.faq.section.1.subsection.1.answer.1": "While we are in beta, the maximum file size is 700 MB. If you have a larger file, send it to help@vibbio.com and we can upload it for you.",
+		"public.pages.faq.section.1.subsection.1.question.2": "Can I make  changes once I’ve placed an order?",
+		"public.pages.faq.section.1.subsection.1.answer.2": "As the video is based on your instructions, you can use your credits to make changes or create a new version.",
+		"public.pages.faq.section.1.subsection.1.question.3": "What file types can I upload?",
+		"public.pages.faq.section.1.subsection.1.answer.3": "We accept these file types: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.",
+		"public.pages.faq.section.1.subsection.1.question.4": "Can I order a video without becoming a user?",
+		"public.pages.faq.section.1.subsection.1.answer.4": "You sure can! Either order a full production here, or start a free trial and purchase credits to place an order.",
 
 		"public.pages.faq.section.2": "VIBBIO Users",
 		"public.pages.faq.section.2.subsection.1": "The order process",
@@ -653,8 +656,8 @@
 		"public.pages.no.page.found.title": "Could not find the page you are looking for",
 		"public.pages.no.page.found.description": "Oh no, we can't find the page you are looking for. Please make sure the url is correct.",
 		"public.pages.no.page.found.return.home": "Return to homepage",
-		
-		
+
+
 		"breadcrumb.prefix.text": "You are here: ",
 
 		"userinfo.button.neworder.text": "Order a new video",
@@ -874,7 +877,7 @@
 
 
 
-		"public.pages.landingpage.video.url.id": "216797388",
+		"public.pages.landingpage.video.url.id": "231544979",
 		"public.pages.landingpage.examples.video.url.id.1": "230135182",
 		"public.pages.landingpage.examples.video.url.id.2": "230134141",
 		"public.pages.landingpage.examples.video.url.id.3": "220789799",
@@ -885,7 +888,7 @@
 		"public.pages.get.started.video.url.id": "230763246",
 		"public.pages.video.ideas.video.url.id": "216797388",
 		"public.pages.become.a.user.video.url.id": "216797388",
-		"public.pages.video.production.video.url.id": "216797388",
+		"public.pages.video.production.video.url.id": "231543605",
 
 		"public.pages.company.theteam.employee.1.name": "Marianne Bratt Ricketts",
 		"public.pages.company.theteam.employee.1.title": "CEO & Co-founder",
@@ -958,7 +961,7 @@
 		"public.pages.company.theteam.employee.14.phone": "+47 911 47 845",
 
 		"public.pages.company.theteam.board.1.name": "Anders Lier",
-		"public.pages.company.theteam.board.1.title": "<p>VIBBIO Board Member</p><p>Chariman of Nordic Impact</p>",
+		"public.pages.company.theteam.board.1.title": "VIBBIO Board Member. Chariman of Nordic Impact",
 
 		"public.pages.company.theteam.board.2.name": "Rolf Assev",
 		"public.pages.company.theteam.board.2.title": "Partner at StartupLab",
@@ -970,6 +973,35 @@
 		"public.pages.company.theteam.board.4.title": "COO M&M Bank",
 
 		"public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
-		"public.pages.company.theteam.board.5.title": "Communication Specialist"
+		"public.pages.company.theteam.board.5.title": "Communication Specialist",
+		
+		"ordering.project.name.tooltip": "Name your video. Example: \"Fall campaign video 1\"",
+
+		"ordering.description.tooltip": "Example: We want to kick off our fall marketing campaign on Facebook with this video.The video should be eye - catching and fun.",
+
+		"ordering.publish.platform.tooltip": "Some platforms prefer square videos while others use the more standard 16:9. Let us know where you want to publish the video, and we’ll suggest a suitable format and length.",
+
+		"ordering.format.tooltip": "<p>16:9 - The standard video format that you see on ex. Youtube.</p><p>9:16 - “Vertical video”, a format optimized to fit a mobile screen.</p><p>1:1 - A normal square, perfect for Instagram, but also looks great on Facebook.</p><p>5:4 - This format is a bit taller than it is wide, so it is a step towards vertical video without being too drastic.</p>",
+
+		"ordering.length.tooltip": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
+
+		"ordering.files.order.tooltip": "Place your visual content in the right order.",
+
+		"ordering.files.clips.tooltip": "Drop or upload your visual content into this column. If you want a plain background with text, leave the clips/image box empty. For video: remember to add timestamps so we know what part of the clip you want to use (ie. 00:11-00:25).",
+
+		"ordering.files.text.tooltip": "Add the text you want in this column. Place it next to the video clip/image chosen.",
+
+		"ordering.files.comments.tooltip": "Any specific requests for this clip? Leave it here!",
+
+		"ordering.files.extra.tooltip": "Upload extra visual content here, and let us know where you want it. ",
+
+		"profile.account.settings.design.profile.tooltip": "Upload your visual profile here. This will be used in all of your videos, unless you specify otherwise.",
+
+		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files.",
+		
+		"ordering.files.column.order": "Order",
+		"ordering.files.column.clips": "Clips/Image",
+		"ordering.files.column.text": "Text to be added",
+		"ordering.files.column.comments": "Comments"
 	}
 }
