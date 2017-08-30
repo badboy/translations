@@ -318,13 +318,14 @@
 		"ordering.summary.confirm.order.title": "Have you finished your order?",
 		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
 
-		"ordering.order.success.OK.title": "Ordering completed",
+		"ordering.order.success.OK.title": "Your VIBBIO order is confirmed:",
 		"ordering.order.success.ORDERED.title": "Order summary",
 		"ordering.order.success.COMPLETED.title": "Order summary",
-		"ordering.order.success.OK.description": "Your VIBBIO order is confirmed.",
-		"ordering.order.success.ORDERED.description": "Your video is in progress.",
-		"ordering.order.success.COMPLETED.description": "Your video is completed.",
 		"ordering.order.success.go.home.button": "Return to homepage",
+		"ordering.order.success.OK.description": "We will send you the completed video within a couple of days",
+		"ordering.order.success.ORDERED.description": "We will send you the completed video within a couple of days",
+		"ordering.order.success.COMPLETED.description": "Your video is finished and is available under \"Finished Videos\".",
+		"ordering.order.success.questions": "<p>Our team is happy to help if you have any questions.</p><p class=\"vibbio-link\">You can reach us anytime at hello@vibbio.com</p>",
 
 		"ordering.order.success.version.info.title": "Version information",
 		"ordering.order.success.version.type.label": "Version type: ",
@@ -332,7 +333,8 @@
 		"ordering.order.success.CHANGE_TEXT.description": "This version contains a single change of text: ",
 		"ordering.order.success.NEW_FORMAT.description": "This version has a different format than the original version. New format: ",
 		"ordering.order.success.NEW_LANGUAGE.description": "This version contains a new language.",
-		"ordering.order.success.copied.from": "Copied from order: ",
+		"ordering.order.success.copied.from": "New version of order: ",
+
 
 		"ordering.order.ordered.delivery": "You will find the completed order in Finished Videos in a couple of days.",
 		"ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
