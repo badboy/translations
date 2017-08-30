@@ -79,7 +79,7 @@
 		"public.signup.title": "Become a user:",
 		"public.signup.companyname.label": "Company name*",
 		"public.signup.shortname.label": "Username for company*",
-		"public.signup.shortname.tooltip":"Choose a username for your account using the characters a-z.",
+		"public.signup.shortname.tooltip": "Choose a username for your account using the characters a-z.",
 		"public.signup.shortname.validation.available.error": "The username is taken. Choose another.",
 		"public.signup.shortname.validation.available.valid": "The username is available.",
 		"public.signup.shortname.validation.format.error": "The username can only contain of characters from a-z.",
@@ -115,7 +115,7 @@
 		"public.signup.submit.success.header": "Sign-up complete.",
 		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
-		
+
 		"public.pages.contact.us.title": "Contact us",
 		"public.pages.contact.us.contactform.title": "Do you have a question or an enquiry?",
 		"public.pages.contact.us.contactform.description": "Get in touch, and we will get back as soon as possible",
@@ -125,9 +125,9 @@
 		"public.pages.contact.us.address.label": "Where to find us?",
 		"public.pages.contact.us.address": "<p>VIBBIO HQ</p><p>Markveien 35c, 0554 Oslo, Norway</p>",
 		"public.pages.contact.us.address.entrance": "(Entrance from Sofienberggata)",
-	
-		
-		
+
+
+
 		"public.pages.support.title": "How can we help you?",
 		"public.pages.support.searchbox.placeholder": "Search",
 		"public.pages.support.how.to.use": "How to use VIBBIO",
@@ -200,15 +200,15 @@
 		"public.pages.products.booking.video.on.demand.more.trends.button": "More on trends",
 
 		"public.pages.products.booking.single.multi.productions.title": "Single/multi video productions",
-		
+
 		"public.pages.products.booking.single.multi.productions.rows.1": "    ",
 		"public.pages.products.booking.single.multi.productions.rows.2": "Cost per video",
 		"public.pages.products.booking.single.multi.productions.rows.3": "Delivery time",
 		"public.pages.products.booking.single.multi.productions.rows.3.tooltip": "public.pages.products.booking.single.multi.productions.deliverytime.tooltip.text",
 		"public.pages.products.booking.single.multi.productions.rows.4": "Included",
 		"public.pages.products.booking.single.multi.productions.deliverytime.tooltip.text": "Delivery time is per project",
-		
-		
+
+
 		"public.pages.products.booking.single.multi.productions.SINGLE.1": "Single",
 		"public.pages.products.booking.single.multi.productions.SINGLE.2": "<p>NOK 40.000</p><p>EUR 4.000</p>",
 		"public.pages.products.booking.single.multi.productions.SINGLE.3": "5-7 days",
@@ -287,11 +287,11 @@
 		"ordering.back.button.text": "Back",
 		"ordering.files.time.start.description": "From",
 		"ordering.files.time.end.description": "To",
-		
+
 		"ordering.extra.material.title": "Extra Material",
 		"ordering.extra.material.description": "If you have extra clips and images that can be used if needed, please add those here:",
 		"ordering.extra.material.add.button.text": "Add extra material",
-		
+
 		"ordering.order.form.next.button.text": "Next: Summary",
 		"ordering.price.header": "Total credit cost",
 		"ordering.total.price": "Total credit cost: {price}",
@@ -325,7 +325,7 @@
 		"ordering.order.success.ORDERED.description": "Your video is in progress.",
 		"ordering.order.success.COMPLETED.description": "Your video is completed.",
 		"ordering.order.success.go.home.button": "Return to homepage",
-		
+
 		"ordering.order.success.version.info.title": "Version information",
 		"ordering.order.success.version.type.label": "Version type: ",
 		"ordering.order.success.NEW_INTRO_OUTRO.description": "This version contains a new intro or outro from the original version. Change: ",
@@ -333,7 +333,7 @@
 		"ordering.order.success.NEW_FORMAT.description": "This version has a different format than the original version. New format: ",
 		"ordering.order.success.NEW_LANGUAGE.description": "This version contains a new language.",
 		"ordering.order.success.copied.from": "Copied from order: ",
-		
+
 		"ordering.order.ordered.delivery": "You will find the completed order in Finished Videos in a couple of days.",
 		"ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
 
@@ -360,29 +360,29 @@
 		"orders.new.version.intro.outro.upload.new.file": "Upload and describe your new content",
 		"orders.new.version.intro.label": "New intro",
 		"orders.new.version.outro.label": "New outro",
-		
-		
+
+
 		"orders.new.version.language.fileText.header": "Original file text",
 		"orders.new.version.language.comment.header": "Comments",
 		"orders.new.version.language.translation.header": "New translation",
-		
+
 		"orders.new.version.change.clip.original.image.header": "Original clip/image",
 		"orders.new.version.change.clip.original.filetext.header": "Original file text",
 		"orders.new.version.change.clip.original.comment.header": "Original comment",
 		"orders.new.version.change.clip.add.new.clip.title": "Upload your new clip",
 		"orders.new.version.change.clip.add.description.title": "Add a description about how you want your clip/image to be used.",
 		"orders.new.version.finish.button": "Order video",
-		
-		
+
+
 		"orders.new.version.row.content.add.new.file": "Choose another file",
 		"orders.new.version.row.content.add.file": "Choose file",
-		
+
 		"orders.new.version.order.success.title": "New version successfully ordered!",
-		
-		
+
+
 		"orders.new.version.confirmation.modal.title": "Have you finished your order?",
 		"orders.new.version.confirmation.modal.description": "Finished your order by clicking \"Confirm\".",
-		
+
 		"library.banner.modal.title": "Select the file you want to use",
 		"library.banner.modal.select.button.text": "Use file",
 		"library.banner.modal.cancel.button.text": "Cancel",
@@ -449,8 +449,8 @@
 		"purchase.credits.modal.sum": "{sum} {currency} will be added to your next invoice.",
 		"purchase.credits.modal.cancel": "Cancel",
 		"purchase.credits.modal.complete.order": "Complete purchase",
-		
-		
+
+
 		"components.contact.form.reset.form": "Click here",
 		"components.contact.form.error.reset.form": "Do you want to try again?",
 		"components.contact.form.success.reset.form": "Do you want to send another question?",
@@ -473,7 +473,7 @@
 		"support.page.contactform.label.email": "Email*",
 		"support.page.contactform.label.name": "Name*",
 		"support.page.contactform.contact.button": "Contact us",
-		
+
 		"public.landingpage.top.banner.video.id": "216797388",
 		"public.landingpage.top.banner.title": "VIBBIO is a platform where you can order video production on-demand.",
 		"public.landingpage.top.banner.signup.button": "Sign up",
@@ -711,7 +711,7 @@
 		"profile.billing.info.button.enter": "Billing information",
 		"profile.billing.info.default.header": "Billing information",
 		"profile.billing.info.noinfo.text": "You have not registered your billing information.",
-		
+
 		"profile.organizationinfo.edit.header": "Edit company information",
 		"profile.organizationinfo.form.label.name": "Company name:",
 		"profile.organizationinfo.form.label.phone": "Phone:",
@@ -719,21 +719,21 @@
 		"profile.organizationinfo.form.label.contactPerson": "Contact person:",
 		"profile.organizationinfo.form.cancel.button": "Cancel",
 		"profile.organizationinfo.form.submit.button": "Save",
-		
+
 		"profile.account.page.title": "My account",
 		"profile.account.subscription.pack.title": "Subscription plan",
 		"profile.account.subscription.pack.chosen.pack": "Chosen pack",
 		"profile.account.subscription.pack.monthly.credits": "Monthly credits",
 		"profile.account.subscription.pack.expiration.date": "Expiration date",
-		
+
 		"profile.account.organization.info.title": "Organization information",
 		"profile.account.organization.info.company.name": "Company name",
 		"profile.account.organization.info.contact.person": "Contact person",
 		"profile.account.organization.info.phone": "Contact phone",
-		
-		
+
+
 		"profile.account.settings.title": "Account setting",
-		
+
 		"profile.account.settings.design.profile.color.profile.label": "Colour palette",
 		"profile.account.settings.design.profile.color.profile.description": "Write in the html colour codes of your two main colours",
 		"profile.account.settings.design.profile.title": "Corporate visual profile",
@@ -747,19 +747,19 @@
 		"profile.account.settings.design.profile.no.font": "No font uploaded",
 		"profile.account.settings.design.profile.upload.font": "Upload your font",
 		"profile.account.settings.design.profile.back.button.text": "Back to My Account",
-		
-		"profile.account.settings.team.members.add.member.title": "Team members", 
+
+		"profile.account.settings.team.members.add.member.title": "Team members",
 		"profile.account.settings.team.members.add.member.label": "Team member's email",
 		"profile.account.settings.team.members.add.member.button.text": "Add member",
 		"profile.account.settings.team.members.add.member.add.button.text": "Add another team member",
-		
+
 		"account.settings.change.subscription.confirm.modal.title": "CONFIRMATION",
 		"account.settings.change.subscription.confirm.modal.description": "Please confirm that you want to change your user plan. Your new user plan will be activated on your next renewal date.",
 		"account.settings.change.subscription.success.header": "Your user plan is now changed.",
 		"account.settings.change.subscription.success.description": "You have now successfully changed your user plan. It will be activated on your next renewal date.",
 		"account.settings.change.subscription.success.back.button.text": "Back to my account",
-		
-		
+
+
 		"library.files.file.rename": "New name",
 		"library.uploader.title": "Upload files to your library",
 		"library.upload.files.button": "Upload files",
@@ -851,8 +851,7 @@
 		"public.pages.inspiration.ideas.banner.box.4.button": "CONTACT US",
 
 		"public.pages.inspiration.getstarted.title": "Get started",
-		"public.pages.inspiration.getstarted.description": "<p>We started VIBBIO because we love sharing knowledge, and video is the best communication tool. Here are some examples that will show you how simple it can be!</p><p>As you can see, simple variations in use of color, font size and text placement can make a huge impact. When you order from us, we’ll tailor make a video style based on your company’s visual profile.</p>" 
-",
+		"public.pages.inspiration.getstarted.description": "<p>We started VIBBIO because we love sharing knowledge, and video is the best communication tool. Here are some examples that will show you how simple it can be!</p><p>As you can see, simple variations in use of color, font size and text placement can make a huge impact. When you order from us, we’ll tailor make a video style based on your company’s visual profile.</p>",
 		"public.pages.inspiration.getstarted.button": "OUR PORTFOLIO",
 
 		"public.pages.company.whatwedo.title": "What we do & why",
@@ -992,7 +991,7 @@
 
 		"public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
 		"public.pages.company.theteam.board.5.title": "Communication Specialist",
-		
+
 		"ordering.project.name.tooltip": "Name your video. Example: \"Fall campaign video 1\"",
 
 		"ordering.description.tooltip": "Example: We want to kick off our fall marketing campaign on Facebook with this video.The video should be eye - catching and fun.",
@@ -1016,7 +1015,7 @@
 		"profile.account.settings.design.profile.tooltip": "Upload your visual profile here. This will be used in all of your videos, unless you specify otherwise.",
 
 		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files.",
-		
+
 		"ordering.files.column.order": "Order",
 		"ordering.files.column.clips": "Clips/Image",
 		"ordering.files.column.text": "Text to be added",
