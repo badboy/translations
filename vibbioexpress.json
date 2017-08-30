@@ -610,7 +610,8 @@
 		"public.pages.faq.section.5.subsection.1.question.4": "How can I upgrade/downgrade my user plan?",
 		"public.pages.faq.section.5.subsection.1.answer.4": "You can find that option in your Account Settings. If you want to know more about our different user plans, click here.",
 
-
+		"public.footer.cookie.information": "We use cookies on our pages to give you the best user experience. By continuing to use our pages you agree to this.",
+		"public.footer.cookie.link.text": "Find out more here",
 		"cookies.page.title": "Privacy Policy on Cookie Usage",
 		"cookies.page.paragraphs": [{
 				"title": "About cookies",
