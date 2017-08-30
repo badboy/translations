@@ -318,14 +318,24 @@
 		"ordering.summary.confirm.order.title": "Have you finished your order?",
 		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
 
-		"ordering.order.success.success.title": "Ordering completed",
-		"ordering.order.success.description": "Your VIBBIO order is confirmed.",
+		"ordering.order.success.OK.title": "Ordering completed",
+		"ordering.order.success.ORDERED.title": "Order summary",
+		"ordering.order.success.COMPLETED.title": "Order summary",
+		"ordering.order.success.OK.description": "Your VIBBIO order is confirmed.",
+		"ordering.order.success.ORDERED.description": "Your video is in progress.",
+		"ordering.order.success.COMPLETED.description": "Your video is completed.",
 		"ordering.order.success.go.home.button": "Return to homepage",
-
-		"ordering.order.ordered.title": "Here’s what you ordered:",
+		
+		"ordering.order.success.version.info.title": "Version information",
+		"ordering.order.success.version.type.label": "Version type: ",
+		"ordering.order.success.NEW_INTRO_OUTRO.description": "This version contains a new intro or outro from the original version. Change: ",
+		"ordering.order.success.CHANGE_TEXT.description": "This version contains a single change of text: ",
+		"ordering.order.success.NEW_FORMAT.description": "This version has a different format than the original version. New format: ",
+		"ordering.order.success.NEW_LANGUAGE.description": "This version contains a new language.",
+		"ordering.order.success.copied.from": "Copied from order: ",
+		
 		"ordering.order.ordered.delivery": "You will find the completed order in Finished Videos in a couple of days.",
 		"ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
-
 
 		"orders.new.version.title": "Order a new version",
 		"orders.new.version.project.title": "Project title",
