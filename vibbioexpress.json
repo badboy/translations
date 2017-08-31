@@ -816,11 +816,11 @@
 
 		"details.publishing.title": "Where do you intend to publish your video?",
 		"details.publishing.infotext.before": "Select a platform to learn what formats and lengths is ideal",
-		"details.publishing.infotext.1": "For Facebook we recommend...",
-		"details.publishing.infotext.2": "For YouTube we recommend...",
-		"details.publishing.infotext.3": "For Instagram we recommend...",
-		"details.publishing.infotext.4": "For Instagram story we recommend...",
-		"details.publishing.infotext.5": "For websites we recommend...",
+		"details.publishing.infotext.1": "For Facebook we recommend square or tall square, up to 60 sec.",
+		"details.publishing.infotext.2": "For YouTube we recommend horizontal, 45-60 sec.",
+		"details.publishing.infotext.3": "For Instagram we recommend square or tall square, 0-30 sec.",
+		"details.publishing.infotext.4": "For Instagram story we recommend vertical, 0-15 sec.",
+		"details.publishing.infotext.5": "For websites we recommend horizontal, 45-60 sec.",
 		
 		"details.publishing.name.1": "Facebook",
 		"details.publishing.name.2": "YouTube",
