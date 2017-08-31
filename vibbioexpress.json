@@ -750,6 +750,7 @@
 		"profile.account.settings.design.profile.no.font": "No font uploaded",
 		"profile.account.settings.design.profile.upload.font": "Upload your font",
 		"profile.account.settings.design.profile.back.button.text": "Back to My Account",
+		"profile.account.settings.design.profile.auto.save": "All changes to your corporate visual profile are saved automatically.",
 
 		"profile.account.settings.team.members.add.member.title": "Team members",
 		"profile.account.settings.team.members.add.member.label": "Team member's email",
