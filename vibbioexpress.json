@@ -1037,6 +1037,11 @@
 		"ordering.files.column.order": "Order",
 		"ordering.files.column.clips": "Clips/Image",
 		"ordering.files.column.text": "Text to be added",
-		"ordering.files.column.comments": "Comments"
+		"ordering.files.column.comments": "Comments",
+		
+		"public.pages.signup.loggedin.heading": "You are currently logged in",
+		"public.pages.signup.loggedin.info": "You cannot sign up again, do you want to log out or go to your profile page?",
+		"public.pages.signup.loggedin.button.logout": "Log out",
+		"public.pages.signup.loggedin.button.tohomepage": "Go to home page"
 	}
 }
