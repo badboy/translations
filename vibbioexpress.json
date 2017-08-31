@@ -112,8 +112,8 @@
 		"public.signup.modal.confirm.title": "Confirmation",
 		"public.signup.modal.confirm.description": "Yes, I want to sign up to become a VIBBIO User.",
 
-		"public.signup.submit.success.header": "Sign-up complete.",
-		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
+		"public.signup.submit.success.header": "Sign-up complete. Yay!",
+		"public.signup.submit.success.body": "Thanks for signing up! You're almost there. Check your email inbox - we've sent you an email with login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
 
 		"public.pages.contact.us.title": "Contact us",
@@ -1027,7 +1027,7 @@
 
 		"ordering.files.text.tooltip": "Add the text you want in this column. Place it next to the video clip/image chosen.",
 
-		"ordering.files.comments.tooltip": "Any specific requests for this clip? Leave it here!",
+		"ordering.files.comments.tooltip": "Any specific requests for this clip? Add them here!",
 
 		"ordering.files.extra.tooltip": "Upload extra visual content here, and let us know where you want it. ",
 
