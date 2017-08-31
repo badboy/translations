@@ -928,32 +928,32 @@
 
 		"public.pages.company.theteam.employee.1.name": "Marianne Bratt Ricketts",
 		"public.pages.company.theteam.employee.1.title": "CEO & Co-founder",
-		"public.pages.company.theteam.employee.1.email": "marianne@vibbio.com",
+		"public.pages.company.theteam.employee.1.email": "<a href=\"mailto:marianne@vibbio.com\" class=\"vibbio-link\">marianne@vibbio.com</a>",
 		"public.pages.company.theteam.employee.1.phone": "+47 954 19 444",
 
 		"public.pages.company.theteam.employee.2.name": "Stine Norum",
 		"public.pages.company.theteam.employee.2.title": "COO & Co-founder",
-		"public.pages.company.theteam.employee.2.email": "stine@vibbio.com",
+		"public.pages.company.theteam.employee.2.email": "<a href=\"mailto:stine@vibbio.com\" class=\"vibbio-link\">stine@vibbio.com</a>",
 		"public.pages.company.theteam.employee.2.phone": "+47 995 90 802",
 
 		"public.pages.company.theteam.employee.3.name": "Catharina Husjord",
 		"public.pages.company.theteam.employee.3.title": "CFO",
-		"public.pages.company.theteam.employee.3.email": "catharina@vibbio.com",
+		"public.pages.company.theteam.employee.3.email": "<a href=\"mailto:catharina@vibbio.com\" class=\"vibbio-link\">catharina@vibbio.com</a>",
 		"public.pages.company.theteam.employee.3.phone": "+47 951 52 483",
 
 		"public.pages.company.theteam.employee.4.name": "Ingrid Guren",
 		"public.pages.company.theteam.employee.4.title": "Tech Lead",
-		"public.pages.company.theteam.employee.4.email": "ingrid@vibbio.com",
+		"public.pages.company.theteam.employee.4.email": "<a href=\"mailto:ingride@vibbio.com\" class=\"vibbio-link\">ingrid@vibbio.com</a>",
 		"public.pages.company.theteam.employee.4.phone": "+47 470 58 701",
 
 		"public.pages.company.theteam.employee.5.name": "Tana Blegen",
 		"public.pages.company.theteam.employee.5.title": "Head of Communications",
-		"public.pages.company.theteam.employee.5.email": "tana@vibbio.com",
+		"public.pages.company.theteam.employee.5.email": "<a href=\"mailto:tana@vibbio.com\" class=\"vibbio-link\">tanae@vibbio.com</a>",
 		"public.pages.company.theteam.employee.5.phone": "+47 454 03 289",
 
 		"public.pages.company.theteam.employee.6.name": "Ine Autzen",
 		"public.pages.company.theteam.employee.6.title": "Head of Productions",
-		"public.pages.company.theteam.employee.6.email": "ine@vibbio.com",
+		"public.pages.company.theteam.employee.6.email": "<a href=\"mailto:ine@vibbio.com\" class=\"vibbio-link\">ine@vibbio.com</a>",
 		"public.pages.company.theteam.employee.6.phone": "+47 482 95 066",
 
 		"public.pages.company.theteam.employee.7.name": "Alexandra Leisse",
@@ -963,37 +963,37 @@
 
 		"public.pages.company.theteam.employee.8.name": "Line Moseng",
 		"public.pages.company.theteam.employee.8.title": "Developer",
-		"public.pages.company.theteam.employee.8.email": "line@vibbio.com",
+		"public.pages.company.theteam.employee.8.email": "<a href=\"mailto:line@vibbio.com\" class=\"vibbio-link\">line@vibbio.com</a>",
 		"public.pages.company.theteam.employee.8.phone": "+47 909 91 122",
 
 		"public.pages.company.theteam.employee.9.name": "Mathias J. Johansen",
 		"public.pages.company.theteam.employee.9.title": "Developer",
-		"public.pages.company.theteam.employee.9.email": "mathias@vibbio.com",
+		"public.pages.company.theteam.employee.9.email": "<a href=\"mailto:mathias@vibbio.com\" class=\"vibbio-link\">mathias@vibbio.com</a>",
 		"public.pages.company.theteam.employee.9.phone": "+47 416 84 636",
 
 		"public.pages.company.theteam.employee.10.name": "Tina Wold",
 		"public.pages.company.theteam.employee.10.title": "Content Creator",
-		"public.pages.company.theteam.employee.10.email": "tina@vibbio.com",
+		"public.pages.company.theteam.employee.10.email": "<a href=\"mailto:tina@vibbio.com\" class=\"vibbio-link\">tina@vibbio.com</a>",
 		"public.pages.company.theteam.employee.10.phone": "+47 416 02 961",
 
 		"public.pages.company.theteam.employee.11.name": "Morten J. Solberg",
 		"public.pages.company.theteam.employee.11.title": "Producer",
-		"public.pages.company.theteam.employee.11.email": "morten@vibbio.com",
+		"public.pages.company.theteam.employee.11.email": "<a href=\"mailto:morten@vibbio.com\" class=\"vibbio-link\">morten@vibbio.com</a>",
 		"public.pages.company.theteam.employee.11.phone": "+47 926 93 637",
 
 		"public.pages.company.theteam.employee.12.name": "Agri Soltanpanah",
 		"public.pages.company.theteam.employee.12.title": "Producer",
-		"public.pages.company.theteam.employee.12.email": "agri@vibbio.com",
+		"public.pages.company.theteam.employee.12.email": "<a href=\"mailto:agri@vibbio.com\" class=\"vibbio-link\">agri@vibbio.com</a>",
 		"public.pages.company.theteam.employee.12.phone": "+47 988 83 836",
 
 		"public.pages.company.theteam.employee.13.name": "Robert Ellefsrød",
 		"public.pages.company.theteam.employee.13.title": "Producer",
-		"public.pages.company.theteam.employee.13.email": "robert@vibbio.com",
+		"public.pages.company.theteam.employee.13.email": "<a href=\"mailto:robert@vibbio.com\" class=\"vibbio-link\">robert@vibbio.com</a>",
 		"public.pages.company.theteam.employee.13.phone": "+47 458 52 409",
 
 		"public.pages.company.theteam.employee.14.name": "Mark Tonkin",
 		"public.pages.company.theteam.employee.14.title": "Producer",
-		"public.pages.company.theteam.employee.14.email": "mark@vibbio.com",
+		"public.pages.company.theteam.employee.14.email": "<a href=\"mailto:mark@vibbio.com\" class=\"vibbio-link\">mark@vibbio.com</a>",
 		"public.pages.company.theteam.employee.14.phone": "+47 911 47 845",
 
 		"public.pages.company.theteam.board.1.name": "Anders Lier",
