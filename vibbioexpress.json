@@ -1040,9 +1040,9 @@
 		"ordering.files.column.text": "Text to be added",
 		"ordering.files.column.comments": "Comments",
 		
-		"public.pages.signup.loggedin.heading": "You are currently logged in",
-		"public.pages.signup.loggedin.info": "You cannot sign up again, do you want to log out or go to your profile page?",
-		"public.pages.signup.loggedin.before.button.logout": "If you want to log out, ",
+		"public.pages.signup.loggedin.heading": "Uh oh! Looks like you're already logged in.",
+		"public.pages.signup.loggedin.info": "We appreciate your eagerness, but you can't sign up again while you are logged in.",
+		"public.pages.signup.loggedin.before.button.logout": "To sign out,",
 		"public.pages.signup.loggedin.button.logout": "click here",
 		"public.pages.signup.loggedin.button.tohomepage": "Go to home page",
 	
