@@ -362,8 +362,9 @@
 		"orders.new.version.intro.outro.upload.new.file": "Upload and describe your new content",
 		"orders.new.version.intro.label": "New intro",
 		"orders.new.version.outro.label": "New outro",
+		"orders.new.version.intro.outro.choose.required.message": "This field is required",
 		"orders.new.version.intro.outro.upload.textfield.tooltip": "Anything you think we should know before creating the new version? Tell us in the description box below.",
-
+		"orders.new.version.intro.outro.fileupload.required.message": "You must upload a file",
 
 		"orders.new.version.language.fileText.header": "Original file text",
 		"orders.new.version.language.comment.header": "Comments",
