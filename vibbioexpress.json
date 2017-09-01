@@ -758,6 +758,7 @@
 		"profile.account.settings.team.members.add.member.add.button.text": "Add another team member",
 		"profile.account.settings.team.members.limit.reached": "Team member limit reached. Upgrade your account to add more team members.",
 
+		"account.settings.change.subscription.title": "Change subscription",
 		"account.settings.change.subscription.confirm.modal.title": "CONFIRMATION",
 		"account.settings.change.subscription.confirm.modal.description": "Please confirm that you want to change your user plan. Your new user plan will be activated on your next renewal date.",
 		"account.settings.change.subscription.success.header": "Your user plan is now changed.",
