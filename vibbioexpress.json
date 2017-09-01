@@ -276,7 +276,10 @@
 		"ordering.title": "Video Order",
 
 		"fileuploading.uploader.browse.box": "{browse} or drag & drop",
-
+		
+		"ordering.order.error.title": "Error when fetching order",
+		"ordering.order.fetch.error.message": "We are currently unable to fetch your order. Please go back to the orders or drafts menu and try again.",
+		
 		"ordering.project.name": "Project name",
 		"ordering.description.example.title": "Example",
 		"ordering.description.next.button": "Next: Details",
