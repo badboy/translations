@@ -115,6 +115,7 @@
 		"public.signup.submit.success.header": "Sign-up complete. Yay!",
 		"public.signup.submit.success.body": "Thanks for signing up! You're almost there. Check your email inbox - we've sent you an email with login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
+		"public.signup.submit.error.before.submit.message": "There are some errors, please correct and try again.",
 
 		"public.pages.contact.us.title": "Contact us",
 		"public.pages.contact.us.contactform.title": "Do you have a question or an enquiry?",
