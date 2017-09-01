@@ -1051,6 +1051,6 @@
 	
 		
 		"fileuploading.uploader.modal.title": "Choose files to upload",
-		"fileuploading.uploader.modal.description": "Max file size is 700MB. Allowed file types: jpeg, jpg, png, ai, eps, photoshop, cr2, h.264, h.265, mp4, mpeg, m4v, mts, m2ts, mov, quicktime, mp3, wav, aiff, aif, aifc, aac, m4a, ogg, oga, wma."
+		"fileuploading.uploader.modal.description": "Max file size is 700MB. Allowed file types: jpeg, jpg, png, ai, eps, photoshop, tif, tiff, cr2, h.264, h.265, mp4, mpeg, m4v, mts, m2ts, mov, quicktime, mp3, wav, aiff, aif, aifc, aac, m4a, ogg, oga, wma."
 	}
 }
