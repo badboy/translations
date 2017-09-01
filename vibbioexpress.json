@@ -256,11 +256,11 @@
 		"footer.link.faq": "FAQ",
 		"footer.link.privacy": "Privacy & terms",
 
-		"private.header.library": "My Library",
-		"private.header.drafts": "My Drafts",
+		"private.header.library": "Library",
+		"private.header.drafts": "Drafts",
 		"private.header.order.video": "Order video",
 		"private.header.vibbio.store": "VIBBIO Shop",
-		"private.header.my.videos": "My Videos",
+		"private.header.my.videos": "Videos",
 
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
