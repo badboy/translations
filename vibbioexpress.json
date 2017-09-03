@@ -319,7 +319,7 @@
 		"ordering.summary.extra.material.title": "Extra material",
 		"ordering.summary.order.button.text": "Confirm & order",
 		"ordering.summary.confirm.order.title": "Have you finished your order?",
-		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
+		"ordering.summary.confirm.order.descripction": "We will start creating your video when you click \"Confirm\".",
 		"ordering.summary.not.enough.credits": "You only have {creditsLeft} credits left and need {price} credits to complete the order. If you like you could purchase additional credits to be able to complete the order",
 		
 		"ordering.order.success.OK.title": "Thanks for your order!",
@@ -327,7 +327,7 @@
 		"ordering.order.success.COPIED.title": "Your VIBBIO order is confirmed:",
 		"ordering.order.success.COMPLETED.title": "Order summary",
 		"ordering.order.success.go.home.button": "Return to homepage",
-		"ordering.order.success.OK.description": "Your finished video will becoming to an inbox near you in a couple of days.",
+		"ordering.order.success.OK.description": "CO",
 		"ordering.order.success.ORDERED.description": "We will send you the completed video within a couple of days",
 		"ordering.order.success.COMPLETED.description": "Your video is finished and is available under \"Finished Videos\".",
 		"ordering.order.success.questions": "<p>Our team is happy to help if you have any questions.</p><p>You can reach us anytime at <a href=\"mailto:hello@vibbio.com\" class=\"vibbio-link\">hello@vibbio.com</a></p>",
@@ -930,7 +930,7 @@
 		"public.pages.our.story.video.url.id": "231544979",
 		"public.pages.the.team.video.url.id": "230779120",
 		"public.pages.get.started.video.url.id": "230763246",
-		"public.pages.video.ideas.video.url.id": "216797388",
+		"public.pages.video.ideas.video.url.id": "232230507",
 		"public.pages.become.a.user.video.url.id": "231885268",
 		"public.pages.video.production.video.url.id": "231543605",
 
