@@ -319,7 +319,7 @@
 		"ordering.summary.extra.material.title": "Extra material",
 		"ordering.summary.order.button.text": "Confirm & order",
 		"ordering.summary.confirm.order.title": "Have you finished your order?",
-		"ordering.summary.confirm.order.descripction": "We will start creating your video when you click \"Confirm\".",
+		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
 		"ordering.summary.not.enough.credits": "You only have {creditsLeft} credits left and need {price} credits to complete the order. If you like you could purchase additional credits to be able to complete the order",
 		
 		"ordering.order.success.OK.title": "Thanks for your order!",
