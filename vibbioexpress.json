@@ -359,7 +359,7 @@
 		"orders.new.version.description.NEW_FORMAT": "New format",
 		"orders.new.version.description.NEW_FORMAT.about": "Choose the new format of your video.",
 		"orders.new.version.description.NEW_LANGUAGE": "New language",
-		"orders.new.version.description.NEW_LANGUAGE.about": "Add your new language in the text box next to the text you want to translate. ",
+		"orders.new.version.description.NEW_LANGUAGE.about": "Add your new language in the text box next to the text you want to switch out.",
 		"orders.new.version.description.NEW_MUSIC": "New music",
 		"orders.new.version.description.NEW_MUSIC.about": "Upload the new music you want to add to your video",
 		"orders.new.version.proceed.button": "Proceed",
@@ -368,7 +368,7 @@
 		"orders.new.version.intro.label": "New intro",
 		"orders.new.version.outro.label": "New outro",
 		"orders.new.version.intro.outro.choose.required.message": "This field is required",
-		"orders.new.version.intro.outro.upload.textfield.tooltip": "Anything you think we should know before creating the new version? Tell us in the description box below.",
+		"orders.new.version.intro.outro.upload.textfield.tooltip": "Describe the changes you want to your new intro/outro. Make sure to include time stamps if it is a video clip, and remember to tell us what text you want to place on the image/clip.",
 		"orders.new.version.intro.outro.fileupload.required.message": "You must upload a file",
 
 		"orders.new.version.language.fileText.header": "Original file text",
