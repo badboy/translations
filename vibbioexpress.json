@@ -41,14 +41,14 @@
 
 		"public.plan.TRIAL.1": "Trial",
 		"public.plan.TRIAL.1.tooltip": "public.plan.tooltip.TRIAL",
-		"public.plan.TRIAL.2": "<p>NOK 0</p><p>EUR </p>",
+		"public.plan.TRIAL.2": "<p>NOK 0</p><p>EUR 0</p>",
 		"public.plan.TRIAL.3": "0",
 		"public.plan.TRIAL.4": "N/A",
 		"public.plan.TRIAL.5": "500 GB",
 		"public.plan.TRIAL.6": "Up to 2",
 
 		"public.plan.BASIC.1": "Basic",
-		"public.plan.BASIC.2": "<p>NOK 18.000</p><p>EUR </p>",
+		"public.plan.BASIC.2": "<p>NOK 18.000</p><p>EUR 2.000</p>",
 		"public.plan.BASIC.3": "2 000",
 		"public.plan.BASIC.3.tooltip": "public.plan.tooltip.BASIC",
 		"public.plan.BASIC.4": "5-7 days",
@@ -56,7 +56,7 @@
 		"public.plan.BASIC.6": "Up to 2",
 
 		"public.plan.PLUS.1": "Plus",
-		"public.plan.PLUS.2": "<p>NOK 32.000</p><p>EUR </p>",
+		"public.plan.PLUS.2": "<p>NOK 32.000</p><p>EUR 3.600</p>",
 		"public.plan.PLUS.3": "5 000",
 		"public.plan.PLUS.3.tooltip": "public.plan.tooltip.PLUS",
 		"public.plan.PLUS.4": "4-5 days",
@@ -64,36 +64,38 @@
 		"public.plan.PLUS.6": "Up to 5",
 
 		"public.plan.PREMIUM.1": "Premium",
-		"public.plan.PREMIUM.2": "<p>NOK 58.000</p><p>EUR </p>",
+		"public.plan.PREMIUM.2": "<p>NOK 58.000</p><p>EUR 6.600</p>",
 		"public.plan.PREMIUM.3": "11 000",
 		"public.plan.PREMIUM.3.tooltip": "public.plan.tooltip.PREMIUM",
 		"public.plan.PREMIUM.4": "2-3 days",
 		"public.plan.PREMIUM.5": "2 TB",
 		"public.plan.PREMIUM.6": "Up to 11",
 
-		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><ul><li>90 days free access</li><li>Upload visuals to create your library</li><li>Invite your team to participate</li><li>Test the 4-step video ordering system</li><li>Purchase credits to process an order</li></ul>",
+		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
 		"public.plan.tooltip.BASIC": "<p>Example of use: 2.000 credits:</p><ul><li>Order two new videos - or</li><li>Order one new video and two additional formats - or</li><li>Order one video and 10 small changes</li></ul>",
 		"public.plan.tooltip.PLUS": "<p>Example of use: 5.000 credits:</p><ul><li>Order five new videos - or</li><li>Order four new videos, one teaser and two small changes - or</li><li>Order three videos in two different formats and make five small changes</li></ul>",
 		"public.plan.tooltip.PREMIUM": "<p>Example of use: 11.000 credits:</p><ul><li>Order 11 new videos - or</li><li>Order 7 videos in two languages - or</li><li>Order 8 videos and make four medium and ten small changes</li></ul>",
 
 		"public.signup.title": "Become a user:",
-		"public.signup.companyname.label": "Company name",
-		"public.signup.shortname.label": "Username for company",
+		"public.signup.companyname.label": "Company name*",
+		"public.signup.shortname.label": "Username for company*",
+		"public.signup.shortname.tooltip": "Choose a username for your account using the characters a-z.",
 		"public.signup.shortname.validation.available.error": "The username is taken. Choose another.",
 		"public.signup.shortname.validation.available.valid": "The username is available.",
 		"public.signup.shortname.validation.format.error": "The username can only contain of characters from a-z.",
-		"public.signup.contact.person.label": "Contact person (Admin)",
-		"public.signup.contact.email.label": "Contact email (User name)",
-		"public.signup.contact.telephone.label": "Contact telephone",
+		"public.signup.contact.person.label": "Contact person (Admin)*",
+		"public.signup.contact.email.label": "Contact email (User name)*",
+
+		"public.signup.contact.telephone.label": "Contact telephone*",
 		"public.signup.subscription.label": "Your chosen subscription",
 		"public.signup.subscription.trial": "Trial",
 		"public.signup.subscription.trial.infotext": "Test out the user experience for 90 days",
 		"public.signup.subscription.basic": "Basic",
-		"public.signup.subscription.basic.infotext": "NOK 18.000 per month",
+		"public.signup.subscription.basic.infotext": "NOK 18.000/EUR 2.000 per month",
 		"public.signup.subscription.plus": "Plus",
-		"public.signup.subscription.plus.infotext": "NOK 32.000 per month",
+		"public.signup.subscription.plus.infotext": "NOK 32.000/EUR 3.600 per month",
 		"public.signup.subscription.premium": "Premium",
-		"public.signup.subscription.premium.infotext": "NOK 58.000 per month",
+		"public.signup.subscription.premium.infotext": "NOK 58.000/EUR 6.600 per month",
 		"public.signup.subscription.button": "Edit",
 		"public.signup.terms.label": "I agree to terms & conditions.. TOOD ADD LINK",
 
@@ -106,14 +108,27 @@
 		"public.signup.billing.currency.label": "Currency*",
 
 		"public.signup.button.cancel": "Cancel",
-		"public.signup.button.proceed": "Proceed",
-		"public.signup.modal.confirm.title": "Confirm your registration",
-		"public.signup.modal.confirm.description": "Yes I want to become a user",
-		
-		"public.signup.submit.success.header": " ",
-		"public.signup.submit.success.body": "Thank you for signing up! Check your email inbox for login details.",
+		"public.signup.button.proceed": "Sign up",
+		"public.signup.modal.confirm.title": "Confirmation",
+		"public.signup.modal.confirm.description": "Yes, I want to sign up to become a VIBBIO User.",
+
+		"public.signup.submit.success.header": "Sign-up complete. Yay!",
+		"public.signup.submit.success.body": "Thanks for signing up! You're almost there. Check your email inbox - we've sent you an email with login details.",
 		"public.signup.submit.error.message": "Could not complete registration of user.",
-		
+		"public.signup.submit.error.before.submit.message": "There are some errors, please correct and try again.",
+
+		"public.pages.contact.us.title": "Contact us",
+		"public.pages.contact.us.contactform.title": "Do you have a question or an enquiry?",
+		"public.pages.contact.us.contactform.description": "Get in touch, and we will get back as soon as possible",
+		"public.pages.contact.us.contact.description": "Contact us anytime on:",
+		"public.pages.contact.us.team.button.label": "To find a particular person click:",
+		"public.pages.contact.us.team.button.text": "The team",
+		"public.pages.contact.us.address.label": "Where to find us?",
+		"public.pages.contact.us.address": "<p>VIBBIO HQ</p><p>Markveien 35c, 0554 Oslo, Norway</p>",
+		"public.pages.contact.us.address.entrance": "(Entrance from Sofienberggata)",
+
+
+
 		"public.pages.support.title": "How can we help you?",
 		"public.pages.support.searchbox.placeholder": "Search",
 		"public.pages.support.how.to.use": "How to use VIBBIO",
@@ -144,7 +159,7 @@
 		"public.pages.products.panel.userplans": "VIBBIO user plans",
 		"public.pages.products.panel.credits": "VIBBIO credits",
 		"public.pages.products.credits.info.first.paragraph": "Credits are used for all types of orders from your user account.",
-		"public.pages.products.credits.info.second.paragraph": "<p>Options include:</p><ul><li>A/B testing</li><li>Collaborate with your team to order videos</li><li>Several language versions</li><li>Tailored sizes for channel use</li><li>Filming and content help</li></ul><p>and more.</p>",
+		"public.pages.products.credits.info.second.paragraph": "<p>Options include:</p><ul><li>Book new videos from existing content in your library</li><li>Create several intros and outros based on one film (for A/B testing)</li><li>Order multiple language versions</li><li>Get formats tailored to wanted publising channels</li><li>Book filming & content help when needed</li><li>Buy VIBBIO stock images and clips</li></ul>",
 		"public.pages.products.credits.info.third.paragraph": "Your credits will automatically be <u>renewed</u> each month.",
 		"public.pages.products.credits.info.chart.title": "VALUE CHART",
 		"public.pages.products.credits.info.chart.new.video.title": "NEW VIDEO:",
@@ -173,28 +188,27 @@
 		"public.pages.products.credits.info.extra.title": "Extra credits",
 		"public.pages.products.credits.info.extra.first.paragraph": "You can always order extra credits when you need more videos or extra help.",
 		"public.pages.products.credits.info.extra.second.paragraph": "Our extra credit packages can be added directly from your account.",
-		"public.pages.products.credits.info.extra.third.paragraph": "Credit packages are: <span>200</span>, <span>500</span> & <span>1000</span>",
+		"public.pages.products.credits.info.extra.third.paragraph": "Credit packages are: <span class=\"highlighted\">200</span>, <span class=\"highlighted\">500</span>, <span class=\"highlighted\">1000</span> & <span class=\"highlighted\">2000</span>",
 
 		"public.pages.products.booking.title": "Book video production",
-		"public.pages.products.booking.paragraph": "VIBBIO Productions is a full-service, fast-moving production team. We tailor-make videos to suit all your marketing and communication needs. Our video producers and content creators have vast experience in tailoring visual content - bringing to life strong, modern brands.",
-		"public.pages.products.booking.bulletlist": "<ul><li>A production includes the process from idea to completion, with 2 producers and a content specialist</li><li>Book one - or a series of videos</li><li>Filming and content help can also be booked directly from our user accounts - on a need basis</li></ul>",
+		"public.pages.products.booking.description": "<p>VIBBIO Productions is a full-service, fast-moving production team. We tailor-make videos to suit all your marketing and communication needs. Our video producers and content creators have vast experience in tailoring visual content - bringing to life strong, modern brands.</p><ul><li>A production includes the process from idea to completion, with 2 producers and a content specialist</li><li>Book one - or a series of videos</li><li>Filming and content help can also be booked directly from our user accounts - on a need basis</li></ul>",
 		"public.pages.products.booking.prices.button": "Prices and options",
 		"public.pages.products.booking.video.on.demand.title": "VIDEO PRODUCTION ON-DEMAND",
 		"public.pages.products.booking.video.on.demand.first.paragraph": "VIBBIO offers a great solution for achieving high video output, tailored to your brand and digital channels.",
-		"public.pages.products.booking.video.on.demand.second.paragraph": "If you sign up for a user account, you will receive all recordings and clips, ensuring full  exibility to create additional videos from your content.",
+		"public.pages.products.booking.video.on.demand.second.paragraph": "If you sign up for a user account, you will receive all recordings and clips, ensuring full flexibility to create additional videos from your content.",
 		"public.pages.products.booking.video.on.demand.user.plans.button": "User plans",
 		"public.pages.products.booking.video.on.demand.more.trends.button": "More on trends",
 
 		"public.pages.products.booking.single.multi.productions.title": "Single/multi video productions",
-		
+
 		"public.pages.products.booking.single.multi.productions.rows.1": "    ",
 		"public.pages.products.booking.single.multi.productions.rows.2": "Cost per video",
 		"public.pages.products.booking.single.multi.productions.rows.3": "Delivery time",
 		"public.pages.products.booking.single.multi.productions.rows.3.tooltip": "public.pages.products.booking.single.multi.productions.deliverytime.tooltip.text",
 		"public.pages.products.booking.single.multi.productions.rows.4": "Included",
 		"public.pages.products.booking.single.multi.productions.deliverytime.tooltip.text": "Delivery time is per project",
-		
-		
+
+
 		"public.pages.products.booking.single.multi.productions.SINGLE.1": "Single",
 		"public.pages.products.booking.single.multi.productions.SINGLE.2": "<p>NOK 40.000</p><p>EUR 4.000</p>",
 		"public.pages.products.booking.single.multi.productions.SINGLE.3": "5-7 days",
@@ -243,11 +257,11 @@
 		"footer.link.faq": "FAQ",
 		"footer.link.privacy": "Privacy & terms",
 
-		"private.header.library": "My Library",
-		"private.header.drafts": "My Drafts",
+		"private.header.library": "Library",
+		"private.header.drafts": "Drafts",
 		"private.header.order.video": "Order video",
 		"private.header.vibbio.store": "VIBBIO Shop",
-		"private.header.my.videos": "My Videos",
+		"private.header.my.videos": "Videos",
 
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
@@ -262,7 +276,10 @@
 		"ordering.title": "Video Order",
 
 		"fileuploading.uploader.browse.box": "{browse} or drag & drop",
-
+		
+		"ordering.order.error.title": "Error when fetching order",
+		"ordering.order.fetch.error.message": "We are currently unable to fetch your order. Please go back to the orders or drafts menu and try again.",
+		
 		"ordering.project.name": "Project name",
 		"ordering.description.example.title": "Example",
 		"ordering.description.next.button": "Next: Details",
@@ -273,11 +290,11 @@
 		"ordering.back.button.text": "Back",
 		"ordering.files.time.start.description": "From",
 		"ordering.files.time.end.description": "To",
-		
+
 		"ordering.extra.material.title": "Extra Material",
 		"ordering.extra.material.description": "If you have extra clips and images that can be used if needed, please add those here:",
 		"ordering.extra.material.add.button.text": "Add extra material",
-		
+
 		"ordering.order.form.next.button.text": "Next: Summary",
 		"ordering.price.header": "Total credit cost",
 		"ordering.total.price": "Total credit cost: {price}",
@@ -292,24 +309,41 @@
 		"ordering.summary.channel.label": "Channel: ",
 		"ordering.summary.format.label": "Format: ",
 		"ordering.summary.length.label": "Length: ",
+		"ordering.summary.price.label": "Credit cost: ",
 		"ordering.summary.files.timestamp.from": "From: {from} - {to}",
 		"ordering.summary.files.clip.order": "Order",
 		"ordering.summary.files.clip.header": "Clip/Image",
 		"ordering.summary.files.filetext.header": "Text",
 		"ordering.summary.files.comment.header": "Comment",
+		"ordering.summary.files.translation.header": "Translation",
 		"ordering.summary.extra.material.title": "Extra material",
 		"ordering.summary.order.button.text": "Confirm & order",
 		"ordering.summary.confirm.order.title": "Have you finished your order?",
 		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
-
-		"ordering.order.success.success.title": "Ordering completed",
-		"ordering.order.success.description": "Your VIBBIO order is confirmed.",
+		"ordering.summary.not.enough.credits": "You only have {creditsLeft} credits left and need {price} credits to complete the order. If you like you could purchase additional credits to be able to complete the order",
+		
+		"ordering.order.success.OK.title": "Thanks for your order!",
+		"ordering.order.success.ORDERED.title": "Here's what you ordered:",
+		"ordering.order.success.COPIED.title": "Your VIBBIO order is confirmed:",
+		"ordering.order.success.COPIED.description": "Your finished video will becoming to an inbox near you in a couple of days.",
+		"ordering.order.success.COMPLETED.title": "Order summary",
 		"ordering.order.success.go.home.button": "Return to homepage",
+		"ordering.order.success.OK.description": "CO",
+		"ordering.order.success.ORDERED.description": "We will send you the completed video within a couple of days",
+		"ordering.order.success.COMPLETED.description": "Your video is finished and is available under \"Finished Videos\".",
+		"ordering.order.success.questions": "<p>Our team is happy to help if you have any questions.</p><p>You can reach us anytime at <a href=\"mailto:hello@vibbio.com\" class=\"vibbio-link\">hello@vibbio.com</a></p>",
 
-		"ordering.order.ordered.title": "Here’s what you ordered:",
+		"ordering.order.success.version.info.title": "Version information",
+		"ordering.order.success.version.type.label": "Version type: ",
+		"ordering.order.success.NEW_INTRO_OUTRO.description": "This version contains a new intro or outro from the original version. Change: ",
+		"ordering.order.success.CHANGE_TEXT.description": "This version contains a single change of text: ",
+		"ordering.order.success.NEW_FORMAT.description": "This version has a different format than the original version. New format: ",
+		"ordering.order.success.NEW_LANGUAGE.description": "This version contains a new language.",
+		"ordering.order.success.copied.from": "New version of order: ",
+
+
 		"ordering.order.ordered.delivery": "You will find the completed order in Finished Videos in a couple of days.",
 		"ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
-
 
 		"orders.new.version.title": "Order a new version",
 		"orders.new.version.project.title": "Project title",
@@ -320,13 +354,13 @@
 		"orders.new.version.description.NEW_INTRO_OUTRO": "New intro/outro",
 		"orders.new.version.description.NEW_INTRO_OUTRO.about": "Change intro or outro on an exisiting video.",
 		"orders.new.version.description.CHANGE_IMAGE_CLIP": "Change 1 clip/image",
-		"orders.new.version.description.CHANGE_IMAGE_CLIP.about": "Choose which clip/image you want to change, and upload your new clip with a description about how you want your clip/image to be used.",
+		"orders.new.version.description.CHANGE_IMAGE_CLIP.about": "Choose which clip/image you want to change, and upload your new clip with a description about how you want your clip/image to be used. Make sure to include what parts of the new clip you want used (i.e. 00:14-00:20)",
 		"orders.new.version.description.CHANGE_TEXT": "Change 1 text",
 		"orders.new.version.description.CHANGE_TEXT.about": "Give a description about which text you want to change and how you want to change it.",
 		"orders.new.version.description.NEW_FORMAT": "New format",
 		"orders.new.version.description.NEW_FORMAT.about": "Choose the new format of your video.",
 		"orders.new.version.description.NEW_LANGUAGE": "New language",
-		"orders.new.version.description.NEW_LANGUAGE.about": "Add your new language in the text box next to the text you want to translate. ",
+		"orders.new.version.description.NEW_LANGUAGE.about": "Add your new language in the text box next to the text you want to switch out.",
 		"orders.new.version.description.NEW_MUSIC": "New music",
 		"orders.new.version.description.NEW_MUSIC.about": "Upload the new music you want to add to your video",
 		"orders.new.version.proceed.button": "Proceed",
@@ -334,29 +368,31 @@
 		"orders.new.version.intro.outro.upload.new.file": "Upload and describe your new content",
 		"orders.new.version.intro.label": "New intro",
 		"orders.new.version.outro.label": "New outro",
-		
-		
+		"orders.new.version.intro.outro.choose.required.message": "This field is required",
+		"orders.new.version.intro.outro.upload.textfield.tooltip": "Describe the changes you want to your new intro/outro. Make sure to include time stamps if it is a video clip, and remember to tell us what text you want to place on the image/clip.",
+		"orders.new.version.intro.outro.fileupload.required.message": "You must upload a file",
+
 		"orders.new.version.language.fileText.header": "Original file text",
 		"orders.new.version.language.comment.header": "Comments",
 		"orders.new.version.language.translation.header": "New translation",
-		
+
 		"orders.new.version.change.clip.original.image.header": "Original clip/image",
 		"orders.new.version.change.clip.original.filetext.header": "Original file text",
 		"orders.new.version.change.clip.original.comment.header": "Original comment",
 		"orders.new.version.change.clip.add.new.clip.title": "Upload your new clip",
 		"orders.new.version.change.clip.add.description.title": "Add a description about how you want your clip/image to be used.",
 		"orders.new.version.finish.button": "Order video",
-		
-		
+
+
 		"orders.new.version.row.content.add.new.file": "Choose another file",
 		"orders.new.version.row.content.add.file": "Choose file",
-		
+
 		"orders.new.version.order.success.title": "New version successfully ordered!",
-		
-		
+
+
 		"orders.new.version.confirmation.modal.title": "Have you finished your order?",
 		"orders.new.version.confirmation.modal.description": "Finished your order by clicking \"Confirm\".",
-		
+
 		"library.banner.modal.title": "Select the file you want to use",
 		"library.banner.modal.select.button.text": "Use file",
 		"library.banner.modal.cancel.button.text": "Cancel",
@@ -410,7 +446,7 @@
 		"profile.information.additional.credits.purchase": "Purchase",
 
 		"profile.information.order.production.help.filming": "Need filming or text help?",
-		"profile.information.order.production.contact": "Contact us",
+		"profile.information.order.production.contact": "Book here",
 
 		"purchase.credits.title": "Purchase additional credits",
 		"purchase.credits.description": "(Extra credits automatically roll over)",
@@ -423,6 +459,14 @@
 		"purchase.credits.modal.sum": "{sum} {currency} will be added to your next invoice.",
 		"purchase.credits.modal.cancel": "Cancel",
 		"purchase.credits.modal.complete.order": "Complete purchase",
+
+
+		"components.contact.form.reset.form": "Click here",
+		"components.contact.form.error.reset.form": "Do you want to try again?",
+		"components.contact.form.success.reset.form": "Do you want to send another question?",
+		"components.contact.form.submit.success.header": "Thanks for reaching out!",
+		"components.contact.form.submit.success.body": "Your message has successfully been sent to VIBBIO and we will contact you very soon!",
+
 
 
 		"confirmation.modal.default.cancel.button": "Cancel",
@@ -439,8 +483,6 @@
 		"support.page.contactform.label.email": "Email*",
 		"support.page.contactform.label.name": "Name*",
 		"support.page.contactform.contact.button": "Contact us",
-		"support.page.contactform.submit.success.header": "Thanks for reaching out!",
-		"support.page.contactform.submit.success.body": "Your message has successfully been sent to VIBBIO Express and we will contact you very soon!",
 
 		"public.landingpage.top.banner.video.id": "216797388",
 		"public.landingpage.top.banner.title": "VIBBIO is a platform where you can order video production on-demand.",
@@ -486,49 +528,58 @@
 
 		"landingpage.order.video.pricing": "Pricing and options",
 
+		"public.pages.get.started.examples.header": "Examples",
+		"public.pages.get.started.examples.url.1": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1773053102724267%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.2": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1820504597979117%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.3": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhunspanderer%2Fvideos%2F1671007922941473%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.4": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1541484562547790%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.5": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1460717733957807%2F&show_text=0&width=400",
+		"public.pages.get.started.examples.url.6": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1715184881844423%2F&show_text=0&width=400",
+
 		"public.pages.faq.title": "FAQ",
 		"public.pages.faq.description.first.line": "Here is a comprehensive list of our most frequently asked questions.",
 		"public.pages.faq.description.second.line": "If you are unable to  nd the answer you are looking for, get in contact with us anytime.",
 		"public.pages.faq.button": "Contact us",
 		"public.pages.faq.link.text": "FAQ",
 		"public.pages.faq.section.1": "General",
-		"public.pages.faq.section.1.question.1": "My clips are too long to upload, what can I do?",
-		"public.pages.faq.section.1.answer.1": "While we are in beta, the maximum file size is 700 MB. If you have a larger file, send it to help@vibbio.com and we can upload it for you.",
-		"public.pages.faq.section.1.question.2": "Can I make  changes once I’ve placed an order?",
-		"public.pages.faq.section.1.answer.2": "As the video is based on your instructions, you can use your credits to make changes or create a new version.",
-		"public.pages.faq.section.1.question.3": "What file types can I upload?",
-		"public.pages.faq.section.1.answer.3": "We accept these file types: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.",
-		"public.pages.faq.section.1.question.4": "Can I order a video without becoming a user?",
-		"public.pages.faq.section.1.answer.4": "You sure can! Either order a full production here, or start a free trial and purchase credits to place an order.",
+		"public.pages.faq.section.1.subsection.1": "The order process",
+		"public.pages.faq.section.1.subsection.1.question.1": "My clips are too long to upload, what can I do?",
+		"public.pages.faq.section.1.subsection.1.answer.1": "While we are in beta, the maximum file size is 700 MB. If you have a larger file, send it to help@vibbio.com and we can upload it for you.",
+		"public.pages.faq.section.1.subsection.1.question.2": "Can I make  changes once I’ve placed an order?",
+		"public.pages.faq.section.1.subsection.1.answer.2": "As the video is based on your instructions, you can use your credits to make changes or create a new version.",
+		"public.pages.faq.section.1.subsection.1.question.3": "What file types can I upload?",
+		"public.pages.faq.section.1.subsection.1.answer.3": "We accept these file types: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.",
+		"public.pages.faq.section.1.subsection.1.question.4": "Can I order a video without becoming a user?",
+		"public.pages.faq.section.1.subsection.1.answer.4": "You sure can! Either order a full production, or start a free trial and purchase credits to place an order.",
 
 		"public.pages.faq.section.2": "VIBBIO Users",
 		"public.pages.faq.section.2.subsection.1": "The order process",
 		"public.pages.faq.section.2.subsection.1.question.1": "How long will it take before I get my video?",
-		"public.pages.faq.section.2.subsection.1.answer.1": "Anywhere from 2-10 days, depending on your user plan. Compare user plans here.",
+		"public.pages.faq.section.2.subsection.1.answer.1": "Anywhere from 2-10 days, depending on your user plan. Compare user plans under the 'Products'-tab in the main menu.",
 		"public.pages.faq.section.2.subsection.1.question.2": "Can I hire someone to help me with filming or text?",
-		"public.pages.faq.section.2.subsection.1.answer.2": "Yes. Order this by using your monthly credits. Read more/book here.",
+		"public.pages.faq.section.2.subsection.1.answer.2": "Yes, you can order this using your monthly credits",
 		"public.pages.faq.section.2.subsection.1.question.3": "Can I get the video texted in multiple languages?",
-		"public.pages.faq.section.2.subsection.1.answer.3": "Yes, you order it as a new version from the “My videos”-folder.",
+		"public.pages.faq.section.2.subsection.1.answer.3": "Yes, you order it as a new version from the “My videos”-section.",
 		"public.pages.faq.section.2.subsection.1.question.4": "Can I get help with planning my video composition?",
-		"public.pages.faq.section.2.subsection.1.answer.4": "Our content specialists are happy to help you structure your video. Book a 3 hour session here.",
+		"public.pages.faq.section.2.subsection.1.answer.4": "Our content specialists are happy to help you structure your video. This can also be booked using credits.",
 
 		"public.pages.faq.section.2.subsection.2": "User account",
 		"public.pages.faq.section.2.subsection.2.question.1": "How can I add/remove team members in my account?",
 		"public.pages.faq.section.2.subsection.2.answer.1": "Go to My Account -> Account Settings, and look for the “Team Members” section.",
 		"public.pages.faq.section.2.subsection.2.question.2": "Where can I update my billing information?",
 		"public.pages.faq.section.2.subsection.2.answer.2": "Go to “My Account”, and click “Account settings”. Remember to hit “Save changes” when you’re done.",
-		"public.pages.faq.section.2.subsection.2.question.3": "How do I cancel my subscription?",
+		"public.pages.faq.section.2.subsection.2.question.3": "How do I cancel my user plan?",
 		"public.pages.faq.section.2.subsection.2.answer.3": "If you are the account administrator, you can email help@vibbio.com, and we will take care of it.",
 
 		"public.pages.faq.section.2.subsection.3": "Library",
 		"public.pages.faq.section.2.subsection.3.question.1": "My library is full. Can I buy more storage space?",
-		"public.pages.faq.section.2.subsection.3.answer.1": "Yes, by upgrading your user plan in Account Settings. See user plan comparison here.",
+		"public.pages.faq.section.2.subsection.3.answer.1": "Yes, by upgrading your user plan in Account Settings. See user plan comparison under 'Products' in the main menu.",
 
-		"public.pages.faq.section.2.subsection.4": "Credtis",
+		"public.pages.faq.section.2.subsection.4": "Credits",
 		"public.pages.faq.section.2.subsection.4.question.1": "What are credits used for?",
 		"public.pages.faq.section.2.subsection.4.answer.1": "You can use credits to order new videos with the length and format of your choice, book specialist assistance (content and filming), make changes to finished videos (like music, call to action or language) and buy stock material (coming soon!)",
 		"public.pages.faq.section.2.subsection.4.question.2": "How can I buy more credits?",
-		"public.pages.faq.section.2.subsection.4.answer.2": "You can easily buy extra credits in your library, or upgrade your user plan in your Account settings. You can compare user plans here.",
+		"public.pages.faq.section.2.subsection.4.answer.2": "You can easily buy extra credits in your library, or upgrade your user plan in your Account settings.",
 
 		"public.pages.faq.section.2.subsection.5": "Filming and content",
 		"public.pages.faq.section.2.subsection.5.question.1": "How much does filming and content help cost?",
@@ -536,16 +587,16 @@
 		"public.pages.faq.section.2.subsection.5.question.2": "Where do I order filming and/or content help?",
 		"public.pages.faq.section.2.subsection.5.answer.2": "You can book it directly from your library, or you can contact us for assistance.",
 		"public.pages.faq.section.2.subsection.5.question.3": "Can I cancel/reschedule my filming/content booking?",
-		"public.pages.faq.section.2.subsection.5.answer.3": "Just email help@vibbio.com at least 24 hours before the booking, and we can help you out.",
+		"public.pages.faq.section.2.subsection.5.answer.3": "Just email orders@vibbio.com at least 24 hours before the booking, and we can help you out.",
 
 		"public.pages.faq.section.3": "Full Productions",
 		"public.pages.faq.section.3.subsection.1": "    ",
 		"public.pages.faq.section.3.subsection.1.question.1": "How can I order a full production?",
-		"public.pages.faq.section.3.subsection.1.answer.1": "We have a full team of content specialists and video producers that would love to help you out. Fill out this form, and we will get back to you with a price estimate so that we can get started.",
+		"public.pages.faq.section.3.subsection.1.answer.1": "We have a full team of content specialists and video producers that would love to help you out. Read more in the 'Book video production'-section under products. Fill out the contact form, and we will get back to you with a price estimate so that we can get started.",
 		"public.pages.faq.section.3.subsection.1.question.2": "Can I reuse the content from previous videos in a new order?",
-		"public.pages.faq.section.3.subsection.1.answer.2": "When you become a VIBBIO user, we will upload all previous recordings to your user library, which means that you can reuse the same clips in new videos. Learn more about our user plans here. ",
+		"public.pages.faq.section.3.subsection.1.answer.2": "When you become a VIBBIO user, we will upload all previous recordings to your user library, which means that you can reuse the same clips in new videos.",
 		"public.pages.faq.section.3.subsection.1.question.3": "What are the prices for a full production?",
-		"public.pages.faq.section.3.subsection.1.answer.3": "Prices will vary from 30.900-40.900 NOK based on the complexity of the production and if you order a single video or a series. Read more here.",
+		"public.pages.faq.section.3.subsection.1.answer.3": "Prices will vary from 30.900-40.900 NOK based on the complexity of the production and if you order a single video or a series. Read more under the 'Book video production'-section under 'Products' in the main menu.",
 
 		"public.pages.faq.section.4": "Trial",
 		"public.pages.faq.section.4.subsection.1": "  ",
@@ -561,13 +612,14 @@
 		"public.pages.faq.section.5.subsection.1.question.1": "How/when do I pay for the video?",
 		"public.pages.faq.section.5.subsection.1.answer.1": "If you are a VIBBIO user, your company will be billed monthly via invoice. For full video productions, we charge 50% before and 50% after completion. For trial periods, we send you an invoice per credit purchase.",
 		"public.pages.faq.section.5.subsection.1.question.2": "How do I change my billing information?",
-		"public.pages.faq.section.5.subsection.1.answer.2": "Go to “My Account”, and click “Account settings”. Remember to hit “Save changes” when you’re done.",
+		"public.pages.faq.section.5.subsection.1.answer.2": "Go to “My Account”, and click “Account settings”. Remember to hit “Save” when you’re done.",
 		"public.pages.faq.section.5.subsection.1.question.3": "Where can I find my invoice?",
 		"public.pages.faq.section.5.subsection.1.answer.3": "The invoice will be sent to the email address you provide in your Billing Information on a monthly basis. If you need a new invoice, or a copy of a receipt, you can email us at help@vibbio.com.",
 		"public.pages.faq.section.5.subsection.1.question.4": "How can I upgrade/downgrade my user plan?",
-		"public.pages.faq.section.5.subsection.1.answer.4": "You can find that option in your Account Settings. If you want to know more about our different user plans, click here.",
+		"public.pages.faq.section.5.subsection.1.answer.4": "You can find that option in your Account Settings. If you want to know more about our different user plans, click 'Products' in the main menu.",
 
-
+		"public.footer.cookie.information": "We use cookies on our pages to give you the best user experience. By continuing to use our pages you agree to this. ",
+		"public.footer.cookie.link.text": "Find out more.",
 		"cookies.page.title": "Privacy Policy on Cookie Usage",
 		"cookies.page.paragraphs": [{
 				"title": "About cookies",
@@ -602,8 +654,7 @@
 			}
 		],
 		"terms.and.conditions.title": "Terms and Conditions",
-		"terms.and.conditions": "<h2 class=\"small-vibbio-header content-bulk\"> Terms and Conditions for the Purchase of product </h2><p><b>Acceptance</b></p><p>Please read these Terms and Conditions of product carefully before ordering or purchasing any service or product from VIBBIO AS. Your order or purchase of the service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who place an order or purchase VIBBIO AS services and products.</p><p><b>Prices and Payments</b></p><p>The purchaser(s) will pay a 50 percent down payment of total cost before production of the video starts. The first 50 percent is non-refundable when production has started. The customer will receive a beta video with watermark when the product is finished. A final product without watermark will be delivered to the customer when the remaining 50 percent of the total price is received by VIBBIO AS.</p><p><b>Changes to finished product/order</b></p><p>Purchaser may not make changes or make additions within the general 2 - 5 days of production time in or to drawings, designs, specifications, instructions for work, method of shipment or place of delivery. The purchaser may request changes to finished product for an additional fee. If no other amount is agreed upon between VIBBIO AS and purchaser, there will be an additional cost of 2000 NOK for any change or additions to delivered product that is requested by purchaser. The amount of changes or additions requested must match the additional cost of 2000 NOK or other agreed upon amount and approved by VIBBIO AS before any changes are made.</p><p><b>Warranty</b></p><p>Delivered product is created based on the customer&aposs uploaded content and text. VIBBIO AS is not responsible for missing content, text or wrongly implemented content in the uploading process caused by the customer. VIBBIO AS follows the description delivered by the customer as best we can when creating a finished product. There is no warranty to the delivered product.</p><p><b>Termination</b></p><p>The purchaser has a right to terminate the purchase within 2 hours after the order has been placed. The 50 percent of total remaining payment will be cancelled when a purchase is terminated. The 50 percent down payment is non-refundable.</p><p><b>Change</b></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms and conditions at any time. If a revision is material, we will try to provide at least 30 days notice prior to any new Terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><b>Contact Us</b></p><p>If you have any questions about these Terms, please contact us.</p><h2 class=\"small-vibbio-header content-bulk\"> Terms and conditions of Use</h2><p>Please read these Terms and Conditions of Use carefully before using the website vibbioexpress.com and the video production tools operated by VIBBIO AS. Your access to and use of the service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the VIBBIO AS Services.</p><p><b> By accessing or using the VIBBIO Express Service you agree to be bound by these Terms and conditions. If you disagree with any part of the terms and conditions, then you may not access the VIBBIO Express Service.</b></p><p><b>Purchases</b></p><p>If you wish to purchase any product or service made available through the vibbioexpress.com website you may be asked to supply certain information relevant to your purchase including, without limitation, videos, images, sound, logos and text.</p><p><b>Termination</p></b><p>We may terminate or suspend access to our service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms and Conditions.</p><p><b>Uploading Content</b></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material.You may not upload any images, designs, or other material protected by copyright without the permission of the actual copyright owner. By uploading images, designs, or other material to the vibbioexpress.com website or otherwise providing VIBBIO AS with such images, designs, or other material, the uploading party warrants and represents that: </p> <ul>It owns all of the copyright in such images, designs, or other material;<li>It has received permission from the person or entity who owns the copyright in such images, designs, or other material; or </li><li>That the images, designs, or other material are in the public domain.</li><li>The uploading party further warrants and represents that it otherwise has the full and unencumbered right to upload and/or provide such images, designs, or other material and that such uploading or providing, or any use by VIBBIO AS, will not infringe any rights or interests of others and the uploading party agrees to indemnify VIBBIO AS for all damages awarded against and all attorneys&apos fees and costs incurred by VIBBIO AS for any such infringement. By uploading images, designs or other material onto the vibbioexpress.com website, the uploading party grants VIBBIO AS the non-exclusive right and license to display, copy, publish, distribute, modify, transmit, print, and use such images, designs, or other material.</li></ul><p>It is not allowed to upload illegal or offensive content to our website. VIBBIO AS is not responsible and does not condone the use of any offensive or illegal content uploaded to vibbioexpress.com and will report any illegal activity on our website to the authorities.</p><p><b>Storing uploaded content</b></p><p>All content uploaded to the vibbioexpress.com website will only be stored for a limited time period. VIBBIO AS will not be responsible for storing/saving content when finished product is delivered.</p><p><b>Links To Other Web Sites (Paypal</b></p><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by VIBBIO AS. VIBBIO AS has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that VIBBIO AS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p><p><b>Changes</b></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions at any time. If a revision is material, we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><b>Contact Us</b></p><p>If you have any questions about these Terms and Conditions, please contact us.</p><h2 class=\"small-vibbio-header content-bulk\">Privacy Policy</h2><p>VIBBIO AS operates through ttp://www.vibbioexpress.com. This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of the site.</p><p>We use your personal information only for providing and improving the site. By using the site, you agree to the collection and use of information in accordance with this policy.</p><p><b>Information Collection and Use</b></p>While using our site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name, e-mail, phone number and company name.</p><p><b>Log Data</b></p><p>Like many site operators, we collect information that your browser sends whenever you visit our site.This log data may include information such as your computer&aposs Internet Protocol (\"IP\") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze all collected information.</p><p><b>Communications</b></p><p>We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that is crucial to the service provided by VIBBIO AS.</p><p><b>Cookies</b></p><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer&aposs hard drive. Like many sites, we use \"cookies\" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p><p><b>Security</b></p><p>The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p><p><b>Changes to This Privacy Policy</b></p><p>This Privacy Policy is effective as of 22.03.2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p> <p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p><p><b>Contact Us</b></p><p>If you have any questions about this Privacy Policy, please contact us.</p><p><b>Discount Codes</b></p><p>Customers who have a discount code may be subject to variations in payment method or delivery time.</p>",
-
+		"terms.and.conditions": "<h2 class=\"small-vibbio-header content-bulk\">Terms and conditions - Purchase of product</h2><p><strong>Acceptance</strong></p><p>Please read these Terms and Conditions of product carefully before ordering or purchasing any service or product from VIBBIO AS. Your order or purchase of the service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who place an order or purchase VIBBIO AS services and products.</p><p><strong>Prices and Payments</strong></p><p><strong>The Purchaser will be billed monthly for their subscription and additional purchase of credits.&nbsp;Payment is due 14 days from invoice date. Late payment calculated interest on arrears by the state prevailing rates. Privilege of use for completed product is directly dependent on the monthly fee being paid on time.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Changes to finished product/order</strong></p><p>Purchaser may not make changes or additions to their order within the general 2 - 5 days of production time in or to drawings, designs, specifications, instructions for work or place of delivery. The purchaser may request changes to finished product for an additional amount of given or purchased credits.</p><p>&nbsp;</p><p><strong>Force majeure</strong></p><p>VIBBIO bears no responsibility or risk for failure or delay in delivery caused by circumstances beyond VIBBIO's control. This includes, but is not limited to, natural disasters, terrorism, strikes or other labor disputes, inadequate or damaged infrastructure or fire. VIBBIO is obliged to inform the customer without undue delay if it knows of information that means the project cannot be fulfilled as agreed. VIBBIO reserves the right to cancel and evacuate any recording or event where VIBBIO, its equipment and crew are used, if there are, or circumstances arise, that make it imprudent to safety. This includes, but is not limited to, improper use of the equipment, change in the weather, lack of emergency exits or for other technical conditions, riots or distress as well as threats or violence against VIBBIO&rsquo;s crew.</p><p><strong>&nbsp;</strong></p><p><strong>Warranty</strong></p><p>Delivered product is created based on the customer's uploaded content and text. VIBBIO AS is not responsible for missing content, text or wrongly implemented content in the uploading process caused by the customer. VIBBIO AS follows the description delivered by the customer to the best of our knowledge when creating a finished product. There is no warranty to delivered product.</p><p><strong>Termination</strong></p><p>The purchaser has a right to terminate the purchase within 2 hours after the order has been placed. A confirmation from a VIBBIO representative must be received by e-mail for the termination to be valid. The total payment will be cancelled when a valid termination is in place.</p><p><strong>Changes to Terms and Conditions</strong></p><p>We reserve the right, at our sole discretion, to replace or modify these Terms and Conditions at any time. We will notify you either through the email address you have provided us, or by placing a prominent notice on our website if any material changes are made to the Terms and Conditions. We will determine what constitutes a material change at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms and Conditions, please contact us.</p><p><strong>Discount Codes</strong></p><p>Customers who have a discount code may be subject to variations in payment method or delivery time.</p><p>&nbsp;</p><h2>Terms and conditions of Use</h2><p>Please read these Terms and Conditions of Use carefully before using the website vibbio.com and the video production tools operated by VIBBIO AS. Your access to, and use of the service is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the VIBBIO AS Services.</p><p><strong>By accessing or using the VIBBIO Service, you agree to be bound by these Terms and Conditions. If you disagree with any part of the Terms and Conditions, then you may not access the VIBBIO Service.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the vibbio.com website, you may be asked to supply certain information relevant to your purchase order including, without limitation, videos, images, sound, logos and text.</p><p><strong>Termination</strong></p><p>We may terminate or suspend access to our service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms and Conditions.</p><p><strong>Uploading Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material. You may not upload any images, designs, or other material protected by copyright without the permission of the actual copyright owner. By uploading images, designs, sound or other material to the vibbio.com website or otherwise providing VIBBIO AS with such images, designs, or other material, the uploading party warrants and represents that:</p><p>It owns all of the copyright in such designs, images, or other material;</p><ul><li>It has received permission from the entity or person who owns the copyright in such designs, images, sound or other material; or</li><li>That the designs, images, sound or other material are in the public domain.</li><li>The uploading party further warrants and represents that it otherwise has the full and exclusive right to provide and/or upload such images, designs, sound or other material and that such providing or uploading, or any use by VIBBIO AS, will not infringe any interests or rights of others and the uploading party agrees to indemnify VIBBIO AS for all damages awarded against and all attorney cost and fees incurred by VIBBIO AS for any such infringement. By uploading images, designs, sound or other material onto the vibbio.com website, the uploading party grants VIBBIO AS the non-exclusive right and license to display, copy, publish, distribute, modify, transmit, print, and use such images, designs, or other material.</li></ul><p>It is not allowed to upload illegal or offensive content to our website. VIBBIO AS is not responsible and does not condone the use of any offensive or illegal content uploaded to vibbio.com and will report any illegal activity on our website to the authorities.</p><p><strong>&nbsp;</strong></p><p><strong>Rights and publishing</strong></p><p>VIBBIO owns the copyright to all recordings made by the VIBBIO team. The customer owns the copyright to all finished produced material delivered by VIBBIO.</p><p>The customer has the rights of use for online publishing in Norway and the rest of the world. The customer is solely responsible to make sure that the publication does not violate Norwegian law, regulation or infringing on image, audio and other content. VIBBIO shall be kept free of charge in any publication.</p><p>Raw files and recordings from a customer's VIBBIO video shoots will be made available to the customer for the duration of their subscription on vibbio.com, but are limited to only being used for new video orders made through the website. Terms of amendments, rights and publication also apply in specific cases where the raw material is delivered to the customer.</p><p><strong>Storing uploaded content</strong></p><p>All content uploaded to the vibbio.com website will only be stored for the time period agreed upon in the subscription selected by the customer. VIBBIO AS will not be responsible for storing/saving content when the subscription is terminated or expired.</p><p>All uploaded content will be auto-stored in Google cloud. This means that any files uploaded to our website will still exist in Google cloud, regardless of whether a customer deletes the file in his/her account.</p><p><strong>Links To Other Web Sites</strong></p><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by VIBBIO AS. VIBBIO AS has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that VIBBIO AS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.&nbsp;</p><p>Terms and conditions - Privacy Policy</p><p>VIBBIO AS operates through http://www.vibbio.com. This section informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of the site and our services.</p><p>We use your personal information only for improving and providing the site. You agree to the use and collections of information by using the site.</p><p><strong>&nbsp;</strong></p><p><strong>Information Collection and Use</strong></p><p>To identify or contact you while using our site and services, we will ask you to provide us with personal identifiable information.&nbsp;Personally identifiable information may include, but is not limited to your name, e-mail, phone number, billing information and company name.</p><p><strong>Log Data</strong></p><p>Whenever you visit our site we collect information sent by your browser. This log data may include information such as your computer Internet Protocol (\"IP\") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that monitor, analyze and collect all collected information.</p><p><strong>Communications</strong></p><p>We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that is crucial to the service provided by VIBBIO AS.</p><p><strong>Cookies</strong></p><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer hard drive. Like many sites, we use \"cookies\" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p><p><strong>Security</strong></p><p>The security of your personal information is very important to us. We strive to use commercially acceptable means to protect your personal information, but we cannot guarantee its absolute security. No method of electronic storage or transmission over the internet is 100% secure.</p><p><strong>Changes to Terms and Conditions</strong></p><p>We reserve the right, at our sole discretion, to replace or modify these Terms and Conditions at any time. We will notify you either through the email address you have provided us, or by placing a prominent notice on our website if any material changes are made to the Terms and Conditions. We will determine what constitutes a material change at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms and Conditions, please contact us.</p>",
 
 		"drafts.title": "Your drafts",
 		"drafts.back.button.text": "Return to homepage",
@@ -623,8 +674,11 @@
 		"description.example.title": "Example:",
 		"description.add.description.error.message": "You have to add a description about your idea!",
 
-		"express.no.page.found": "Could not find the page you are looking for",
-		"express.no.page.return.home": "Return to homepage",
+		"public.pages.no.page.found.title": "Could not find the page you are looking for",
+		"public.pages.no.page.found.description": "Oh no, we can't find the page you are looking for. Please make sure the url is correct.",
+		"public.pages.no.page.found.return.home": "Return to homepage",
+
+
 		"breadcrumb.prefix.text": "You are here: ",
 
 		"userinfo.button.neworder.text": "Order a new video",
@@ -667,7 +721,7 @@
 		"profile.billing.info.button.enter": "Billing information",
 		"profile.billing.info.default.header": "Billing information",
 		"profile.billing.info.noinfo.text": "You have not registered your billing information.",
-		
+
 		"profile.organizationinfo.edit.header": "Edit company information",
 		"profile.organizationinfo.form.label.name": "Company name:",
 		"profile.organizationinfo.form.label.phone": "Phone:",
@@ -675,10 +729,23 @@
 		"profile.organizationinfo.form.label.contactPerson": "Contact person:",
 		"profile.organizationinfo.form.cancel.button": "Cancel",
 		"profile.organizationinfo.form.submit.button": "Save",
-		
+
+		"profile.account.page.title": "My account",
+		"profile.account.subscription.pack.title": "Subscription plan",
+		"profile.account.subscription.pack.chosen.pack": "Chosen pack",
+		"profile.account.subscription.pack.monthly.credits": "Monthly credits",
+		"profile.account.subscription.pack.expiration.date": "Expiration date",
+
+		"profile.account.organization.info.title": "Organization information",
+		"profile.account.organization.info.company.name": "Company name",
+		"profile.account.organization.info.contact.person": "Contact person",
+		"profile.account.organization.info.phone": "Contact phone",
+
+
 		"profile.account.settings.title": "Account setting",
-		
-		"profile.account.settings.design.profile.color.profile.label": "Color palette",
+
+		"profile.account.settings.design.profile.color.profile.label": "Colour palette",
+		"profile.account.settings.design.profile.color.profile.description": "Write in the html colour codes of your two main colours",
 		"profile.account.settings.design.profile.title": "Corporate visual profile",
 		"profile.account.settings.design.profile.color.1.label": "Color 1",
 		"profile.account.settings.design.profile.color.2.label": "Color 2",
@@ -690,8 +757,22 @@
 		"profile.account.settings.design.profile.no.font": "No font uploaded",
 		"profile.account.settings.design.profile.upload.font": "Upload your font",
 		"profile.account.settings.design.profile.back.button.text": "Back to My Account",
-		
-		
+		"profile.account.settings.design.profile.auto.save": "All changes to your corporate visual profile are saved automatically.",
+
+		"profile.account.settings.team.members.add.member.title": "Team members",
+		"profile.account.settings.team.members.add.member.label": "Team member's email",
+		"profile.account.settings.team.members.add.member.button.text": "Add member",
+		"profile.account.settings.team.members.add.member.add.button.text": "Add another team member",
+		"profile.account.settings.team.members.limit.reached": "Team member limit reached. Upgrade your account to add more team members.",
+
+		"account.settings.change.subscription.title": "Change subscription",
+		"account.settings.change.subscription.confirm.modal.title": "CONFIRMATION",
+		"account.settings.change.subscription.confirm.modal.description": "Please confirm that you want to change your user plan. Your new user plan will be activated on your next renewal date.",
+		"account.settings.change.subscription.success.header": "Your user plan is now changed.",
+		"account.settings.change.subscription.success.description": "You have now successfully changed your user plan. It will be activated on your next renewal date.",
+		"account.settings.change.subscription.success.back.button.text": "Back to my account",
+
+
 		"library.files.file.rename": "New name",
 		"library.uploader.title": "Upload files to your library",
 		"library.upload.files.button": "Upload files",
@@ -742,17 +823,32 @@
 		"lengths.length.description.4": "0-15 sec",
 		"lengths.length.description.0-15s": "0-15 sec",
 
+		"details.publishing.title": "Where do you intend to publish your video?",
+		"details.publishing.infotext.before": "Select a platform to learn what formats and lengths is ideal",
+		"details.publishing.infotext.1": "For Facebook we recommend square or tall square, up to 60 sec.",
+		"details.publishing.infotext.2": "For YouTube we recommend horizontal, 45-60 sec.",
+		"details.publishing.infotext.3": "For Instagram we recommend square or tall square, 0-30 sec.",
+		"details.publishing.infotext.4": "For Instagram story we recommend vertical, 0-15 sec.",
+		"details.publishing.infotext.5": "For websites we recommend horizontal, 45-60 sec.",
+		
+		"details.publishing.name.1": "Facebook",
+		"details.publishing.name.2": "YouTube",
+		"details.publishing.name.3": "Instagram",
+		"details.publishing.name.4": "Instagram Story",
+		"details.publishing.name.5": "Website",
+		
 		"finished.videos.title": "Finished videos",
+		"my.videos.title": "My videos",
 
 		"public.pages.inspiration.whyvideo.title": "Why video?",
-		"public.pages.inspiration.whyvideo.description": "<p>83 percent of marketeers said they would create more video content if they didn’t have restraints such as time and resources. </p><p>So, we started VIBBIO.</p>",
+		"public.pages.inspiration.whyvideo.description": "<p>83 percent of marketeers said they would create more video content if they didn’t have restraints such as time and resources. </p><p>So, we started VIBBIO.</p><p>And now, you can say bye-bye to all restraints!</p>",
 		"public.pages.inspiration.whyvideo.button": "WHY VIDEO WORKS",
-		"public.pages.inspiration.whyvideo.banner.1": "By 2019, online video will account for <b>80%</b> of all web traffic.",
-		"public.pages.inspiration.whyvideo.banner.2": "There are <b>22 bn</b> video views every day on social media.",
-		"public.pages.inspiration.whyvideo.banner.3": "Videos are <b>12 x</b> more likely to be watched than text is to be read.",
+		"public.pages.inspiration.whyvideo.banner.1": "By 2019, online video will account for <span class=\"highlighted\">80%</span> of all web traffic.",
+		"public.pages.inspiration.whyvideo.banner.2": "There are <span class=\"highlighted\">22 bn</span> video views every day on social media.",
+		"public.pages.inspiration.whyvideo.banner.3": "Videos are <span class=\"highlighted\">12 x</span> more likely to be watched than text is to be read.",
 		"public.pages.inspiration.whyvideo.subheading": "WHY VIDEO WORKS",
-		"public.pages.inspiration.whyvideo.text.1": "Videos are 12 times more likely to be watched than text is to be read. Why? Movement grabs your attention.",
-		"public.pages.inspiration.whyvideo.text.2": "If you are in the marketing department of your company (or actually any department) it is time to focus more about video. Here’s some key facts:",
+		"public.pages.inspiration.whyvideo.text.1": "Videos are 12 times more likely to be watched than text is to be read. Why? Movement grabs your attention. ",
+		"public.pages.inspiration.whyvideo.text.2": "If you are in the marketing department of your company (or actually any department) it is time to focus more on video. Here’s some key facts:",
 		"public.pages.inspiration.whyvideo.text.3": "<ul><li>Video posts on social media have an average organic reach of 50%! This is a lot compared to other ways to share your information.<span> Image posts: 33% - Link posts: 21% - Status updates: 16%</span></li><li>We see the effects of this in how users interact with video. A survey showed that 92% of mobile video consumers share videos with others. 80% of users recall a video they viewed in the past 30 days, and 90% of users say that product videos are helpful when making decisions on what to purchase.</li><li>Including a video in email marketing has had a proven effect on click-through-rate with 200-300%.</li><li>Including a video on your company’s landing page can increase conversions by 80%.</li></ul>",
 		"public.pages.inspiration.whyvideo.tip.title": "OUR TIPS:",
 		"public.pages.inspiration.whyvideo.tip.1.head": "KEEP IT SHORT",
@@ -783,8 +879,8 @@
 		"public.pages.inspiration.ideas.banner.box.4.button": "CONTACT US",
 
 		"public.pages.inspiration.getstarted.title": "Get started",
-		"public.pages.inspiration.getstarted.description": "Get started with this introduction video – and stay tuned for more tips & tricks inspiration!",
-		"public.pages.inspiration.getstarted.button": "OUR PORTFOLIO",
+		"public.pages.inspiration.getstarted.description": "<p>We started VIBBIO because we love sharing knowledge, and video is the best communication tool. Here are some examples that will show you how simple it can be!</p><p>As you can see, simple variations in use of color, font size and text placement can make a huge impact. When you order from us, we’ll tailor make a video style based on your company’s visual profile.</p>",
+		"public.pages.inspiration.getstarted.button": "EXAMPLES",
 
 		"public.pages.company.whatwedo.title": "What we do & why",
 		"public.pages.company.whatwedo.description": "<p>The way we communicate is changing. Video is quickly becoming one of the most important tools for companies to stand out online. </p><p>However, video production is both expensive and time consuming – that’s why we started VIBBIO. </p><p>We recognised an urgent need for a new and better solution – and our mission to make smart video <b>accessible, affordable and automatic.</b></p>",
@@ -793,9 +889,9 @@
 		"public.pages.company.whatwedo.banner.text.2": "In just over a year, the company has grown to a team of 14 employees.",
 		"public.pages.company.whatwedo.banner.button": "THE TEAM",
 		"public.pages.company.whatwedo.box.1.heading": "Shaping the future of communication",
-		"public.pages.company.whatwedo.box.1.text.1": "<span>Our passion is IMPACT through learning; To empower people everywhere to be better equipped for our fast moving times and the future ahead.</span>",
-		"public.pages.company.whatwedo.box.1.text.2": "Technological advanced are fuelling vast changes in most aspects of modern society – and to be able to make good choices and take advantage of new possibilities and a new reality, we need knowledge! <span>We need to live in a flow of continued education, and always stay curious!</span>",
-		"public.pages.company.whatwedo.box.1.text.3": "Video is the number one most efficient communication tool – and with our concentration span having been proven at just over a minute, a vibbio is a ONE minute long knowledge building video, tailor-made for ultimate reach and engagement. <span>Imagine learning something new in a minute...!</span>",
+		"public.pages.company.whatwedo.box.1.text.1": "<span class=\"highlight\">Our passion is IMPACT through learning; </span> To empower people everywhere to be better equipped for our fast moving times and the future ahead.</span>",
+		"public.pages.company.whatwedo.box.1.text.2": "Technological advanced are fuelling vast changes in most aspects of modern society – and to be able to make good choices and take advantage of new possibilities and a new reality, we need knowledge! <span class=\"highlight\">We need to live in a flow of continued education, and always stay curious!</span>",
+		"public.pages.company.whatwedo.box.1.text.3": "Video is the number one most efficient communication tool – and with our concentration span having been proven at just over a minute, a vibbio is a ONE minute long knowledge building video, tailor-made for ultimate reach and engagement. <span class=\"highlight\">Imagine learning something new in a minute...!</span>",
 		"public.pages.company.whatwedo.box.2.heading": "THE ULTIMATE FORMAT",
 		"public.pages.company.whatwedo.box.2.text.1": "To reach audiences today, videos must:",
 		"public.pages.company.whatwedo.box.2.text.2": "<ul><li>Have a hook</li><li>Be short</li><li>Texted<span> (90% watch video without sound)</span></li><li>Targeted<span> (create content for specific audiences)</span></li></ul>",
@@ -820,52 +916,53 @@
 		"public.pages.company.customers.portfolio.id.7": "230134141",
 		"public.pages.company.customers.portfolio.id.8": "209399638",
 		"public.pages.company.customers.portfolio.id.9": "230135182",
-		"public.pages.company.customers.subhead.2": "EXISTING VIBBIO CUSTOMERS",
+		"public.pages.company.customers.subhead.2": "EXISTING VIBBIO CUSTOMERS INCLUDE",
 		"public.pages.company.customers.existing.url": "https://storage.googleapis.com/vibbio/customers.png",
 		"public.pages.company.customers.existing.description": "Selvaag Bolig, Aker BioMarine, Adecco, Aker Solutions, Evry, NHO, Microsoft, Orkla, Sapa Group, Visma, Danske Bank, Gelato",
 
 
 
-		"public.pages.landingpage.video.url.id": "216797388",
+		"public.pages.landingpage.video.url.id": "231544979",
 		"public.pages.landingpage.examples.video.url.id.1": "230135182",
 		"public.pages.landingpage.examples.video.url.id.2": "230134141",
 		"public.pages.landingpage.examples.video.url.id.3": "220789799",
-		"public.pages.whyvideo.video.url.id": "216797388",
+		"public.pages.whyvideo.video.url.id": "232028007",
 		"public.pages.customers.video.url.id": "230150406",
-		"public.pages.our.story.video.url.id": "216797388",
+		"public.pages.our.story.video.url.id": "231544979",
 		"public.pages.the.team.video.url.id": "230779120",
 		"public.pages.get.started.video.url.id": "230763246",
-		"public.pages.video.ideas.video.url.id": "216797388",
-		"public.pages.become.a.user.video.url.id": "216797388",
+		"public.pages.video.ideas.video.url.id": "232230507",
+		"public.pages.become.a.user.video.url.id": "231885268",
+		"public.pages.video.production.video.url.id": "231543605",
 
 		"public.pages.company.theteam.employee.1.name": "Marianne Bratt Ricketts",
 		"public.pages.company.theteam.employee.1.title": "CEO & Co-founder",
-		"public.pages.company.theteam.employee.1.email": "marianne@vibbio.com",
+		"public.pages.company.theteam.employee.1.email": "<a href=\"mailto:marianne@vibbio.com\" class=\"vibbio-link\">marianne@vibbio.com</a>",
 		"public.pages.company.theteam.employee.1.phone": "+47 954 19 444",
 
 		"public.pages.company.theteam.employee.2.name": "Stine Norum",
 		"public.pages.company.theteam.employee.2.title": "COO & Co-founder",
-		"public.pages.company.theteam.employee.2.email": "stine@vibbio.com",
+		"public.pages.company.theteam.employee.2.email": "<a href=\"mailto:stine@vibbio.com\" class=\"vibbio-link\">stine@vibbio.com</a>",
 		"public.pages.company.theteam.employee.2.phone": "+47 995 90 802",
 
 		"public.pages.company.theteam.employee.3.name": "Catharina Husjord",
 		"public.pages.company.theteam.employee.3.title": "CFO",
-		"public.pages.company.theteam.employee.3.email": "catharina@vibbio.com",
+		"public.pages.company.theteam.employee.3.email": "<a href=\"mailto:catharina@vibbio.com\" class=\"vibbio-link\">catharina@vibbio.com</a>",
 		"public.pages.company.theteam.employee.3.phone": "+47 951 52 483",
 
 		"public.pages.company.theteam.employee.4.name": "Ingrid Guren",
 		"public.pages.company.theteam.employee.4.title": "Tech Lead",
-		"public.pages.company.theteam.employee.4.email": "ingrid@vibbio.com",
+		"public.pages.company.theteam.employee.4.email": "<a href=\"mailto:ingride@vibbio.com\" class=\"vibbio-link\">ingrid@vibbio.com</a>",
 		"public.pages.company.theteam.employee.4.phone": "+47 470 58 701",
 
 		"public.pages.company.theteam.employee.5.name": "Tana Blegen",
 		"public.pages.company.theteam.employee.5.title": "Head of Communications",
-		"public.pages.company.theteam.employee.5.email": "tana@vibbio.com",
+		"public.pages.company.theteam.employee.5.email": "<a href=\"mailto:tana@vibbio.com\" class=\"vibbio-link\">tana@vibbio.com</a>",
 		"public.pages.company.theteam.employee.5.phone": "+47 454 03 289",
 
 		"public.pages.company.theteam.employee.6.name": "Ine Autzen",
 		"public.pages.company.theteam.employee.6.title": "Head of Productions",
-		"public.pages.company.theteam.employee.6.email": "ine@vibbio.com",
+		"public.pages.company.theteam.employee.6.email": "<a href=\"mailto:ine@vibbio.com\" class=\"vibbio-link\">ine@vibbio.com</a>",
 		"public.pages.company.theteam.employee.6.phone": "+47 482 95 066",
 
 		"public.pages.company.theteam.employee.7.name": "Alexandra Leisse",
@@ -875,41 +972,41 @@
 
 		"public.pages.company.theteam.employee.8.name": "Line Moseng",
 		"public.pages.company.theteam.employee.8.title": "Developer",
-		"public.pages.company.theteam.employee.8.email": "line@vibbio.com",
+		"public.pages.company.theteam.employee.8.email": "<a href=\"mailto:line@vibbio.com\" class=\"vibbio-link\">line@vibbio.com</a>",
 		"public.pages.company.theteam.employee.8.phone": "+47 909 91 122",
 
 		"public.pages.company.theteam.employee.9.name": "Mathias J. Johansen",
 		"public.pages.company.theteam.employee.9.title": "Developer",
-		"public.pages.company.theteam.employee.9.email": "mathias@vibbio.com",
+		"public.pages.company.theteam.employee.9.email": "<a href=\"mailto:mathias@vibbio.com\" class=\"vibbio-link\">mathias@vibbio.com</a>",
 		"public.pages.company.theteam.employee.9.phone": "+47 416 84 636",
 
 		"public.pages.company.theteam.employee.10.name": "Tina Wold",
 		"public.pages.company.theteam.employee.10.title": "Content Creator",
-		"public.pages.company.theteam.employee.10.email": "tina@vibbio.com",
+		"public.pages.company.theteam.employee.10.email": "<a href=\"mailto:tina@vibbio.com\" class=\"vibbio-link\">tina@vibbio.com</a>",
 		"public.pages.company.theteam.employee.10.phone": "+47 416 02 961",
 
 		"public.pages.company.theteam.employee.11.name": "Morten J. Solberg",
 		"public.pages.company.theteam.employee.11.title": "Producer",
-		"public.pages.company.theteam.employee.11.email": "morten@vibbio.com",
+		"public.pages.company.theteam.employee.11.email": "<a href=\"mailto:morten@vibbio.com\" class=\"vibbio-link\">morten@vibbio.com</a>",
 		"public.pages.company.theteam.employee.11.phone": "+47 926 93 637",
 
 		"public.pages.company.theteam.employee.12.name": "Agri Soltanpanah",
 		"public.pages.company.theteam.employee.12.title": "Producer",
-		"public.pages.company.theteam.employee.12.email": "agri@vibbio.com",
+		"public.pages.company.theteam.employee.12.email": "<a href=\"mailto:agri@vibbio.com\" class=\"vibbio-link\">agri@vibbio.com</a>",
 		"public.pages.company.theteam.employee.12.phone": "+47 988 83 836",
 
 		"public.pages.company.theteam.employee.13.name": "Robert Ellefsrød",
 		"public.pages.company.theteam.employee.13.title": "Producer",
-		"public.pages.company.theteam.employee.13.email": "robert@vibbio.com",
+		"public.pages.company.theteam.employee.13.email": "<a href=\"mailto:robert@vibbio.com\" class=\"vibbio-link\">robert@vibbio.com</a>",
 		"public.pages.company.theteam.employee.13.phone": "+47 458 52 409",
 
 		"public.pages.company.theteam.employee.14.name": "Mark Tonkin",
 		"public.pages.company.theteam.employee.14.title": "Producer",
-		"public.pages.company.theteam.employee.14.email": "mark@vibbio.com",
+		"public.pages.company.theteam.employee.14.email": "<a href=\"mailto:mark@vibbio.com\" class=\"vibbio-link\">mark@vibbio.com</a>",
 		"public.pages.company.theteam.employee.14.phone": "+47 911 47 845",
 
 		"public.pages.company.theteam.board.1.name": "Anders Lier",
-		"public.pages.company.theteam.board.1.title": "<p>VIBBIO Board Member</p><p>Chariman of Nordic Impact</p>",
+		"public.pages.company.theteam.board.1.title": "VIBBIO Board Member. Chariman of Nordic Impact",
 
 		"public.pages.company.theteam.board.2.name": "Rolf Assev",
 		"public.pages.company.theteam.board.2.title": "Partner at StartupLab",
@@ -921,6 +1018,45 @@
 		"public.pages.company.theteam.board.4.title": "COO M&M Bank",
 
 		"public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
-		"public.pages.company.theteam.board.5.title": "Communication Specialist"
+		"public.pages.company.theteam.board.5.title": "Communication Specialist",
+
+		"ordering.project.name.tooltip": "Name your video. Example: \"Fall campaign video 1\"",
+
+		"ordering.description.tooltip": "Example: We want to kick off our fall marketing campaign on Facebook with this video.The video should be eye - catching and fun.",
+
+		"ordering.publish.platform.tooltip": "Some platforms prefer square videos while others use the more standard 16:9. Let us know where you want to publish the video, and we’ll suggest a suitable format and length.",
+
+		"ordering.format.tooltip": "<p>16:9 - The standard video format that you see on ex. Youtube.</p><p>9:16 - “Vertical video”, a format optimized to fit a mobile screen.</p><p>1:1 - A normal square, perfect for Instagram, but also looks great on Facebook.</p><p>5:4 - This format is a bit taller than it is wide, so it is a step towards vertical video without being too drastic.</p>",
+
+		"ordering.length.tooltip": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
+
+		"ordering.files.order.tooltip": "Place your visual content in the right order. Drag, or click arrows, to change the order of your files.",
+
+		"ordering.files.clips.tooltip": "Drop or upload your visual content into this column. If you want a plain background with text, leave the clips/image box empty. For video: remember to add timestamps so we know what part of the clip you want to use (ie. 00:11-00:25).",
+
+		"ordering.files.text.tooltip": "Add the text you want in this column. Place it next to the chosen video clip/image.",
+
+		"ordering.files.comments.tooltip": "Any specific requests for this clip? Add them here!",
+
+		"ordering.files.extra.tooltip": "Upload extra visual content here, that can be used to pad out your video, if needed.",
+
+		"profile.account.settings.design.profile.tooltip": "Upload your visual profile here. This will be used in all of your videos, unless you specify otherwise.",
+
+		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files.",
+
+		"ordering.files.column.order": "Order",
+		"ordering.files.column.clips": "Clips/Image",
+		"ordering.files.column.text": "Text to be added",
+		"ordering.files.column.comments": "Comments",
+		
+		"public.pages.signup.loggedin.heading": "Uh oh! Looks like you're already logged in.",
+		"public.pages.signup.loggedin.info": "We appreciate your eagerness, but you can't sign up again while you are logged in.",
+		"public.pages.signup.loggedin.before.button.logout": "To sign out,",
+		"public.pages.signup.loggedin.button.logout": "click here",
+		"public.pages.signup.loggedin.button.tohomepage": "Go to home page",
+	
+		
+		"fileuploading.uploader.modal.title": "Choose files to upload",
+		"fileuploading.uploader.modal.description": "Max file size is 700MB. Allowed file types: jpeg, jpg, png, ai, eps, photoshop, tif, tiff, cr2, h.264, h.265, mp4, mpeg, m4v, mts, m2ts, mov, quicktime, mp3, wav, aiff, aif, aifc, aac, m4a, ogg, oga, wma."
 	}
 }
