@@ -353,7 +353,7 @@
 		"orders.new.version.description.NEW_INTRO_OUTRO": "New intro/outro",
 		"orders.new.version.description.NEW_INTRO_OUTRO.about": "Change intro or outro on an exisiting video.",
 		"orders.new.version.description.CHANGE_IMAGE_CLIP": "Change 1 clip/image",
-		"orders.new.version.description.CHANGE_IMAGE_CLIP.about": "Choose which clip/image you want to change, and upload your new clip with a description about how you want your clip/image to be used.",
+		"orders.new.version.description.CHANGE_IMAGE_CLIP.about": "Choose which clip/image you want to change, and upload your new clip with a description about how you want your clip/image to be used. Make sure to include what parts of the new clip you want used (i.e. 00:14-00:20)",
 		"orders.new.version.description.CHANGE_TEXT": "Change 1 text",
 		"orders.new.version.description.CHANGE_TEXT.about": "Give a description about which text you want to change and how you want to change it.",
 		"orders.new.version.description.NEW_FORMAT": "New format",
