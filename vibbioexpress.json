@@ -1029,7 +1029,7 @@
 
 		"ordering.length.tooltip": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
 
-		"ordering.files.order.tooltip": "Place your visual content in the right order.",
+		"ordering.files.order.tooltip": "Place your visual content in the right order. Drag, or click arrows, to change the order of your files.",
 
 		"ordering.files.clips.tooltip": "Drop or upload your visual content into this column. If you want a plain background with text, leave the clips/image box empty. For video: remember to add timestamps so we know what part of the clip you want to use (ie. 00:11-00:25).",
 
