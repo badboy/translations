@@ -79,7 +79,7 @@
 		"public.signup.title": "Become a user:",
 		"public.signup.companyname.label": "Company name*",
 		"public.signup.shortname.label": "Username for company*",
-		"public.signup.shortname.tooltip": "Choose a username for your account using the characters a-z.",
+		"public.signup.shortname.tooltip": "Choose a username for your account using the characters a-z, between 3-15 characters (no spaces).",
 		"public.signup.shortname.validation.available.error": "The username is taken. Choose another.",
 		"public.signup.shortname.validation.available.valid": "The username is available.",
 		"public.signup.shortname.validation.format.error": "The username can only contain of characters from a-z.",
