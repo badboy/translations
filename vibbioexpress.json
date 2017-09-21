@@ -1068,7 +1068,11 @@
 		"email.internal.subjects.subscription.changed": "VIBBIO: Subscription changed",
 		"email.internal.subjects.subscription.canceled": "VIBBIO: Subscription canceled",
 		"email.internal.subjects.organization.created": "VIBBIO: Account created",
-		"email.internal.subjects.credits.purchased": "VIBBIO: Credits purchased"
+		"email.internal.subjects.credits.purchased": "VIBBIO: Credits purchased",
+		
+		
+		"pages.error.page.title": "Error",
+		"pages.error.page.description": "Sorry, we are currently having problems with our application. Please try again and contact us if the problem persists."
 	
 	}
 }
