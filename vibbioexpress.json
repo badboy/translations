@@ -382,6 +382,9 @@
 		"orders.new.version.change.clip.add.new.clip.title": "Upload your new clip",
 		"orders.new.version.change.clip.add.description.title": "Add a description about how you want your clip/image to be used.",
 		"orders.new.version.finish.button": "Order video",
+		"orders.new.version.confirmation.modal.delete.draft": "Are you sure you want to delete your new version?",
+		"orders.new.version.delete.draft.button.text": "Delete draft",
+		"orders.new.version.save.draft.button.text": "Save draft",
 
 
 		"orders.new.version.row.content.add.new.file": "Choose another file",
