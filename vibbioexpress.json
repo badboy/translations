@@ -792,7 +792,8 @@
 
 		"ordering.additional.files.header": "Additional files",
 		"ordering.additional.files.button.text": "Add more rows",
-
+		"ordering.additional.file.row.delete.row": "Delete",
+		
 		"format.title": "Choose the format of your video",
 		"format.title.number.to.choose": " (Choose 1)",
 		"format.back.button.text": "Back: Description",
