@@ -262,6 +262,9 @@
 		"private.header.order.video": "Order video",
 		"private.header.vibbio.store": "VIBBIO Shop",
 		"private.header.my.videos": "Videos",
+		
+		"private.header.profile.menu.my.library": "My library",
+		"private.header.profile.menu.my.account": "My account",
 
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
