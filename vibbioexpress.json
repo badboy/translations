@@ -264,8 +264,8 @@
 		"private.header.my.videos": "Videos",
 		
 		"private.header.profile.menu.my.library": "My library",
-		"private.header.profile.menu.my.account": "My account",
-		"private.header.profile.menu.switch.organization": "Switch company",
+		"private.header.profile.menu.user.settings": "User settings",
+		"private.header.profile.menu.switch.organization": "Choose company",
 		"private.header.profile.menu.log.out": "Log out",
 		
 		"user.home.choose.organization.heading": "Choose company:",
@@ -755,7 +755,7 @@
 		"profile.account.organization.info.phone": "Contact phone",
 
 
-		"profile.account.settings.title": "Account setting",
+		"profile.account.settings.title": "Company settings",
 
 		"profile.account.settings.design.profile.color.profile.label": "Colour palette",
 		"profile.account.settings.design.profile.color.profile.description": "Write in the html colour codes of your two main colours",
