@@ -269,6 +269,8 @@
 		"private.header.profile.menu.log.out": "Log out",
 		
 		"user.home.choose.organization.heading": "Choose company:",
+		"user.settings.title": "Settings",
+		"user.settings.settings.for.all.companies.header": "Settings for each company",
 
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
