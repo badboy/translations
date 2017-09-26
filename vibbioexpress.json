@@ -256,6 +256,8 @@
 		"footer.link.contact": "Contact",
 		"footer.link.faq": "FAQ",
 		"footer.link.privacy": "Privacy & terms",
+		
+		"user.home.choose.organization.heading": "Choose organization",
 
 		"private.header.library": "Library",
 		"private.header.drafts": "Drafts",
