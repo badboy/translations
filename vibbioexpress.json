@@ -256,8 +256,6 @@
 		"footer.link.contact": "Contact",
 		"footer.link.faq": "FAQ",
 		"footer.link.privacy": "Privacy & terms",
-		
-		"user.home.choose.organization.heading": "Choose organization",
 
 		"private.header.library": "Library",
 		"private.header.drafts": "Drafts",
@@ -267,6 +265,10 @@
 		
 		"private.header.profile.menu.my.library": "My library",
 		"private.header.profile.menu.my.account": "My account",
+		"private.header.profile.menu.switch.organization": "Switch company",
+		"private.header.profile.menu.log.out": "Log out",
+		
+		"user.home.choose.organization.heading": "Choose company:",
 
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
