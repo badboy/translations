@@ -82,7 +82,7 @@
 		"public.signup.BASIC.title": "Become a user:",
 		"public.signup.PLUS.title": "Become a user:",
 		"public.signup.PREMIUM.title": "Become a user:",
-		"public.signup.NONE.title": "Become a multi-user:"
+		"public.signup.NONE.title": "Become a multi-user:",
 		"public.signup.NONE.description": "Start with registering your main company.",
 		
 		"public.signup.companyname.label": "Company name*",
