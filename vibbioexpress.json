@@ -73,10 +73,7 @@
 		
 		"public.plan.MULTI.1": "MULTI",
 		"public.plan.MULTI.1.tooltip": "public.plan.tooltip.MULTI",
-		"public.plan.MULTI.2": "For agencies and companies",
-		"public.plan.MULTI.3": "with several brands.",
-		"public.plan.MULTI.4": "One place control and",
-		"public.plan.MULTI.5": "designate many user plans.",
+		"public.plan.MULTI.description": "<p>For agencies and companies</p><p>with several brands.</p><p>One place control and</p>designate many user plans.</p>",
 		
 
 		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
