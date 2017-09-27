@@ -77,7 +77,14 @@
 		"public.plan.tooltip.PREMIUM": "<p>Example of use: 11.000 credits:</p><ul><li>Order 11 new videos - or</li><li>Order 7 videos in two languages - or</li><li>Order 8 videos and make four medium and ten small changes</li></ul>",
 		"public.plan.tooltip.MULTI": "<p>This is the perfect plan for agencies and large companies with many departments or brands.</p><ul><li>· Centralised admin for budget and quality control</li><li>· Allocate suitable user levels for each of your units/customers</li><li>· Allocate team members for collaboration on their projects</li></ul>",
 		
-		"public.signup.title": "Become a user:",
+		"public.signup.undefined.title": "Become a user:",
+		"public.signup.TRIAL.title": "Become a user:",
+		"public.signup.BASIC.title": "Become a user:",
+		"public.signup.PLUS.title": "Become a user:",
+		"public.signup.PREMIUM.title": "Become a user:",
+		"public.signup.MULTI.title": "Become a multi-user:"
+		"public.signup.MULTI.description": "Start with registering your main company.",
+		
 		"public.signup.companyname.label": "Company name*",
 		"public.signup.shortname.label": "Username for company*",
 		"public.signup.shortname.tooltip": "Choose a username for your account using the characters a-z.",
