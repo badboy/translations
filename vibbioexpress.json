@@ -36,7 +36,6 @@
 		"public.plan.rows.3": "Monthly credits",
 		"public.plan.rows.4": "Delivery time (per video)",
 		"public.plan.rows.5": "Storage space",
-		"public.plan.rows.6": "User licences",
 		"public.plan.signup.button": "Sign up",
 
 		"public.plan.TRIAL.1": "Trial",
@@ -45,7 +44,6 @@
 		"public.plan.TRIAL.3": "0",
 		"public.plan.TRIAL.4": "N/A",
 		"public.plan.TRIAL.5": "500 GB",
-		"public.plan.TRIAL.6": "Up to 2",
 
 		"public.plan.BASIC.1": "Basic",
 		"public.plan.BASIC.2": "<p>NOK 18.000</p><p>EUR 2.000</p>",
@@ -53,7 +51,6 @@
 		"public.plan.BASIC.3.tooltip": "public.plan.tooltip.BASIC",
 		"public.plan.BASIC.4": "5-7 days",
 		"public.plan.BASIC.5": "500 GB",
-		"public.plan.BASIC.6": "Up to 2",
 
 		"public.plan.PLUS.1": "Plus",
 		"public.plan.PLUS.2": "<p>NOK 32.000</p><p>EUR 3.600</p>",
@@ -61,7 +58,6 @@
 		"public.plan.PLUS.3.tooltip": "public.plan.tooltip.PLUS",
 		"public.plan.PLUS.4": "4-5 days",
 		"public.plan.PLUS.5": "1 TB",
-		"public.plan.PLUS.6": "Up to 5",
 
 		"public.plan.PREMIUM.1": "Premium",
 		"public.plan.PREMIUM.2": "<p>NOK 58.000</p><p>EUR 6.600</p>",
@@ -69,9 +65,8 @@
 		"public.plan.PREMIUM.3.tooltip": "public.plan.tooltip.PREMIUM",
 		"public.plan.PREMIUM.4": "2-3 days",
 		"public.plan.PREMIUM.5": "2 TB",
-		"public.plan.PREMIUM.6": "Up to 11",
 		
-		"public.plan.MULTI.1": "MULTI",
+		"public.plan.MULTI.1": "Multi",
 		"public.plan.MULTI.1.tooltip": "public.plan.tooltip.MULTI",
 		"public.plan.MULTI.description": "<p>For agencies and companies</p><p>with several brands.</p><p>One place control and</p>designate many user plans.</p>",
 		
