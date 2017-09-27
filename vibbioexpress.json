@@ -40,7 +40,7 @@
 
 		"public.plan.TRIAL.1": "Trial",
 		"public.plan.TRIAL.1.tooltip": "public.plan.tooltip.TRIAL",
-		"public.plan.TRIAL.2": "<p>NOK 0</p><p>EUR 0</p>",
+		"public.plan.TRIAL.2": "FREE",
 		"public.plan.TRIAL.3": "0",
 		"public.plan.TRIAL.4": "N/A",
 		"public.plan.TRIAL.5": "500 GB",
@@ -68,7 +68,8 @@
 		
 		"public.plan.NONE.1": "Multi",
 		"public.plan.NONE.1.tooltip": "public.plan.tooltip.MULTI",
-		"public.plan.NONE.description": "<p>For agencies and companies</p><p>with several brands.</p><p>One place control and</p>designate many user plans.</p>",
+		"public.plan.NONE.2": "Administrator of several users",
+		"public.plan.NONE.description": "<p class=\"highlight-2\">One place to control many user plans.</p><p>For agencies & companies with several brands.</p>",
 		
 
 		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
