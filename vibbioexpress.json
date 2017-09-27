@@ -66,9 +66,9 @@
 		"public.plan.PREMIUM.4": "2-3 days",
 		"public.plan.PREMIUM.5": "2 TB",
 		
-		"public.plan.MULTI.1": "Multi",
-		"public.plan.MULTI.1.tooltip": "public.plan.tooltip.MULTI",
-		"public.plan.MULTI.description": "<p>For agencies and companies</p><p>with several brands.</p><p>One place control and</p>designate many user plans.</p>",
+		"public.plan.NONE.1": "Multi",
+		"public.plan.NONE.1.tooltip": "public.plan.tooltip.MULTI",
+		"public.plan.NONE.description": "<p>For agencies and companies</p><p>with several brands.</p><p>One place control and</p>designate many user plans.</p>",
 		
 
 		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
@@ -82,8 +82,8 @@
 		"public.signup.BASIC.title": "Become a user:",
 		"public.signup.PLUS.title": "Become a user:",
 		"public.signup.PREMIUM.title": "Become a user:",
-		"public.signup.MULTI.title": "Become a multi-user:"
-		"public.signup.MULTI.description": "Start with registering your main company.",
+		"public.signup.NONE.title": "Become a multi-user:"
+		"public.signup.NONE.description": "Start with registering your main company.",
 		
 		"public.signup.companyname.label": "Company name*",
 		"public.signup.shortname.label": "Username for company*",
