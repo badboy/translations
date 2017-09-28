@@ -121,6 +121,11 @@
 		"public.signup.submit.error.message": "Could not complete registration of user.",
 		"public.signup.submit.error.before.submit.message": "There are some errors, please correct and try again.",
 
+		"private.signup.suborg.title": "Create a new company",
+		"private.signup.suborg.about.subscription.plans": "<p>Read about our subscription plans <a href=\"https://vibbio.com/public/products/user\" target=\"_blank\" class=\"vibbio-link\">here</a></p>.",
+		"private.signup.suborg.success.title": "Successfully created company",
+		"private.signup.suborg.success.return.button.text": "Return to homepage",
+		
 		"public.pages.contact.us.title": "Contact us",
 		"public.pages.contact.us.contactform.title": "Do you have a question or an enquiry?",
 		"public.pages.contact.us.contactform.description": "Get in touch, and we will get back as soon as possible",
@@ -276,7 +281,8 @@
 		"user.home.choose.organization.heading": "Choose company:",
 		"user.settings.title": "Settings",
 		"user.settings.settings.for.all.companies.header": "Settings for each company",
-
+		
+		
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
 		"ordering.menu.step.1.description": "Description",
