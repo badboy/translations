@@ -125,6 +125,13 @@
 		"private.signup.suborg.about.subscription.plans": "<p>Read about our subscription plans <a href=\"https://vibbio.com/public/products/user\" target=\"_blank\" class=\"vibbio-link\">here</a></p>.",
 		"private.signup.suborg.success.title": "Successfully created company",
 		"private.signup.suborg.success.return.button.text": "Return to homepage",
+		"private.signup.suborg.success.details.title": "Details",
+		"private.signup.suborg.success.details.name": "Name:",
+		"private.signup.suborg.success.details.shortname": "Username for company:",
+		"private.signup.suborg.success.details.contactName": "Contact name:",
+		"private.signup.suborg.success.details.contactEmail": "Contact email :",
+		"private.signup.suborg.success.details.subscriptionPack": "Subscription plan:",
+		
 		
 		"public.pages.contact.us.title": "Contact us",
 		"public.pages.contact.us.contactform.title": "Do you have a question or an enquiry?",
