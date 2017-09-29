@@ -766,7 +766,7 @@
 
 		"profile.account.page.title": "My account",
 		"profile.account.subscription.pack.title": "Subscription plan",
-		"profile.account.subscription.pack.chosen.pack": "Chosen pack",
+		"profile.account.subscription.pack.chosen.pack": "Current plan",
 		"profile.account.subscription.pack.monthly.credits": "Monthly credits",
 		"profile.account.subscription.pack.expiration.date": "Expiration date",
 
