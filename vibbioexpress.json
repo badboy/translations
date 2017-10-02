@@ -1109,7 +1109,12 @@
 		"pages.error.page.title": "Error",
 		"pages.error.page.description": "Sorry, we are currently having problems with our application. Please try again and contact us if the problem persists.",
 		
-		"intro.video.url.id": "236100351",
+		"intro.TRIAL.video.url.id": "236100351",
+		"intro.BASIC.video.url.id": "236100351",
+		"intro.PLUS.video.url.id": "236100351",
+		"intro.PREMIUM.video.url.id": "236100351",
+		"intro.MULTI.video.url.id": "236100351",
+		"intro.undefined.video.url.id": "236100351",
 		"intro.video.description": "Intro video about VIBBIO."
 	}
 }
