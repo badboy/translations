@@ -250,6 +250,9 @@
 		"public.pages.products.pricing.description": "Our products can be tailored to suit your company’s video production needs.",
 		"public.pages.products.pricing.option1.title": "Option 1: VIBBIO user plans",
 		"public.pages.products.pricing.option2.title": "Option 2: VIBBIO Productions",
+		
+		"public.pages.products.book.a.demo.title": "Book a demo",
+		"public.pages.products.book.a.demo.description": "<div><p><b>Want to learn more about how your company can utilize the VIBBIO-platform? </b></p><p>Book a demo to learn more about us and how we work with video. We’ll also take you through the platform, and show you how to: </p><ul><li>Choose the right user plan for your needs</li><li>Sort and store files</li><li>Order new videos and new versions</li><li>Book content help or filming-sessions</li></ul></div>",
 
 
 		"footer.vibbio.organization.name": "VIBBIO AS",
