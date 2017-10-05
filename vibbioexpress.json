@@ -67,7 +67,8 @@
 		"public.plan.NONE.1.tooltip": "public.plan.tooltip.MULTI",
 		"public.plan.NONE.2": "Administrator of several users",
 		"public.plan.NONE.description": "<p class=\"highlight-3\">One place to control many user plans.</p><p>For agencies & companies with several brands.</p>",
-		
+
+		"public.plan.about.storage": "Our user plans come with 2TB storage space, which can be increased and customised if needed.",
 
 		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
 		"public.plan.tooltip.BASIC": "<p>Example of use: 2.000 credits:</p><ul><li>Order two new videos - or</li><li>Order one new video and two additional formats - or</li><li>Order one video and 10 small changes</li></ul>",
