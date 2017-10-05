@@ -66,7 +66,7 @@
 		"public.plan.NONE.1": "Multi",
 		"public.plan.NONE.1.tooltip": "public.plan.tooltip.MULTI",
 		"public.plan.NONE.2": "Administrator of several users",
-		"public.plan.NONE.description": "<p class=\"highlight-3\">One place to control many user plans.</p><p>For agencies & companies with several brands.</p>",
+		"public.plan.NONE.description": "<p><b>One place to control many user plans.</b></p><p>For agencies & companies with several brands.</p>",
 
 		"public.plan.about.storage": "Our user plans come with 2TB storage space, which can be increased and customised if needed.",
 
