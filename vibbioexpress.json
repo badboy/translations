@@ -259,8 +259,8 @@
 		"public.pages.products.book.a.demo.title": "Book a demo",
 		"public.pages.products.book.a.demo.description": "<div><p><b>Want to learn more about how your company can utilize the VIBBIO-platform? </b></p><p>Book a demo to learn more about us and how we work with video. We’ll also take you through the platform, and show you how to: </p><ul><li>Choose the right user plan for your needs</li><li>Sort and store files</li><li>Order new videos and new versions</li><li>Book content help or filming-sessions</li></ul></div>",
 		"public.pages.products.book.a.demo.button": "Book a demo",
-		"public.pages.products.book.a.demo.contactform.title": "Leave your contact information and we will contact you to set up a demo",
-		"public.pages.products.book.a.demo.contactform.description": "Get in touch, and we will get back as soon as possible",
+		"public.pages.products.book.a.demo.contactform.title": "Want a personlized demonstration of our platform?",
+		"public.pages.products.book.a.demo.contactform.description": "Leave your contact information below, and we'll get back to you to schedule a demo.",
 		
 		
 		"footer.vibbio.organization.name": "VIBBIO AS",
