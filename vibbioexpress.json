@@ -10,8 +10,10 @@
 		"public.header.products.menu.1.subtitle": "VIBBIO SUBSCRIPTION PLANS",
 		"public.header.products.menu.2.title": "BOOK VIDEO PRODUCTION",
 		"public.header.products.menu.2.subtitle": "FROM IDEA TO COMPLETION",
-		"public.header.products.menu.3.title": "PRICING",
-		"public.header.products.menu.3.subtitle": "  ",
+		"public.header.products.menu.3.title": "Book a demo",
+		"public.header.products.menu.3.subtitle": "   ",
+		"public.header.products.menu.4.title": "PRICING",
+		"public.header.products.menu.4.subtitle": "  ",
 
 		"public.header.inspiration.menu.1.title": "WHY VIDEO?",
 		"public.header.inspiration.menu.1.subtitle": "TRENDS & STATISTICS",
@@ -38,7 +40,6 @@
 		"public.plan.signup.button": "Sign up",
 
 		"public.plan.TRIAL.1": "Trial",
-		"public.plan.TRIAL.1.tooltip": "public.plan.tooltip.TRIAL",
 		"public.plan.TRIAL.2": "FREE",
 		"public.plan.TRIAL.3": "Try us out!",
 		"public.plan.TRIAL.4": "90 days free trial",
@@ -62,11 +63,17 @@
 		"public.plan.PREMIUM.4": "2-3 days",
 		
 		"public.plan.NONE.1": "Multi",
-		"public.plan.NONE.1.tooltip": "public.plan.tooltip.MULTI",
 		"public.plan.NONE.2": "Administrator of several users",
-		"public.plan.NONE.description": "<p class=\"highlight-3\">One place to control many user plans.</p><p>For agencies & companies with several brands.</p>",
-		
+		"public.plan.NONE.description": "<p><b>One place to control many user plans.</b></p><p>For agencies & companies with several brands.</p>",
 
+		"public.plan.about.storage": "Our user plans come with 2TB storage space, which can be increased and customised if needed.",
+
+		"public.plan.TRIAL.more.info":"<p><b>Sign up for TRIAL user, and get to try out the user experience.</b></p><ul><li>Upload visual material and organize your library</li><li>Invite team members to collaborate</li><li>Test the Order Video system</li><li>Create as many drafts as you want</li><li>Buy credits if you wish to process a video order</li><li>Upgrade to a User Plan at any time and keep your library</li></ul>",		
+		"public.plan.BASIC.more.info": "<p><strong>This user plan is perfect for companies who want to publish videos a couple of times a month.</strong></p><ul><li>Each month this user is topped up with 2000 credits</li><li>As an example, order 2 new videos in a month (1000 credits per) - <br />Or 1 new video, an extra format (500 credits), and extra language (500 credits) - <br />Or 1 new video, and up to 10 additional versions: new intro/outro/clip (100 credits each)</li><li>Content help, filming and stock images/clips can also be purchased with credits</li><li>Add extra credits within the user if you run out</li><li>Upload, store and organise existing materials in your user library</li><li>Video orders can be made from still images, video clips, old videos or only texts</li><li>An unlimited amount of new versions can be ordered from each new video</li><li>Invite your team to the user to collaborate</li><li>Transfer between User Plans when needed</li><li>2TB storage space - and extra space can be added</li></ul>",
+		"public.plan.PLUS.more.info": "<p><strong>This user plan is perfect for companies who want to publish videos up to every week - and/or with some activity across several publishing channels.</strong></p><ul><li>Each month this user is topped up with 5000 credits</li><li>As an example order<em> 5 new videos in a month</em> (1000 credits per) -</li><li>Or <em>3 new videos, two extra formats</em> (500 credits), <em>and two extra languages</em> (500 credits) - Or <em>2 new videos, and up to 30 additional versions: </em>new intro/outro/clip (100 credits each)</li><li>Content help, filming and stock images/clips can also be purchased with credits</li><li>Add extra credits within the user if you run out</li><li>Upload, store and organise existing visual materials in your user library</li><li>Video orders can be made from still images, video clips, old videos or only texts</li><li>An unlimited amount of new versions can be ordered from each new video</li><li>Invite your team to the User to collaborate</li><li>Transfer between User Plans when needed</li><li>2TB storage space - and extra space can be added</li></ul>",
+		"public.plan.PREMIUM.more.info": "<p><strong>This user plan is perfect for companies who want to publish a few videos every week - with activity across several publishing channels.</strong></p><ul><li>Each month this user is topped up with 11000 credits</li><li>As an example, order<em> 11 new videos in a month</em> (1000 credits per) - <br />Or<em> 6 new videos, two extra formats</em> (500 credits)<em>, two extra languages</em> (500 credits), and <em>20 additional versions</em>: new intro/outro/clip (100 credits each)</li><li>Content help, filming and stock images/clips can also be purchased with credits</li><li>Add extra credits within the user if you run out</li><li>Upload, store and organise existing visual materials in your user library</li><li>Video orders can be made from still images, video clips, old videos or only texts</li><li>An unlimited amount of new versions can be ordered from each new video</li><li>Invite your team to the User to collaborate</li><li>Transfer between User Plans when needed</li><li>2TB storage space - and extra space can be added</li></ul>",
+		"public.plan.NONE.more.info": "<p><br /><strong>This user plan is an administrator, perfect for organising content for several different brands, departments or customers.</strong></p><ul><li>Setting up a Multi User is in itself free &ndash; it is a super flexible control station</li><li>Inside the administrator, add suitable User Plans for all the accounts you represent</li><li>Each User Plan is tailored to 1 brand profile </li><li>The Users are separate units &ndash; each with the services mentioned in our three User Plans (Basic, Plus, Premium)</li><li>We can tailor the administrator with wanted security and control settings</li></ul>",
+		
 		"public.plan.tooltip.TRIAL": "<p>Try out the user experience!</p><p> - 90 days free access</p><p> - Upload visuals to create your library</p><p> - Invite your team to participate</p><p> - Test the 4-step video ordering system</p><p> - Purchase credits to process an order</p>",
 		"public.plan.tooltip.BASIC": "<p>Example of use: 2.000 credits:</p><ul><li>Order two new videos - or</li><li>Order one new video and two additional formats - or</li><li>Order one video and 10 small changes</li></ul>",
 		"public.plan.tooltip.PLUS": "<p>Example of use: 5.000 credits:</p><ul><li>Order five new videos - or</li><li>Order four new videos, one teaser and two small changes - or</li><li>Order three videos in two different formats and make five small changes</li></ul>",
@@ -248,8 +255,14 @@
 		"public.pages.products.pricing.description": "Our products can be tailored to suit your company’s video production needs.",
 		"public.pages.products.pricing.option1.title": "Option 1: VIBBIO user plans",
 		"public.pages.products.pricing.option2.title": "Option 2: VIBBIO Productions",
-
-
+		
+		"public.pages.products.book.a.demo.title": "Book a demo",
+		"public.pages.products.book.a.demo.description": "<div><p><b>Want to learn more about how your company can utilize the VIBBIO-platform? </b></p><p>Book a demo to learn more about us and how we work with video. We’ll also take you through the platform, and show you how to: </p><ul><li>Choose the right user plan for your needs</li><li>Sort and store files</li><li>Order new videos and new versions</li><li>Book content help or filming-sessions</li></ul></div>",
+		"public.pages.products.book.a.demo.button": "Book a demo",
+		"public.pages.products.book.a.demo.contactform.title": "Want a personlized demonstration of our platform?",
+		"public.pages.products.book.a.demo.contactform.description": "Leave your contact information below, and we'll get back to you to schedule a demo.",
+		
+		
 		"footer.vibbio.organization.name": "VIBBIO AS",
 		"footer.vibbio.organization.number": "Org.no 916722516",
 
@@ -363,7 +376,15 @@
 
 		"ordering.order.success.version.info.title": "Version information",
 		"ordering.order.success.version.type.label": "Version type: ",
+		"ordering.order.success.version.creditcost": "Credit cost",
+		"ordering.order.success.version.gotoorders": "Go to my orders",
 		"ordering.order.success.NEW_INTRO_OUTRO.description": "This version contains a new intro or outro from the original version. Change: ",
+		"ordering.order.success.NEW_INTRO_OUTRO.oldFile": "Old {switched}: ",
+		"ordering.order.success.NEW_INTRO_OUTRO.newFile": "New {switched}: ",
+		"ordering.order.success.NEW_INTRO_OUTRO.filedescription": "Description: ",
+		"ordering.order.success.CHANGE_IMAGE_CLIP.oldFile": "Old clip/image: ",
+		"ordering.order.success.CHANGE_IMAGE_CLIP.newFile": "New clip/image: ",
+		"ordering.order.success.CHANGE_IMAGE_CLIP.filedescription": "Description: ",
 		"ordering.order.success.CHANGE_TEXT.description": "This version contains a single change of text: ",
 		"ordering.order.success.NEW_FORMAT.description": "This version has a different format than the original version. New format: ",
 		"ordering.order.success.NEW_LANGUAGE.description": "This version contains a new language.",
@@ -518,7 +539,7 @@
 		"public.landingpage.top.banner.video.id": "216797388",
 		"public.landingpage.top.banner.title": "VIBBIO is a platform where you can order video production on-demand.",
 		"public.landingpage.top.banner.signup.button": "Sign up",
-		"public.landingpage.top.banner.contact.us.button": "Contact us",
+		"public.landingpage.top.banner.contact.us.button": "Book a demo",
 		"public.landingpage.top.banner.description": "   ",
 		"public.landingpage.image.banner.1.title": "User plans",
 		"public.landingpage.image.banner.1.description": "Our monthly plans include a cloud-based library, for all your visual materials.",
@@ -767,6 +788,7 @@
 		"profile.account.page.title": "My account",
 		"profile.account.subscription.pack.title": "Subscription plan",
 		"profile.account.subscription.pack.chosen.pack": "Current plan",
+		"profile.account.next.subscription.pack": "Next subscription plan (starting {from}):",
 		"profile.account.subscription.pack.monthly.credits": "Monthly credits",
 		"profile.account.subscription.pack.expiration.date": "Expiration date",
 
@@ -921,7 +943,7 @@
 		"public.pages.inspiration.getstarted.button": "EXAMPLES",
 
 		"public.pages.company.whatwedo.title": "What we do & why",
-		"public.pages.company.whatwedo.description": "<p>The way we communicate is changing. Video is quickly becoming one of the most important tools for companies to stand out online. </p><p>However, video production is both expensive and time consuming – that’s why we started VIBBIO. </p><p>We recognised an urgent need for a new and better solution – and our mission to make smart video <b>accessible, affordable and automatic.</b></p>",
+		"public.pages.company.whatwedo.description": "<p>The way we communicate is changing. Video is quickly becoming one of the most important tools for companies to stand out online. </p><p>However, video production is both expensive and time consuming – that’s why we started VIBBIO. </p><p>We recognised an urgent need for a new and better solution – and our mission is to make smart video <b>accessible, affordable and automatic.</b></p>",
 		"public.pages.company.whatwedo.banner.heading": "BACKGROUND",
 		"public.pages.company.whatwedo.banner.text.1": "VIBBIO was founded 2016 in Oslo, Norway, by Marianne Bratt Ricketts and Stine Norum.",
 		"public.pages.company.whatwedo.banner.text.2": "In just over a year, the company has grown to a team of 14 employees.",
@@ -972,6 +994,7 @@
 		"public.pages.video.ideas.video.url.id": "232306107",
 		"public.pages.become.a.user.video.url.id": "231885268",
 		"public.pages.video.production.video.url.id": "231543605",
+		"public.pages.book.a.demo.video.url.id": "231544979",
 
 		"public.pages.company.theteam.employee.1.name": "Marianne Bratt Ricketts",
 		"public.pages.company.theteam.employee.1.title": "CEO & Co-founder",
@@ -1109,7 +1132,12 @@
 		"pages.error.page.title": "Error",
 		"pages.error.page.description": "Sorry, we are currently having problems with our application. Please try again and contact us if the problem persists.",
 		
-		"intro.video.url.id": "236100351",
+		"intro.TRIAL.video.url.id": "236100351",
+		"intro.BASIC.video.url.id": "236100351",
+		"intro.PLUS.video.url.id": "236100351",
+		"intro.PREMIUM.video.url.id": "236100351",
+		"intro.MULTI.video.url.id": "237072769",
+		"intro.undefined.video.url.id": "237072769",
 		"intro.video.description": "Intro video about VIBBIO."
 	}
 }
