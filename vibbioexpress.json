@@ -302,6 +302,14 @@
 		"user.settings.title": "Settings",
 		"user.settings.settings.for.all.companies.header": "Settings for each company",
 		"user.settings.settings.for.super.companies.header": "Settings for multi company",
+		"user.settings.change.password.title": "Change password",
+		"user.settings.change.password.new.password.label": "New password",
+		"user.settings.change.password.confirm.password.label": "Confirm password",
+		"user.settings.change.password.button.cancel": "Cancel",
+		"user.settings.change.password.button.proceed": "Save",
+		"user.settings.change.password.error": "There was a problem when changing your password. Please try again.",
+		"user.settings.change.password.success.header": "Password changed!",
+		"user.settings.change.password.success.body": "Your password has been successfully changed.",
 		
 		
 		"ordering.menu.title": "Order video",
