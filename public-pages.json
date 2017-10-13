@@ -519,7 +519,9 @@
 
 		"public.pages.company.theteam.title": "Team VIBBIO",
 		"public.pages.company.theteam.description": "<p>VIBBIO is run by a team of marketing- design- media– and tech specialists, with deep understanding of how to reach a target market – and create strong and lasting visibility.</p><p>We love what we do – and having fun while doing it!</p>",
-
+		"public.pages.company.theteam.admin.title": "Management and the team",
+		"public.pages.company.theteam.board.title": "Board & Advisors",
+		
 		"public.pages.company.customers.title": "Our customers",
 		"public.pages.company.customers.description": "<p>Wherever and whenever there’s a need for video – we can tailor a solution that works.</p><p>Here’s a selection of some videos we have produced.</p>",
 		"public.pages.company.customers.button.1": "PORTFOLIO",
