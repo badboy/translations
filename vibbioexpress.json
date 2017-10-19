@@ -311,6 +311,7 @@
 		"user.settings.change.password.success.header": "Password changed!",
 		"user.settings.change.password.success.body": "Your password has been successfully changed.",
 		
+		"user.settings.temporary.password.text": "Change the temporary password from your email to a new one.",
 		
 		"ordering.menu.title": "Order video",
 		"ordering.menu.step.1": "1",
