@@ -642,6 +642,21 @@
 
 		"public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
 		"public.pages.company.theteam.board.5.title": "Communication Specialist",
+		
+		
+		
+		"public.pages.company.jobs.description": "<p>At VIBBIO, you’ll help build a video platform community.</p><p>Creating radical new opportunities for the use of video as a tool, connecting people and services across</p><p>the globe, and basically excel in doing things never tried before.</p><p>We are always on the lookout for talent.</p><p>So, if you like a challenge, be sure to get in touch!</p><p>recruitment@vibbio.com</p>",
+		"public.pages.company.jobs.hiring.title": "We are currently hiring:",
+		"public.pages.company.jobs.job.back.button": "Back",
+		"public.pages.company.jobs.section.1": "Sales/Marketing",
+		"public.pages.company.jobs.job.1.1": "Head of Sales (Oslo)",
+		"public.pages.company.jobs.job.1.1.description": "<p>We are looking for a head of sales to run our office in <b>Oslo</b></p>",
+		"public.pages.company.jobs.job.1.2": "Key Account Manager (Oslo)",
+		"public.pages.company.jobs.job.1.2.description": "<p>I have no idea what this person is going to do.. </p>"; 
+		"public.pages.company.jobs.section.2": "Tech",
+		"public.pages.company.jobs.job.2.1": "Senior Developer (Oslo)",
+		"public.pages.company.jobs.job.2.1.description": "<p>We are looking for a senior developer (Front-end!) to join our amazing tech team! </p>", 
+		
 
 		"public.pages.signup.loggedin.heading": "Uh oh! Looks like you're already logged in.",
 		"public.pages.signup.loggedin.info": "We appreciate your eagerness, but you can't sign up again while you are logged in.",
