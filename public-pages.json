@@ -659,7 +659,7 @@
 		"public.pages.company.jobs.job.2.1.description": "<p>We are looking for a senior developer (Front-end!) to join our amazing tech team! </p>", 
 		
 		
-		"public.pages.company.community.image.banner.text": "<p><b>You can be a valuable part of the VIBBIO platform community.</b></p><p>We are building a marketplace solution within our platform,</p><p>enabling connections between talented resources and our </p><p>existing customers and users.</p><p><b>We are always on the lookout for talent.</b></p>",
+		"public.pages.company.community.image.banner.text": "<div class=\"mb-3\"><p><b>You can be a valuable part of the VIBBIO platform community.</b></p></div><div class=\"mb-2\"><p>We are building a marketplace solution within our platform,</p><p>enabling connections between talented resources and our </p><p>existing customers and users.</p></div><p><b>We are always on the lookout for talent.</b></p>",
 		"public.pages.company.community.signup.title": "Apply to join our selected partners",
 		"public.pages.company.community.signup.description": "<p>Welcome to VIBBIO’s community.</p><p>To apply for a listing amongst our specialists, please fill in the details below.</p>",
 		"public.pages.company.community.name.label": "Name:",
