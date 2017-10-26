@@ -356,8 +356,7 @@
 		"ordering.format.about": "Choose the format based on the chosen platform.",
 		"ordering.length.about": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
 
-		"ordering.summary.channel.label": "Channel: ",
-		"ordering.summary.format.label": "Format: ",
+		"ordering.summary.formats.label": "Formats: ",
 		"ordering.summary.length.label": "Length: ",
 		"ordering.summary.price.label": "Credit cost: ",
 		"ordering.summary.files.timestamp.from": "From: {from} - {to}",
