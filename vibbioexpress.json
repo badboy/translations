@@ -989,7 +989,18 @@
 		"public.pages.company.customers.existing.url": "https://storage.googleapis.com/vibbio/customers.png",
 		"public.pages.company.customers.existing.description": "Selvaag Bolig, Aker BioMarine, Adecco, Aker Solutions, Evry, NHO, Microsoft, Orkla, Sapa Group, Visma, Danske Bank, Gelato",
 
-
+		"public.pages.company.jobs.description": "<div class=\"image-description-bulk\"><p><b>At VIBBIO, you’ll help build a video platform community.</b></p><p>Creating radical new opportunities for the use of video as a tool, </p><p>connecting people and services across the globe, </p><p> and basically excel in doing things never tried before.</p></div><div class=\"image-description-bulk\"><p><b>We are always on the lookout for talent.</b></p><p>So, if you like a challenge, be sure to get in touch!</p><p>jobs@vibbio.com</p></div>",
+		"public.pages.company.jobs.hiring.title": "We are currently hiring:",
+		"public.pages.company.jobs.job.back.button": "Back",
+		"public.pages.company.jobs.section.1": "Sales/Marketing",
+		"public.pages.company.jobs.job.1.1": "Head of Sales (Oslo)",
+		"public.pages.company.jobs.job.1.1.description": "<p>We are looking for a head of sales to run our office in <b>Oslo</b></p>",
+		"public.pages.company.jobs.job.1.2": "Key Account Manager (Oslo)",
+		"public.pages.company.jobs.job.1.2.description": "<p>I have no idea what this person is going to do.. </p>",
+		"public.pages.company.jobs.section.2": "Tech",
+		"public.pages.company.jobs.job.2.1": "Senior Developer (Oslo)",
+		"public.pages.company.jobs.job.2.1.description": "<p>We are looking for a senior developer (Front-end!) to join our amazing tech team! </p>", 
+		
 
 		"public.pages.landingpage.video.url.id": "231544979",
 		"public.pages.landingpage.examples.video.url.id.1": "230135182",
