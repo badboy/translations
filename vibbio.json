@@ -327,7 +327,7 @@
 		"ordering.title": "Video Order",
 
 		"fileuploading.uploader.browse.box": "{browse} or drag & drop",
-		"fileuploading.preview.video.not.available": "<p>We are currently processing your video.</p><p>For large files, this can take 2-3 hours.</p><p>You will unfortunately not be able to view the video before we have successfully processed it.</p>",
+		"fileuploading.preview.video.not.available": "<p class=\"highlight\">We are currently processing your video.</p><p>For large files, this can take 2-3 hours.</p><p>You will unfortunately not be able to view the video before we have successfully processed it.</p>",
 
 		"ordering.order.error.title": "Error when fetching order",
 		"ordering.order.fetch.error.message": "We are currently unable to fetch your order. Please go back to the orders or drafts menu and try again.",
