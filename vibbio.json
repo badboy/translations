@@ -327,6 +327,7 @@
 		"ordering.title": "Video Order",
 
 		"fileuploading.uploader.browse.box": "{browse} or drag & drop",
+		"fileuploading.preview.video.not.available": "<p>We are currently processing your video.</p><p>It is not For large files, this can take 2-3 hours.</p><p>You will not be able to view the video before we have successfully processed it.</p>",
 
 		"ordering.order.error.title": "Error when fetching order",
 		"ordering.order.fetch.error.message": "We are currently unable to fetch your order. Please go back to the orders or drafts menu and try again.",
@@ -606,7 +607,7 @@
 		"public.pages.faq.section.1": "General",
 		"public.pages.faq.section.1.subsection.1": "The order process",
 		"public.pages.faq.section.1.subsection.1.question.1": "My clips are too long to upload, what can I do?",
-		"public.pages.faq.section.1.subsection.1.answer.1": "While we are in beta, the maximum file size is 700 MB. If you have a larger file, send it to help@vibbio.com and we can upload it for you.",
+		"public.pages.faq.section.1.subsection.1.answer.1": "Maximum file size is currently 20GB, but large files will take time to upload. If you have a larger file, send it to help@vibbio.com and we can upload it for you.",
 		"public.pages.faq.section.1.subsection.1.question.2": "Can I make  changes once I’ve placed an order?",
 		"public.pages.faq.section.1.subsection.1.answer.2": "As the video is based on your instructions, you can use your credits to make changes or create a new version.",
 		"public.pages.faq.section.1.subsection.1.question.3": "What file types can I upload?",
@@ -1137,7 +1138,7 @@
 
 
 		"fileuploading.uploader.modal.title": "Choose files to upload",
-		"fileuploading.uploader.modal.description": "Max file size is 700MB. Allowed file types: jpeg, jpg, png, ai, eps, photoshop, tif, tiff, cr2, h.264, h.265, mp4, mpeg, m4v, mts, m2ts, mov, quicktime, mp3, wav, aiff, aif, aifc, aac, m4a, ogg, oga, wma.",
+		"fileuploading.uploader.modal.description": "Max file size is 20GB. Allowed file types: jpeg, jpg, png, ai, eps, photoshop, tif, tiff, cr2, h.264, h.265, mp4, mpeg, m4v, mts, m2ts, mov, quicktime, mp3, wav, aiff, aif, aifc, aac, m4a, ogg, oga, wma.",
 		"email.internal.subjects.order.confirmation": "VIBBIO: Order confirmation",
 		"email.internal.subjects.contact.form": "VIBBIO: Contact request",
 		"email.internal.subjects.productions.ordered": "VIBBIO: Production services ordered",
