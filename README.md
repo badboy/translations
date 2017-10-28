@@ -9,7 +9,7 @@
 
 All text content is stored in a json structure with key-value (try to create keys descriptive for the value content).
 
-Text content is displayed with react-intl, mostly `FormattedMessage` or `FormattedHTMLMessage`, sometimes with `formatmessage` directly from `intl` (ex: for getting json-structure to get hold of unknown structure -  quick fix ).
+Text content is displayed with react-intl, mostly `FormattedMessage` or `FormattedHTMLMessage`, sometimes with `formatmessage` directly from `intl`.
 
 NB! Keys (if correcting) have to be changed in both text content-file and project.
 
