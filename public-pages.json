@@ -32,6 +32,7 @@
 		"public.header.company.menu.3.subtitle": "USERS, CUSTOMERS & PORTFOLIO",
 		"public.header.company.menu.4.title": "Jobs",
 		"public.header.company.menu.4.subtitle": "  ",
+		
 
 		"public.plan.rows.1": "   ",
 		"public.plan.rows.2": "Cost per month",
@@ -280,249 +281,14 @@
 		"footer.link.press": "Press",
 		"footer.link.jobs": "Jobs",
 		"footer.link.community": "Community",
-
+		
 		"footer.resources.title": "Resources",
 		"footer.link.support": "Support",
 		"footer.link.contact": "Contact",
 		"footer.link.faq": "FAQ",
 		"footer.link.privacy": "Privacy & terms",
 
-		"private.header.library": "Library",
-		"private.header.drafts": "Drafts",
-		"private.header.order.video": "Order video",
-		"private.header.vibbio.store": "VIBBIO Shop",
-		"private.header.my.videos": "Videos",
 		
-		"private.header.profile.menu.my.library": "My library",
-		"private.header.profile.menu.user.settings": "Settings",
-		"private.header.profile.menu.switch.organization": "Choose company",
-		"private.header.profile.menu.show.intro": "Intro",
-		"private.header.profile.menu.log.out": "Log out",
-		
-		"user.home.choose.organization.heading": "Choose company:",
-		"user.settings.title": "Settings",
-		"user.settings.settings.for.all.companies.header": "Settings for each company",
-		"user.settings.settings.for.super.companies.header": "Settings for multi company",
-		"user.settings.change.password.title": "Change password",
-		"user.settings.change.password.new.password.label": "New password",
-		"user.settings.change.password.confirm.password.label": "Confirm password",
-		"user.settings.change.password.button.cancel": "Cancel",
-		"user.settings.change.password.button.proceed": "Save",
-		"user.settings.change.password.error": "There was a problem when changing your password. Please try again.",
-		"user.settings.change.password.success.header": "Password changed!",
-		"user.settings.change.password.success.body": "Your password has been successfully changed.",
-		
-		"user.settings.temporary.password.text": "Change the temporary password from your email to a new one.",
-		
-		"ordering.menu.title": "Order video",
-		"ordering.menu.step.1": "1",
-		"ordering.menu.step.1.description": "Description",
-		"ordering.menu.step.2": "2",
-		"ordering.menu.step.2.description": "Details",
-		"ordering.menu.step.3": "3",
-		"ordering.menu.step.3.description": "Order form",
-		"ordering.menu.step.4": "4",
-		"ordering.menu.step.4.description": "Summary",
-
-		"ordering.title": "Video Order",
-
-		"fileuploading.uploader.browse.box": "{browse} or drag & drop",
-
-		"ordering.order.error.title": "Error when fetching order",
-		"ordering.order.fetch.error.message": "We are currently unable to fetch your order. Please go back to the orders or drafts menu and try again.",
-
-		"ordering.project.name": "Project name",
-		"ordering.description.example.title": "Example",
-		"ordering.description.next.button": "Next: Details",
-		"ordering.format.title": "Format",
-		"ordering.length.title": "Length",
-		"ordering.details.next.button": "Next: Order form",
-		"ordering.next.button.text": "Continue",
-		"ordering.back.button.text": "Back",
-		"ordering.files.time.start.description": "From",
-		"ordering.files.time.end.description": "To",
-
-		"ordering.extra.material.title": "Extra Material",
-		"ordering.extra.material.description": "If you have extra clips and images that can be used if needed, please add those here:",
-		"ordering.extra.material.add.button.text": "Add extra material",
-
-		"ordering.order.form.next.button.text": "Next: Summary",
-		"ordering.price.header": "Total credit cost",
-		"ordering.total.price": "Total credit cost: {price}",
-		"ordering.price.estimat.compute.error": "Error when computing price estimat",
-		"ordering.price.information.regular.user": "<b>Information:</b> {price} equals to 15.000 NOK and you will receive an invoice for your order.",
-		"ordering.price.too.few.credits": "You do not have enough credits to complete the order!",
-		"ordering.price.credits.left": "Total credits left: {totalLeft}",
-
-		"ordering.format.about": "Choose the format based on the chosen platform.",
-		"ordering.length.about": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
-
-		"ordering.summary.format.label": "Format: ",
-		"ordering.summary.formats.label": "Formats: ",
-		"ordering.summary.length.label": "Length: ",
-		"ordering.summary.price.label": "Credit cost: ",
-		"ordering.summary.files.timestamp.from": "From: {from} - {to}",
-		"ordering.summary.files.clip.order": "Order",
-		"ordering.summary.files.clip.header": "Clip/Image",
-		"ordering.summary.files.filetext.header": "Text",
-		"ordering.summary.files.comment.header": "Comment",
-		"ordering.summary.files.translation.header": "Translation",
-		"ordering.summary.extra.material.title": "Extra material",
-		"ordering.summary.order.button.text": "Confirm & order",
-		"ordering.summary.confirm.order.title": "Have you finished your order?",
-		"ordering.summary.confirm.order.description": "We will start creating your video when you click \"Confirm\".",
-		"ordering.summary.not.enough.credits": "You only have {creditsLeft} credits left and need {price} credits to complete the order. If you like you could purchase additional credits to be able to complete the order",
-
-		"ordering.order.success.OK.title": "Thanks for your order!",
-		"ordering.order.success.ORDERED.title": "Here's what you ordered:",
-		"ordering.order.success.COPIED.title": "Your VIBBIO order is confirmed:",
-		"ordering.order.success.COPIED.description": "We will send you the completed video within a couple of days",
-		"ordering.order.success.COMPLETED.title": "Order summary",
-		"ordering.order.success.go.home.button": "Return to homepage",
-		"ordering.order.success.OK.description": "We will send you the completed video within a couple of days",
-		"ordering.order.success.ORDERED.description": "We will send you the completed video within a couple of days",
-		"ordering.order.success.COMPLETED.description": "Your video is finished and is available under \"Finished Videos\".",
-		"ordering.order.success.questions": "<p>Our team is happy to help if you have any questions.</p><p>You can reach us anytime at <a href=\"mailto:hello@vibbio.com\" class=\"vibbio-link\">hello@vibbio.com</a></p>",
-
-		"ordering.order.success.version.info.title": "Version information",
-		"ordering.order.success.version.type.label": "Version type: ",
-		"ordering.order.success.version.creditcost": "Credit cost",
-		"ordering.order.success.version.gotoorders": "Go to my orders",
-		"ordering.order.success.NEW_INTRO_OUTRO.description": "This version contains a new intro or outro from the original version. Change: ",
-		"ordering.order.success.NEW_INTRO_OUTRO.oldFile": "Old {switched}: ",
-		"ordering.order.success.NEW_INTRO_OUTRO.newFile": "New {switched}: ",
-		"ordering.order.success.NEW_INTRO_OUTRO.filedescription": "Description: ",
-		"ordering.order.success.CHANGE_IMAGE_CLIP.oldFile": "Old clip/image: ",
-		"ordering.order.success.CHANGE_IMAGE_CLIP.newFile": "New clip/image: ",
-		"ordering.order.success.CHANGE_IMAGE_CLIP.filedescription": "Description: ",
-		"ordering.order.success.CHANGE_TEXT.description": "This version contains a single change of text: ",
-		"ordering.order.success.NEW_FORMAT.description": "This version has a different format than the original version. New format: ",
-		"ordering.order.success.NEW_LANGUAGE.description": "This version contains a new language.",
-		"ordering.order.success.copied.from": "New version of order: ",
-
-
-		"ordering.order.ordered.delivery": "You will find the completed order in Finished Videos in a couple of days.",
-		"ordering.order.ordered.questions": "Our team is happy to help if you have any questions. You can reach us anytime at hello@vibbio.com",
-
-		"orders.new.version.title": "Order a new version",
-		"orders.new.version.project.title": "Project title",
-		"orders.new.version.quick.title": "Quick",
-		"orders.new.version.medium.title": "Medium",
-		"orders.new.version.description.undefined": "Choose new version type",
-		"orders.new.version.description.undefined.about": "   ",
-		"orders.new.version.description.NEW_INTRO_OUTRO": "New intro/outro",
-		"orders.new.version.description.NEW_INTRO_OUTRO.about": "Change intro or outro on an exisiting video.",
-		"orders.new.version.description.CHANGE_IMAGE_CLIP": "Change 1 clip/image",
-		"orders.new.version.description.CHANGE_IMAGE_CLIP.about": "Choose which clip/image you want to change, and upload your new clip with a description about how you want your clip/image to be used. Make sure to include what parts of the new clip you want used (i.e. 00:14-00:20)",
-		"orders.new.version.description.CHANGE_TEXT": "Change 1 text",
-		"orders.new.version.description.CHANGE_TEXT.about": "Give a description about which text you want to change and how you want to change it.",
-		"orders.new.version.description.NEW_FORMAT": "New format",
-		"orders.new.version.description.NEW_FORMAT.about": "Choose the new format of your video.",
-		"orders.new.version.description.NEW_LANGUAGE": "New language",
-		"orders.new.version.description.NEW_LANGUAGE.about": "Add your new language in the text box next to the text you want to switch out.",
-		"orders.new.version.description.NEW_MUSIC": "New music",
-		"orders.new.version.description.NEW_MUSIC.about": "Upload the new music you want to add to your video",
-		"orders.new.version.proceed.button": "Proceed",
-		"orders.new.version.intro.outro.choose": "Do you want a new intro or outro?",
-		"orders.new.version.intro.outro.upload.new.file": "Upload and describe your new content",
-		"orders.new.version.intro.label": "New intro",
-		"orders.new.version.outro.label": "New outro",
-		"orders.new.version.intro.outro.choose.required.message": "This field is required",
-		"orders.new.version.intro.outro.upload.textfield.tooltip": "Describe the changes you want to your new intro/outro. Make sure to include time stamps if it is a video clip, and remember to tell us what text you want to place on the image/clip.",
-		"orders.new.version.intro.outro.fileupload.required.message": "You must upload a file",
-
-		"orders.new.version.language.fileText.header": "Original file text",
-		"orders.new.version.language.comment.header": "Comments",
-		"orders.new.version.language.translation.header": "New translation",
-
-		"orders.new.version.change.clip.original.image.header": "Original clip/image",
-		"orders.new.version.change.clip.original.filetext.header": "Original file text",
-		"orders.new.version.change.clip.original.comment.header": "Original comment",
-		"orders.new.version.change.clip.add.new.clip.title": "Upload your new clip",
-		"orders.new.version.change.clip.add.description.title": "Add a description about how you want your clip/image to be used.",
-		"orders.new.version.finish.button": "Order video",
-		"orders.new.version.confirmation.modal.delete.draft": "Are you sure you want to delete your new version?",
-		"orders.new.version.delete.draft.button.text": "Delete draft",
-		"orders.new.version.save.draft.button.text": "Save draft",
-
-
-		"orders.new.version.row.content.add.new.file": "Choose another file",
-		"orders.new.version.row.content.add.file": "Choose file",
-
-		"orders.new.version.order.success.title": "New version successfully ordered!",
-
-
-		"orders.new.version.confirmation.modal.title": "Have you finished your order?",
-		"orders.new.version.confirmation.modal.description": "Finished your order by clicking \"Confirm\".",
-
-		"library.banner.modal.title": "Select the file you want to use",
-		"library.banner.modal.select.button.text": "Use file",
-		"library.banner.modal.cancel.button.text": "Cancel",
-
-
-		"store.production.title": "Book specialist help",
-		"store.production.description": "<p>Would you like to book sessions with a video producer for filming or a content specialist for text/story assistance?</p><p>Click on your wanted service below, and fill in a short message detailing wanted date.</p>",
-
-		"store.production.option.1": "FILMING_3HOURS",
-		"store.production.option.1.description": "3 hour filming session",
-		"store.production.option.FILMING_3HOURS.description": "3 hour filming session",
-		"store.production.option.2": "CONTENT_3HOURS",
-		"store.production.option.2.description": "3 hour content session / workshop",
-		"store.production.option.CONTENT_3HOURS.description": "3 hour content session / workshop",
-		"store.production.price.total.cost": "Total credit cost",
-		"store.production.textarea.label": "Your message with details and wanted timing",
-		"store.production.textarea.description": "Your message with details and wanted timing",
-		"store.production.textarea.placeholder": "Your message with details and wanted timing",
-		"store.production.order.button.text": "Book",
-		"store.production.cancel.button.text": "Cancel",
-
-		"store.production.confirm.modal.title": "Confirm your booking",
-		"store.production.confirm.modal.description.1": "You are about to buy {option}. {value} credits will be subtracted from your available credits.",
-		"store.production.confirm.modal.description.2": "Our team will contact you to schedule the session.",
-
-		"store.production.confirmation.title": "Your booking is received",
-		"store.production.confirmation.description": "<p>You will receive a confirmation email and we will contact you soon to schedule your session.</p>",
-		"store.production.confirmation.return.button.text": "Return to homepage",
-
-
-
-		"library.banner.title": "My library",
-
-		"orders.orders.title": "My orders",
-		"orders.order.status.CREATED": "Draft (not started)",
-		"orders.order.status.IN_PROGRESS": "Draft",
-		"orders.order.status.COPIED": "Draft (new version)",
-		"orders.order.status.ORDERED": "In progress",
-		"orders.order.status.COMPLETED": "Order finished",
-		"orders.order.details": "Details",
-		"orders.order.copy": "Copy",
-		"orders.table.order.id": "Order id",
-		"orders.table.order.title": "Project name",
-		"orders.table.order.ordered": "Date",
-		"orders.table.order.ordered.by": "Ordered by",
-		"orders.table.order.status": "Status",
-
-		"profile.information.subscription.credits.title": "Monthly credit status",
-		"profile.information.subscription.credits.expires": "Expires: {date}",
-		"profile.information.additional.credits.title": "Additional credits",
-		"profile.information.additional.credits.purchase": "Purchase",
-
-		"profile.information.order.production.help.filming": "Need filming or text help?",
-		"profile.information.order.production.contact": "Book here",
-
-		"purchase.credits.title": "Purchase additional credits",
-		"purchase.credits.description": "(Extra credits automatically roll over)",
-		"purchase.option.sum": "{currency}: {sum} ",
-		"purchase.option.choose.button.text": "Select",
-		"purchase.credits.confirmation.title": "Credits purchased!",
-		"puchase.credits.confirmation.description": "You have successfully purchased {numberOfCredits} credits. The purchase will be added to next invoice.",
-		"purchase.credits.modal.title": "Confirm purchase",
-		"purchase.credits.modal.credits": "You are about to buy { option } credits.",
-		"purchase.credits.modal.sum": "{sum} {currency} will be added to your next invoice.",
-		"purchase.credits.modal.cancel": "Cancel",
-		"purchase.credits.modal.complete.order": "Complete purchase",
-
-
 		"components.contact.form.reset.form": "Click here",
 		"components.contact.form.error.reset.form": "Do you want to try again?",
 		"components.contact.form.success.reset.form": "Do you want to send another question?",
@@ -567,28 +333,6 @@
 		"public.landingpage.examples.video.3": "216797388",
 		"public.landingpage.examples.video.3.description": "Text description of video",
 
-		"landingpage.vibbio.header": "VIBBIO",
-		"landingpage.vibbio.description": "Video production on-demand",
-		"landingpage.get.inspired.header": "Get inspired",
-		"landingpage.order.video.header": "Order a video",
-		"landingpage.about.vibbio.header": "About VIBBIO",
-		"landingpage.become.a.user.header": "Become a user",
-
-		"landingpage.about.product": "Products and services",
-		"landingpage.about.the.team": "The team",
-		"landingpage.about.contact.info": "Contact info",
-		"landingpage.about.the.company": "The company",
-
-		"landingpage.get.inspired.ideas": "Video ideas",
-		"landingpage.get.inspired.smart.videos": "Smart video explained",
-		"landingpage.get.inspired.get.started": "Get started",
-		"landingpage.get.inspired.portfolio": "Portfolio",
-		"landingpage.get.inspired.blog": "Blog",
-
-		"landingpage.become.user.pricing": "Pricing and options",
-		"landingpage.become.user.benefits": "User benefits",
-
-		"landingpage.order.video.pricing": "Pricing and options",
 
 		"public.pages.get.started.examples.header": "Examples",
 		"public.pages.get.started.examples.url.1": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvibbio%2Fvideos%2F1773053102724267%2F&show_text=0&width=400",
@@ -718,198 +462,6 @@
 		"terms.and.conditions.title": "Terms and Conditions",
 		"terms.and.conditions": "<h2 class=\"small-vibbio-header content-bulk\">VIBBIO ONLINE SUBSCRIPTION AGREEMENT</h2><p>The following online subscription agreement “Agreement” forms the terms of supply for the Vibbio Platform available on vibbio.com.</p> <p>The website vibbio.com is owned and operated by Vibbio AS (“Vibbio”), a Norwegian private limited company residing at Idrettsveien 16B, 1358 Jar, Norway (org. no. 916 722 516). Vibbio may be contacted at hello@vibbio.com.</p><p>The Vibbio Platform (“the Platform”) is a cloud based platform where you may upload and store your own video, sound and images (“Raw Material”). The Platform offers a number of different editing services that enables you to create new material based on your Raw Material (“the Products”). Raw Material may also be produced by Vibbio as an additional service, see Section 2 below. </p> <p><strong>Subscription options and ordering process</strong></p> <p>Vibbio offers the following three subscription plans with a monthly subscription fee:</p> <ul><li>Basic</li><li>Plus</li><li>Premium</li></ul> <p>A given number of monthly credits, delivery time, storage space and user licenses are provided in each of the three subscription plans. The price and content of each subscription plan is detailed on the website vibbio.com.</p> <p>All services in the Platform are paid with the monthly credits. Additional credits may be purchased at any time if the monthly awarded credits are insufficient. You are also free to change between the three different subscription plans at any time. There are no cancellations fees for switching to another subscription plan.</p> <p>By upgrading to a Plus or Premium subscription you will immediately get access to all the additional features. The subscription fee for the Plus or Premium subscription is due upon placing the order, with the amount already paid for in the current month for the previous subscription plan deducted. When downgrading to a less expensive subscription plan, you will keep access to all additional features to the end of the current month. The monthly subscription fee already paid in the current month for the more expensive subscription plan is non-refundable.</p> <p>Vibbio also offers a trial subscription plan for free, with limited storage space and no monthly credits awarded. To order services in the trial subscription plan you will need to purchase additional credits. There is no time limitation on the trial subscription plan. All prices are excluding value added tax (VAT).</p><p>You are responsible for providing us with correct and updated contact information. Vibbio is not liable for the failure of providing you with an order confirmation due to incorrect registration of your contact information.</p><p><strong>Additional Services</strong></p><p>Vibbio also offers the following services (“Additional Services”) in addition to the standard services available on the Platform:</p> <ol><li>Recording session with one producer (3 consecutive hours)</li><li>Content workshop with a content specialist to create a detailed plan and manuscript for your video (3 consecutive hours)</li></ol><p>The services may be combined. If you only order the recording session, you are solely responsible for providing the plan and manuscript in time for the scheduled recording session.The delivery time and technical information is detailed on the website vibbio.com. Raw Material produced by Vibbio in connection with the Additional Services will be uploaded to your user account in the Platform. Vibbio retains ownership to the Raw Material, and access to the Raw Material is contingent on a valid subscription, c.f. Section 9.1 below. You retain ownership to the plan and manuscript produced in connection with content workshops.</p><p>This service is subject to availability You may request Additional Services by placing an order in the Platform. We will reply to your request as soon as possible with a response to whether we can deliver the additional services or not, with a proposed production date. You may cancel the order within two hours after the order has been placed. You are required to notify us as soon as possible and no later than 24 hours prior to the commencement of the production if you need to reschedule the production date we have proposed for you. No-show or late notification is charged with full rates.</p><p>The delivery time and technical information is detailed on the website vibbio.com. All video recording by Vibbio will be uploaded as Raw Material to your user account in the Platform. Vibbio retains ownership to the Raw Material and access to the Raw Material is contingent on a valid subscription, c.f. Section 9.1 below. You retain ownership to the plan and manuscript produced in the content workshop.</p><p><strong>3. Use of the Platform</strong></p><p><strong>3.1 Username and password</p></strong>Upon registration for an account with us, you will be asked to create a username and password on the Platform. The user account is personal and shall be used by one individual only. You may purchase additional user accounts by upgrading to a Plus or Premium subscription plan. You are the only authorised user of your account and, accordingly, you must not disclose your username and/or password to anyone else. You should contact us immediately upon discovering any unauthorised use of your account or error in the operation of your username and/or password.<p>3.2 Use of the Raw Material</p><p>Information about the technical requirements for the Platform, including supported file formats, is detailed on the website www.vibbio.com. Unless Vibbio has provided the Raw Material through our Video Production Service, you are solely responsible for providing Raw Material in a file format supported by the Platform. Vibbio is not liable for any corrupted files or other defects in the Raw Material provided by you, even if the defect may have been caused by technical errors on the Platform. Vibbio is offering security copies of all material uploaded on the Platform, but is not liable for any missing, corrupted or defected files. You are solely responsible for ensuring safe security copies of all your Raw Material.</p><p>3.3 Copyright, personal data and acceptable use</p><p>You hereby declare that you either own or have secured the necessary rights to the Raw Material and all other information provided by you. If applicable, you are responsible for obtaining appropriate consent and authorization to for processing personal data. You are fully responsible for ensuring that the Raw Material or other information you upload to the Platform can be legally uploaded, that the data is legal and that the data does not violate third party rights, such as privacy rights, publishing rights, copyright, contractual rights, intellectual property rights or other rights. You agree that you will not, nor allow anyone else to, use your account to:</p><ul><li>to access or attempt to access the Platform which you have not purchased or subscribed to;</li><li>to interfere with or disrupt the provision of the Platform or use the Platform in a way that interferes with anyone else&nbsp;s use of the Platform;</li><li>to further any criminal or fraudulent activity or to impersonate another person;</li><li>to breach the rights of any person (including, but not limited to rights of privacy and intellectual property rights);</li><li>to upload to the Platform any content that is unlawful, threatening, abusive, defamatory, pornographic, obscene, vulgar, indecent, or offensive; or</li><li>otherwise breach any acceptable use guidelines that we may issue from time to time.</li></ul><p><strong>3.4 Placement of orders on the Platform</strong></p><p>Placement of orders on the Platform is contingent on sufficient credits. Credits are the only valid currency for ordering services on the Platform. Additional credits may at any time be purchased on the Platform.</p><p>You will receive an order confirmation by e-mail and in your user area immediately after order placement. You may cancel your order until Vibbio has commenced on delivering your order. Only cancellations placed in the Platform are valid. The option to cancel in the Platform will be deactivated when Vibbio has commenced on delivering your order. Valid cancellations are subject to full refund of credits.</p><p><strong>Intellectual Property Rights</strong></p><p><strong>9.1 The Raw Material and the Products</strong></p><p>Vibbio retains ownership and copyright to Raw Material produced by Vibbio in accordance with Section 2. The Raw Material is only made available in the Platform and may not be downloaded or otherwise copied to other platforms or storage media. Access to the Raw Material is contingent on a valid subscription.</p><p>You retain ownership and copyright to Raw Material provided by yourself. You are granted ownership and copyright to all Products produced on the Platform. The Products may be downloaded, reproduced and editing at your own discretion.</p><p><strong>The Platform</strong></p><p>Vibbio has the exclusive and worldwide right to all intellectual property rights related to the Platform, both hardware and software, whether patentable or not and whether registered or not. This includes but is not limited to the construction, methods, concepts, designs and trademarks.</p><p>The Platform and all associated copyrights, know-how, trade secrets, trademarks and other intellectual property rights belong to us and our suppliers. The Agreement does not imply any right for the Customer beyond the limited rights of use expressly granted in the paragraph above.</p><p><strogn>10. Software License</strong></p><p>You are granted a non-exclusive and non-transferable license to use software included as the Platform (“License”).  The software and any third party software, documentation, interfaces, content, fonts and any data accompanying this License whether on disk, in read only memory, on any other media or in any other form are licensed, not sold, to you by Vibbio, for use only under the terms of this License. Vibbio and/or Vibbio&nbsp;s licensors retain ownership of the Vibbio software itself and reserves all rights not expressly granted to you. Vibbio, at its discretion, may make available or require future updates to the Vibbio software. The Vibbio software updates, if any, may not necessarily include all existing software features or new features that Vibbio releases for newer models. The terms of this License will govern any software updates provided by Vibbio that replace and/or supplement the original Vibbio software product, unless such update is accompanied by a separate license in which case the terms of that license will govern such update.</p><p>The License does not comprise the right modify, adapt, update, patch, translate, reproduce, reverse engineer, decompile or disassemble the software.</p><p><strong>11. No warranty</strong></p><p><strong>11.1 No warranty for use of the Platform</strong></p><p>Vibbio may from time to time need to temporarily suspend services on the Platform due to software updates or maintenance of the Platform. All scheduled software updates or maintenance work will be notified to you in advance. Vibbio shall correct any errors on the platform as soon as possible. Nevertheless, Vibbio offers no warranty for compliance with any particular purpose, function, specification or expectation. We may not guarantee a specific time limit for correction of errors on the Platform, and we are not liable for any loss due to errors or downtime of the Platform, c.f. Section 13.</p><p><strong>11.2 No warranty for the Products and Raw Material</strong></p><p>If you are dissatisfied with the Products or Raw Material delivered by Vibbio, you may complain to our Customer Service. Contact information to our Customer Service is detailed on the website vibbio.com. We will apply our best efforts to correct any errors in the Products or Raw Material. Nevertheless, Vibbio offers no warranty for compliance with any particular purpose, function, specification or expectation.</p><p><strong>12. Termination</strong></p><p>You may terminate this Agreement at any time, with the exception of Additional Services that are subject to additional cancellations terms, c.f. Section 2.</p><p>Upon termination of this Agreement, you lose all rights granted to you under this Agreement, including access to the Platform, Raw Material, Products and all other material made available to you on the Platform. You are responsible for downloading all Products and other downloadable material before terminating your subscription. Vibbio is not responsible for providing you with any copy of Products or other material and will delete all data within 7 days.</p> <p>Vibbio may upon prior notice terminate this Agreement in the event of you;</p><ul><li>breach any terms of this Agreement,</li><li>fail to pay within 20 days of being due, or</li><li>become insolvent or file for bankruptcy.</li></ul> <p>If you have breached this Agreement, we reserve the right to disclose all relevant information to law enforcement authorities and initiate legal proceedings against you for claims of compensation of all recoverable loss.</p> <p><strong>13. Liability</strong></p> <p>VIBBIO SHALL IN NO EVENT BE LIABLE FOR ANY LOST PROFITS, LOST SAVINGS, LOSS OF REPUTATION, LOSS OF GOODWILL, INDIRECT, INCIDENTIAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SALE OF ANY PRODUCTS OR SERVICES BY VIBBIO OR THE USE THEREOF WHETHER OR NOT SUCH DAMAGES ARE BASED ON TORT, WARRANTY, CONTRACT OR OTHER LEGAL THEORY, EVEN IF VIBBIO HAS BEEN ADVISED OR IS AWARE OF THE POSSIBILITIES OF SUCH DAMAGES.</p><p>VIBBIO&nbsp;S AGGREGATE AND CUMULATIVE LIABILITY TOWARDS YOU UNDER ANY SALE/AGREEMENT SHALL NOT EXCEED AN AMOUNT OF TEN PERCENT (10%) OF THE RELATED SALE / AGREEMENT.</p><p>ANY  CLAIM FROM YOU FOR DAMAGES MUST BE NOTIFIED TO VIBBIO WITHIN NINETY (90) DAYS OF THE DATE OF THE EVENT GIVING RISE TO ANY SUCH CLAIM, AND ANY LAWSUIT RELATIVE TO ANY SUCH CLAIM MUST BE FILED WITHIN ONE (1) YEAR OF THE DATE OF THE CLAIM.</p><p><strong>14. Indemnities</strong></p><p>YOU AGREE TO INDEMNIFY AND HOLD VIBBIO, ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, CONSULTANTS AND ADVISERS, HARMLESS FROM ANY AND ALL CLAIMS, INCLUDING BUT NOT LIMITED DAMAGES, LEGAL FEES, COST AND EXPENCES, FROM THIRD PARTIES ARISING IN CONNECTION WITH THE PRODUCTS.</p><p><strong>15. Force Majeure</strong></p><p>Vibbo shall not be responsible nor liable to you for any failure to perform its obligations to you as a result of any strikes, work stoppages or labor unrest, earthquakes, fires, floods, storms or other natural disasters, shortages of materials or supplies or availability of goods or inventory, acts of war terrorism, crimes, unrest or violence, shipping or other transportation delays or restraints, acts laws, rules or regulations of any governmental or legal authority or any other cause or circumstance beyond Vibbio&nbsp;s reasonable control whether or not foreseeable at the time of the confirmation of the order from you.</p><p>In case of such failure set forth above, the performance of Vibbio&nbsp;s obligations will be suspended for the period such failure continues, without Vibbio being responsible or liable to you for any damage resulting thereof.</p><p>In the event that the force majeure extends for a period of three (3) consecutive months (or in the event that the delay is reasonable expected by Vibbio to extend for a period of three (3) consecutive months), Vibbio shall be entitled to cancel all or any part of the Agreement without any liability towards you.</p><p><strong>16. Links to third party websites</strong></p><p>The Platform and the website vibbio.com may contain links to third-party web sites or services that are not owned or controlled by us. Vibbio is not liable for such third party sites and assumes no claim of verification of the legal status of such sites, or whether the content featured on such sites are correct, legal and acceptable.</p><p><strong>17. Amendments to this Agreement</strong></p><p>This Agreement may be updated from time to time. You will be notified of any changes to this Agreement and provided with a 30 days’ time limit to accept the new Agreement. Vibbio reserves the right to terminate this Agreement if you do not accept the updated Agreement as presented to you within the 30 calendar day time limit.</p> <p><strong>18. Severity</strong></p><p>If any part of this Agreement is found to be invalid due to mandatory statutory law or a final legal judgment, it shall only affect those parts found to be invalid. The remaining parts of this Agreement will still be enforceable.</p> <p><strong>19. Priority</strong></p><p>This Agreement have priority over any other terms, discussions, understandings and agreements between you and Vibbio.</p><p><strong>20. Dispute resolution</strong></p><p>Any dispute arising out of or in connection with this Agreement, which is not solved amicably, shall be submitted to the exclusive jurisdiction of the courts of Oslo, Norway.</p> <p><strong>21. Governing law</strong></p><p>This Agreement is governed by and construed in accordance with the laws of Norway, without regard to its conflict of law principles.</p><p><strong>22. Entry into force</strong></p><p>This Agreement enters into force upon your acceptance of this Agreement by ticking off on the box “I am authorized to accept and hereby accept this Agreement on behalf of the customer” on the website vibbio.com.</p><p><strong>Privacy Policy</strong></p><p>VIBBIO AS operates through http://www.vibbio.com. This section informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of the site and our services.</p><p>We use your personal information only for improving and providing the site. You agree to the use and collections of information by using the site.</p><p><strong>Information Collection and Use</strong></p><p>To identify or contact you while using our site and services, we will ask you to provide us with personal identifiable information.&nbsp;Personally identifiable information may include, but is not limited to your name, e-mail, phone number, billing information and company name.</p><p><strong>Log Data</strong></p><p>Whenever you visit our site we collect information sent by your browser. This log data may include information such as your computer Internet Protocol (\"IP\") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that monitor, analyze and collect all collected information.</p><p><strong>Communications</strong></p><p>We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that is crucial to the service provided by VIBBIO AS.</p><p><strong>Links To Other Web Sites</strong></p><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by VIBBIO AS. VIBBIO AS has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that VIBBIO AS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p><p><strong>Cookies</strong></p><p>See https://vibbio.com/public/cookies</p><p><strong>Security</strong>/p><p>The security of your personal information is very important to us. We strive to use commercially acceptable means to protect your personal information, but we cannot guarantee its absolute security. No method of electronic storage or transmission over the internet is 100% secure.</p><p><strong>Changes to Terms and Conditions</strong></p><p>We reserve the right, at our sole discretion, to replace or modify these Terms and Conditions at any time. We will notify you either through the email address you have provided us, or by placing a prominent notice on our website if any material changes are made to the Privacy policy. We will determine what constitutes a material change at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms and Conditions, please contact us.</p>",
 
-		"drafts.title": "Your drafts",
-		"drafts.back.button.text": "Return to homepage",
-		"drafts.draft.continue.editing": "Edit",
-		"drafts.draft.delete.draft": "Delete",
-		"drafts.draft.delete.confirmation.modal.title": "Are you sure you want to delete this draft?",
-		"drafts.draft.delete.confirmation.modal.description": "This action cannot be undone.",
-		"drafts.draft.delete": "Delete draft",
-		"drafts.draft.last.modified": "Last modified: {date} ",
-		"drafts.draft.progress": "Current progress: {progress}",
-		"drafts.no.available.drafts.title": "Your drafts",
-		"drafts.no.available.drafts.description": "You have no available drafts",
-		"drafts.no.drafts.back.button.text": "Return to homepage",
-		"drafts.draft.confirm.delete.title": "Are you sure you want to delete this draft?",
-		"drafts.draft.confirm.delete.description": "This action cannot be undone.",
-
-		"description.title": "Description",
-		"description.about.description": "We need some information to optimize the video to your needs. The more the better.",
-		"description.example.description": "We want to kick off our fall marketing campaign on Facebook with this video. With main-focus on shoes. The video should be eye-catching and fun.",
-		"description.example.title": "Example:",
-		"description.add.description.error.message": "You have to add a description about your idea!",
-
-		"public.pages.no.page.found.title": "Could not find the page you are looking for",
-		"public.pages.no.page.found.description": "Oh no, we can't find the page you are looking for. Please make sure the url is correct.",
-		"public.pages.no.page.found.return.home": "Return to homepage",
-
-
-		"breadcrumb.prefix.text": "You are here: ",
-
-		"userinfo.button.neworder.text": "Order a new video",
-		"userinfo.button.drafts.text": "See your drafts",
-		"userinfo.button.library.text": "My Library",
-		"userinfo.button.account.text": "My Account",
-		"userinfo.button.no.access.library.text": "No library access",
-
-
-		"userinfo.about.single.user": "You do not have a subscription plan.",
-		"userinfo.about.not.logged.in": "You are currently not logged in.",
-		"userbanner.public.signup.login": "Sign up/Log in",
-
-		"profile.billing.form.label.name": "Company name:",
-		"profile.billing.form.label.organizationnumber": "Organization (or vat) number:",
-		"profile.billing.form.label.contact": "Contact person for invoicing:",
-		"profile.billing.form.label.email": "Email for receiving invoices:",
-		"profile.billing.form.label.currency": "Currency",
-		"profile.billing.form.submit.success.header": "Billing information updated",
-		"profile.billing.form.submit.success.body": "Your billing information has been updated and will be used starting with your next invoice.",
-		"profile.billing.form.submit.button": "Save",
-		"profile.billing.form.cancel.button": "Cancel",
-		"profile.billing.form.default.header": "Billing information",
-		"profile.billing.info.header": "Edit your company's billing information",
-
-		"profile.billing.info.label.name": "Name: ",
-		"profile.billing.info.label.organizationnumber": "Organization number: ",
-		"profile.billing.info.label.contact": "Contact: ",
-		"profile.billing.info.label.email": "Billing e-mail: ",
-		"profile.billing.info.label.reference": "Invoice reference: ",
-		"profile.billing.info.label.language": "Language: ",
-		"profile.billing.info.label.currency": "Currency: ",
-		"profile.billing.info.label.address.streetaddress": "Street address: ",
-		"profile.billing.info.label.address.zipcode": "Zip code: ",
-		"profile.billing.info.label.address.area": "Area: ",
-		"profile.billing.info.label.address.country": "Country: ",
-		"profile.billing.info.label.phone": "Phone number: ",
-		"profile.billing.info.label.comment": "Comment: ",
-		"profile.billing.info.button.edit": "Edit your billing information",
-		"profile.billing.info.button.enter": "Billing information",
-		"profile.billing.info.default.header": "Billing information",
-		"profile.billing.info.noinfo.text": "You have not registered your billing information.",
-
-		"profile.organizationinfo.edit.header": "Edit company information",
-		"profile.organizationinfo.form.label.name": "Company name:",
-		"profile.organizationinfo.form.label.phone": "Phone:",
-		"profile.organizationinfo.form.label.email": "Email:",
-		"profile.organizationinfo.form.label.contactPerson": "Contact person:",
-		"profile.organizationinfo.form.cancel.button": "Cancel",
-		"profile.organizationinfo.form.submit.button": "Save",
-
-		"profile.account.page.title": "My account",
-		"profile.account.subscription.pack.title": "Subscription plan",
-		"profile.account.subscription.pack.chosen.pack": "Current plan",
-		"profile.account.next.subscription.pack": "Next subscription plan (starting {from}):",
-		"profile.account.subscription.pack.monthly.credits": "Monthly credits",
-		"profile.account.subscription.pack.expiration.date": "Expiration date",
-
-		"profile.account.organization.info.title": "Contact information",
-		"profile.account.organization.info.company.name": "Company name",
-		"profile.account.organization.info.contact.person": "Contact person",
-		"profile.account.organization.info.contact.email": "Contact email",
-		"profile.account.organization.info.phone": "Contact phone",
-
-
-		"profile.account.settings.title": "Company settings",
-
-		"profile.account.settings.design.profile.color.profile.label": "Colour palette",
-		"profile.account.settings.design.profile.color.profile.description": "Write in the html colour codes of your two main colours",
-		"profile.account.settings.design.profile.title": "Corporate visual profile",
-		"profile.account.settings.design.profile.color.1.label": "Color 1",
-		"profile.account.settings.design.profile.color.2.label": "Color 2",
-		"profile.account.settings.design.profile.logo.label": "Company logo",
-		"profile.account.settings.design.profile.logo.upload.error": "Error while uploading logo. Please try again.",
-		"profile.account.settings.design.profile.no.logo": "No logo uploaded",
-		"profile.account.settings.design.profile.upload.logo": "Upload your logo",
-		"profile.account.settings.design.profile.font.label": "Company font",
-		"profile.account.settings.design.profile.font.name": "Company font name: ",
-		"profile.account.settings.design.profile.font.upload.error": "Error while uploading font. Please try again.",
-		"profile.account.settings.design.profile.no.font": "No font uploaded",
-		"profile.account.settings.design.profile.upload.font": "Upload your font",
-		"profile.account.settings.design.profile.back.button.text": "Back to My Account",
-		"profile.account.settings.design.profile.auto.save": "All changes to your corporate visual profile are saved automatically.",
-
-		"profile.account.settings.team.members.add.member.title": "Team members",
-		"profile.account.settings.team.members.add.member.label": "Team member's email",
-		"profile.account.settings.team.members.add.member.button.text": "Add member",
-		"profile.account.settings.team.members.add.member.add.button.text": "Add another team member",
-		"profile.account.settings.team.members.limit.reached": "Team member limit reached. Upgrade your account to add more team members.",
-
-		"account.settings.change.subscription.title": "Change subscription",
-		"account.settings.change.subscription.confirm.modal.title": "CONFIRMATION",
-		"account.settings.change.subscription.confirm.modal.description": "Please confirm that you want to change your user plan. Your new user plan will be activated on your next renewal date.",
-		"account.settings.change.subscription.success.header": "Your user plan is now changed.",
-		"account.settings.change.subscription.success.description": "You have now successfully changed your user plan. It will be activated on your next renewal date.",
-		"account.settings.change.subscription.success.back.button.text": "Back to my account",
-
-
-		"library.files.file.rename": "New name",
-		"library.uploader.title": "Upload files to your library",
-		"library.upload.files.button": "Upload files",
-		"library.create.folder.button": "New folder",
-		"library.confirm.delete.folder": "Are you sure you want to delete the folder \"{filename}\"",
-		"library.confirm.delete.file": "Are you sure you want to delete the file \"{filename}\"",
-
-
-		"ordering.files.poster.description": "Text to be added",
-		"ordering.files.comment.description": "Comments to your file",
-		"ordering.files.add.files.button.text": "Add more rows",
-
-		"ordering.additional.files.header": "Additional files",
-		"ordering.additional.files.button.text": "Add more rows",
-		"ordering.additional.file.row.delete.row": "Delete",
-		
-		"format.title": "Choose the format of your video",
-		"format.title.number.to.choose": " (Choose 1)",
-		"format.back.button.text": "Back: Description",
-		"format.next.button.text": "Next: Choose length",
-		"formats.format.name.1": "16:9",
-		"formats.format.description.1": "Horizontal",
-		"formats.format.description.16:9": "Horizontal",
-		"formats.format.name.2": "9:16",
-		"formats.format.description.2": "Vertical",
-		"formats.format.description.9:16": "Vertical",
-		"formats.format.name.3": "1:1",
-		"formats.format.description.3": "Square",
-		"formats.format.description.1:1": "Square",
-		"formats.format.name.4": "4:5",
-		"formats.format.description.4": "Tall square",
-		"formats.format.description.4:5": "Tall square",
-
-		"length.title": "Choose the length of your video",
-		"length.title.number.to.choose": " (Choose 1)",
-		"length.back.button.text": "Back: Choose format",
-		"length.next.button.text": "Next: Visual profile",
-
-		"lengths.length.name.1": "45-60s",
-		"lengths.length.description.1": "45-60 sec",
-		"lengths.length.description.45-60s": "45-60 sec",
-		"lengths.length.name.2": "30-45s",
-		"lengths.length.description.2": "30-45 sec",
-		"lengths.length.description.30-45s": "30-45 sec",
-		"lengths.length.name.3": "15-30s",
-		"lengths.length.description.3": "15-30 sec",
-		"lengths.length.description.15-30s": "15-30 sec",
-		"lengths.length.name.4": "0-15s",
-		"lengths.length.description.4": "0-15 sec",
-		"lengths.length.description.0-15s": "0-15 sec",
-
-		"details.publishing.title": "Where do you intend to publish your video?",
-		"details.publishing.infotext.before": "Select a platform to learn what formats and lengths is ideal",
-		"details.publishing.infotext.1": "For Facebook we recommend square or tall square, up to 60 sec.",
-		"details.publishing.infotext.2": "For YouTube we recommend horizontal, 45-60 sec.",
-		"details.publishing.infotext.3": "For Instagram we recommend square or tall square, 0-30 sec.",
-		"details.publishing.infotext.4": "For Instagram story we recommend vertical, 0-15 sec.",
-		"details.publishing.infotext.5": "For websites we recommend horizontal, 45-60 sec.",
-
-		"details.publishing.name.1": "Facebook",
-		"details.publishing.name.2": "YouTube",
-		"details.publishing.name.3": "Instagram",
-		"details.publishing.name.4": "Instagram Story",
-		"details.publishing.name.5": "Website",
-
-		"finished.videos.title": "Finished videos",
-		"my.videos.title": "My videos",
-
 		"public.pages.inspiration.whyvideo.title": "Why video?",
 		"public.pages.inspiration.whyvideo.description": "<p>83 percent of marketeers said they would create more video content if they didn’t have restraints such as time and resources. </p><p>So, we started VIBBIO.</p><p>And now, you can say bye-bye to all restraints!</p>",
 		"public.pages.inspiration.whyvideo.button": "WHY VIDEO WORKS",
@@ -969,7 +521,9 @@
 
 		"public.pages.company.theteam.title": "Team VIBBIO",
 		"public.pages.company.theteam.description": "<p>VIBBIO is run by a team of marketing- design- media– and tech specialists, with deep understanding of how to reach a target market – and create strong and lasting visibility.</p><p>We love what we do – and having fun while doing it!</p>",
-
+		"public.pages.company.theteam.admin.title": "Management and the team",
+		"public.pages.company.theteam.board.title": "Board & Advisors",
+		
 		"public.pages.company.customers.title": "Our customers",
 		"public.pages.company.customers.description": "<p>Wherever and whenever there’s a need for video – we can tailor a solution that works.</p><p>Here’s a selection of some videos we have produced.</p>",
 		"public.pages.company.customers.button.1": "PORTFOLIO",
@@ -990,10 +544,7 @@
 		"public.pages.company.customers.existing.url": "https://storage.googleapis.com/vibbio/customers.png",
 		"public.pages.company.customers.existing.description": "Selvaag Bolig, Aker BioMarine, Adecco, Aker Solutions, Evry, NHO, Microsoft, Orkla, Sapa Group, Visma, Danske Bank, Gelato",
 
-		"public.pages.company.jobs.description": "<div class=\"image-description-bulk\"><p><b>At VIBBIO, you’ll help build a video platform community.</b></p><p>Creating radical new opportunities for the use of video as a tool, </p><p>connecting people and services across the globe, </p><p> and basically excel in doing things never tried before.</p></div><div class=\"image-description-bulk\"><p><b>We are always on the lookout for talent.</b></p><p>So, if you like a challenge, be sure to get in touch!</p><p>jobs@vibbio.com</p></div>",
-		"public.pages.company.jobs.hiring.title": "We are currently hiring:",
-		"public.pages.company.jobs.job.back.button": "Back",
-		"public.pages.company.jobs.no.jobs": "We are currenty not seeking any specific jobs.",
+
 
 		"public.pages.landingpage.video.url.id": "231544979",
 		"public.pages.landingpage.examples.video.url.id.1": "230135182",
@@ -1080,7 +631,7 @@
 		"public.pages.company.theteam.employee.14.phone": "+47 911 47 845",
 
 		"public.pages.company.theteam.board.1.name": "Anders Lier",
-		"public.pages.company.theteam.board.1.title": "Chariman of Nordic Impact",
+		"public.pages.company.theteam.board.1.title": "VIBBIO Board Member. Chariman of Nordic Impact",
 
 		"public.pages.company.theteam.board.2.name": "Rolf Assev",
 		"public.pages.company.theteam.board.2.title": "Partner at StartupLab",
@@ -1093,35 +644,46 @@
 
 		"public.pages.company.theteam.board.5.name": "Hans-Petter Nygård-Hansen",
 		"public.pages.company.theteam.board.5.title": "Communication Specialist",
-
-		"ordering.project.name.tooltip": "Name your video. Example: \"Fall campaign video 1\"",
-
-		"ordering.description.tooltip": "Example: We want to kick off our fall marketing campaign on Facebook with this video.The video should be eye - catching and fun.",
-
-		"ordering.publish.platform.tooltip": "Some platforms prefer square videos while others use the more standard 16:9. Let us know where you want to publish the video, and we’ll suggest a suitable format and length.",
-
-		"ordering.format.tooltip": "<p>16:9 - The standard video format that you see on ex. Youtube.</p><p>9:16 - “Vertical video”, a format optimized to fit a mobile screen.</p><p>1:1 - A normal square, perfect for Instagram, but also looks great on Facebook.</p><p>5:4 - This format is a bit taller than it is wide, so it is a step towards vertical video without being too drastic.</p>",
-
-		"ordering.length.tooltip": "Choose the length based on the chosen platform. Shorter is better on Facebook and Instagram, but on your website or Youtube, up to 60 seconds might be needed.",
-
-		"ordering.files.order.tooltip": "Place your visual content in the right order. Drag, or click arrows, to change the order of your files.",
-
-		"ordering.files.clips.tooltip": "Drop or upload your visual content into this column. If you want a plain background with text, leave the clips/image box empty. For video: remember to add timestamps so we know what part of the clip you want to use (ie. 00:11-00:25).",
-
-		"ordering.files.text.tooltip": "Add the text you want in this column. Place it next to the chosen video clip/image.",
-
-		"ordering.files.comments.tooltip": "Any specific requests for this clip? Add them here!",
-
-		"ordering.files.extra.tooltip": "Upload extra visual content here, that can be used to pad out your video, if needed.",
-
-		"profile.account.settings.design.profile.tooltip": "Upload your visual profile here. This will be used in all of your videos, unless you specify otherwise.",
-
-		"profile.account.settings.design.profile.font.tooltip": "If you are not using a Google font, you can upload your font here. We accept .OTF, .TFF and .FNT files.",
-
-		"ordering.files.column.order": "Order",
-		"ordering.files.column.clips": "Clips/Image",
-		"ordering.files.column.text": "Text to be added",
-		"ordering.files.column.comments": "Comments",
+		
+		
+		
+		"public.pages.company.jobs.description": "<div class=\"image-description-bulk\"><p><b>At VIBBIO, you’ll help build a video platform community.</b></p><p>Creating radical new opportunities for the use of video as a tool, </p><p>connecting people and services across the globe, </p><p> and basically excel in doing things never tried before.</p></div><div class=\"image-description-bulk\"><p><b>We are always on the lookout for talent.</b></p><p>So, if you like a challenge, be sure to get in touch!</p><p>jobs@vibbio.com</p></div>",
+		"public.pages.company.jobs.hiring.title": "We are currently hiring:",
+		"public.pages.company.jobs.job.back.button": "Back",
+		"public.pages.company.jobs.section.1": "Sales/Marketing",
+		"public.pages.company.jobs.job.1.1": "Head of Sales (Oslo)",
+		"public.pages.company.jobs.job.1.1.description": "<p>We are looking for a head of sales to run our office in <b>Oslo</b></p>",
+		"public.pages.company.jobs.job.1.2": "Key Account Manager (Oslo)",
+		"public.pages.company.jobs.job.1.2.description": "<p>I have no idea what this person is going to do.. </p>",
+		"public.pages.company.jobs.section.2": "Tech",
+		"public.pages.company.jobs.job.2.1": "Senior Developer (Oslo)",
+		"public.pages.company.jobs.job.2.1.description": "<p>We are looking for a senior developer (Front-end!) to join our amazing tech team! </p>", 
+		
+		
+		"public.pages.company.community.image.banner.text": "<div class=\"mb-3\"><p><b>You can be a valuable part of the VIBBIO platform community.</b></p></div><div class=\"mb-2\"><p>We are building a marketplace solution within our platform,</p><p>enabling connections between talented resources and our </p><p>existing customers and users.</p></div><p><b>We are always on the lookout for talent.</b></p>",
+		"public.pages.company.community.signup.title": "Apply to join our selected partners",
+		"public.pages.company.community.signup.description": "<p>Welcome to VIBBIO’s community.</p><p>To apply for a listing amongst our specialists, please fill in the details below.</p>",
+		"public.pages.company.community.name.label": "Name:",
+		"public.pages.company.community.email.label": "Email:",
+		"public.pages.company.community.telephone.label": "Telephone:",
+		"public.pages.company.community.city.label": "City:",
+		"public.pages.company.community.country.label": "Country:",
+		"public.pages.company.community.occupation.label": "Occupation:",
+		"public.pages.company.community.specialities.label": "Specialities:",
+		"public.pages.company.community.specialities.description": "(click one or more)",
+		"public.pages.company.community.specialities.1": "Videographer",
+		"public.pages.company.community.specialities.2": "Photographer",
+		"public.pages.company.community.specialities.3": "Content",
+		"public.pages.company.community.specialities.4": "Copywriter",
+		"public.pages.company.community.specialities.5": "Translater",
+		"public.pages.company.community.website.label": "Website/portfolio:",
+		"public.pages.company.community.comments.label": "Comments",
+		"public.pages.company.community.send.button.text": "Send",
+		"public.pages.company.community.error.page.title": "Failed to send in application",
+		"public.pages.company.community.error.page.description": "<p>We failed to send in your application.</p><p> Plese try again or send your application on email to <a href=\"mailto:hello@vibbio.com\">hello@vibbio.com </a></p>",
+		"public.pages.company.community.success.page.title": "Thank you for your application!",
+		"public.pages.company.community.success.page.description": "<p>You application was successfully sent to us!</p><p>You will receive an email as confirmation and we will contact you soon </p>",
+		
 
 		"public.pages.signup.loggedin.heading": "Uh oh! Looks like you're already logged in.",
 		"public.pages.signup.loggedin.info": "We appreciate your eagerness, but you can't sign up again while you are logged in.",
@@ -1143,14 +705,6 @@
 		
 		
 		"pages.error.page.title": "Error",
-		"pages.error.page.description": "Sorry, we are currently having problems with our application. Please try again and contact us if the problem persists.",
-		
-		"intro.TRIAL.video.url.id": "236100351",
-		"intro.BASIC.video.url.id": "236100351",
-		"intro.PLUS.video.url.id": "236100351",
-		"intro.PREMIUM.video.url.id": "236100351",
-		"intro.MULTI.video.url.id": "237072769",
-		"intro.undefined.video.url.id": "237072769",
-		"intro.video.description": "Intro video about VIBBIO."
+		"pages.error.page.description": "Sorry, we are currently having problems with our application. Please try again and contact us if the problem persists."
 	}
 }
