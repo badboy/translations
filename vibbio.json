@@ -336,11 +336,14 @@
 		"ordering.description.example.title": "Example",
 		"ordering.description.next.button": "Next: Details",
 		"ordering.format.title": "Format",
+		"ordering.format.select.format.description": "Click on wanted formats for your order: ",
 		"ordering.length.title": "Length",
 		"ordering.details.next.button": "Next: Order form",
 		"ordering.next.button.text": "Continue",
 		"ordering.back.button.text": "Back",
 		"ordering.files.timestamps.loading.time.marker": "Wait while we are loading your file",
+		"ordering.files.timestamps.time.marker.description": "Indicate your time selection",
+		
 
 		"ordering.extra.material.title": "Extra Material",
 		"ordering.extra.material.description": "If you have extra clips and images that can be used if needed, please add those here:",
