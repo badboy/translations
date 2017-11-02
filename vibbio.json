@@ -340,8 +340,7 @@
 		"ordering.details.next.button": "Next: Order form",
 		"ordering.next.button.text": "Continue",
 		"ordering.back.button.text": "Back",
-		"ordering.files.time.start.description": "From",
-		"ordering.files.time.end.description": "To",
+		"ordering.files.timestamps.loading.time.marker": "Wait while we are loading your file",
 
 		"ordering.extra.material.title": "Extra Material",
 		"ordering.extra.material.description": "If you have extra clips and images that can be used if needed, please add those here:",
