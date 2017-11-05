@@ -2,8 +2,8 @@
 
 ## Following files are available
  - vibbio.json (in use by both frontend and backend-applications in sprint/development)
- - pubic-pages.json (NOT CURRENTLY IN USE, will be used by frontend-public soon)
- - private-pages.json (NOT CURRENTLY IN USE, will be used be frontend soon)
+ - public-pages.json (NOT CURRENTLY IN USE, will be used by frontend-public soon)
+ - private-pages.json (NOT CURRENTLY IN USE, will be used by frontend soon)
 
 ## Usage of text content
 
